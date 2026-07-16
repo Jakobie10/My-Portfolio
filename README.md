@@ -1,4 +1,4 @@
-# James Olabisi Arowosoye
+# Olabisi James Arowosoye
 
 ## Bachelor of Applied Science in Information Technology
 **Ensign College**
