@@ -10,10 +10,9 @@ The solution incorporates industry best practices for cloud computing, including
 
 This project reflects my ability to analyze business requirements, design cloud-based infrastructure, and recommend practical technology solutions that align with organizational objectives.
 
-
 ---
 
-# Business Challenge
+## Business Challenge
 
 Jumia Nigeria operates in a highly competitive e-commerce market where customers expect fast, reliable, and secure online services. As transaction volumes continue to grow, traditional on-premises infrastructure can become increasingly difficult to scale, maintain, and protect against unexpected outages or cyber threats.
 
@@ -23,7 +22,7 @@ To address these challenges, I designed a hybrid cloud architecture that combine
 
 ---
 
-# Project Objectives
+## Project Objectives
 
 The primary objective of this project was to design a secure, scalable, and cost-effective hybrid cloud infrastructure that supports Jumia Nigeria's business operations and future growth.
 
