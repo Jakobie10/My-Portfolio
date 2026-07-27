@@ -73,3 +73,17 @@ The proposed solution leverages Amazon Web Services (AWS) and industry-standard 
 | **AWS CloudWatch** | Monitors system health, performance, and operational metrics. |
 | **AWS Backup** | Automates backup scheduling and recovery processes. |
 | **Virtual Private Network (VPN)** | Securely connects the on-premises environment with AWS resources to support the hybrid cloud architecture. |
+
+---
+
+# Solution Architecture
+
+The proposed solution uses a hybrid cloud architecture that combines AWS cloud services with Jumia Nigeria's existing on-premises infrastructure. This approach provides the flexibility of cloud computing while allowing the organization to retain selected workloads within its existing environment.
+
+Customer requests are first routed through Amazon CloudFront, which improves content delivery by caching frequently accessed resources closer to users. Traffic is then directed to an Elastic Load Balancer (ELB), which distributes incoming requests across multiple Amazon EC2 instances to ensure high availability and consistent application performance.
+
+The application servers communicate securely with backend databases while Amazon S3 stores backups, static website assets, and disaster recovery data. AWS Identity and Access Management (IAM) enforces role-based access control, while AWS Web Application Firewall (WAF) and AWS Shield provide protection against common web attacks and Distributed Denial-of-Service (DDoS) attacks.
+
+To support hybrid operations, a secure Virtual Private Network (VPN) connects the AWS environment to Jumia Nigeria's on-premises infrastructure, enabling secure communication between cloud resources and existing systems. Amazon CloudWatch continuously monitors system performance, availability, and resource utilization, allowing administrators to identify and respond to potential issues before they impact business operations.
+
+This architecture provides a resilient, scalable, and secure platform capable of supporting Jumia Nigeria's current operational requirements while remaining flexible enough to accommodate future business growth.
