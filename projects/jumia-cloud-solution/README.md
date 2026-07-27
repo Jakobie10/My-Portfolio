@@ -20,3 +20,19 @@ Jumia Nigeria operates in a highly competitive e-commerce market where customers
 The organization needed a cloud solution capable of supporting business growth while maintaining high availability, protecting customer data, optimizing operational costs, and ensuring business continuity. The existing infrastructure also required a flexible design that could integrate with existing systems without disrupting ongoing operations.
 
 To address these challenges, I designed a hybrid cloud architecture that combines AWS cloud services with on-premises resources. The proposed solution improves scalability, strengthens security, enhances disaster recovery capabilities, and provides a reliable foundation for future digital expansion.
+
+---
+
+# Project Objectives
+
+The primary objective of this project was to design a secure, scalable, and cost-effective hybrid cloud infrastructure that supports Jumia Nigeria's business operations and future growth.
+
+Specific objectives included:
+
+- Improve application availability through a highly available cloud architecture.
+- Increase scalability to support growing customer demand during peak shopping periods.
+- Strengthen security using industry-standard cloud security services and best practices.
+- Protect business-critical data through automated backups and disaster recovery planning.
+- Optimize infrastructure costs by leveraging AWS managed services and elastic resource allocation.
+- Integrate cloud resources with existing on-premises infrastructure to support a hybrid operating environment.
+- Create a flexible architecture that can accommodate future expansion without major infrastructure redesign.
