@@ -1,4 +1,5 @@
 # Jumia Nigeria Hybrid Cloud Solution
+`AWS` `EC2` `CloudFront` `Elastic Load Balancer` `IAM` `VPC` `Cloud Security` `Hybrid Cloud` `Disaster Recovery`
 
 > **Designing a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce platforms using Amazon Web Services (AWS).**
 
@@ -20,6 +21,22 @@
 ## Executive Summary
 
 This project presents a modern hybrid cloud architecture designed to improve scalability, security, availability, and operational efficiency for Jumia Nigeria. The proposed solution leverages Amazon Web Services (AWS) to create a resilient infrastructure capable of supporting future business growth while reducing operational complexity and strengthening disaster recovery capabilities.
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Challenge](#business-challenge)
+- [Project Objectives](#project-objectives)
+- [My Role](#my-role)
+- [Technologies Used](#technologies-used)
+- [Solution Architecture](#solution-architecture)
+- [Architecture Diagram](#architecture-diagram)
+- [Implementation Process](#implementation-process)
+- [Security Considerations](#security-considerations)
+- [Results & Expected Business Benefits](#results--expected-business-benefits)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Lessons Learned](#lessons-learned)
+- [Future Improvements](#future-improvements)
 
 ## Project Overview
 
@@ -328,3 +345,17 @@ Potential improvements include:
 - Develop automated cost optimization reports to continuously improve cloud resource utilization.
 
 These enhancements would further strengthen the organization's cloud maturity while improving operational efficiency, security, scalability, and long-term business resilience.
+
+---
+
+## Portfolio Navigation
+
+← [Back to 04-projects](../README.md)
+
+🏠 [Home](../../README.md)
+
+👤 [About Me](../../01-about/README.md)
+
+💼 [Professional Experience](../../02-experience/README.md)
+
+🛠️ [Technical Skills](../../03-skills/README.md)
