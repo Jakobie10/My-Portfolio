@@ -103,3 +103,100 @@ Business services are delivered through the Apache2 web server, while Bind9 DNS 
 Server security is strengthened through SSH hardening, UFW firewall configuration, and secure authentication practices. Regular backups are incorporated into the overall infrastructure strategy to improve resilience and support disaster recovery.
 
 This architecture provides a scalable foundation that supports organizational growth while maintaining strong security and operational efficiency.
+
+---
+
+#### Enterprise Infrastructure Architecture
+
+```text
+                              Internet
+                                  │
+                                  ▼
+                     +-------------------------+
+                     |      Amazon EC2         |
+                     | Ubuntu Server 24.04 LTS |
+                     +-----------+-------------+
+                                 │
+        ┌────────────────────────┼─────────────────────────┐
+        │                        │                         │
+        ▼                        ▼                         ▼
++----------------+      +----------------+      +----------------+
+|   Apache2      |      |   Bind9 DNS    |      |      SSH       |
+|  Web Server    |      | Domain Service |      | Remote Access  |
++----------------+      +----------------+      +----------------+
+                                 │
+                                 ▼
+                    +--------------------------+
+                    |   Linux File System      |
+                    |       (LVM Storage)      |
+                    +------------+-------------+
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+      +---------------+   +---------------+   +---------------+
+      | Users/Groups  |   | ACLs & Permissions | UFW Firewall |
+      +---------------+   +---------------+   +---------------+
+                                 │
+                                 ▼
+                      +----------------------+
+                      | AWS S3 Backup Plan   |
+                      +----------------------+
+```
+
+#### Architecture Overview
+
+The enterprise infrastructure is hosted on an Ubuntu Server 24.04 LTS instance running on Amazon EC2. Core services include Apache2 for web hosting, Bind9 for DNS, and SSH for secure remote administration.
+
+Storage is managed using Logical Volume Manager (LVM), providing flexibility for future expansion without significant downtime. Linux users, groups, and Access Control Lists (ACLs) enforce secure access to system resources, while the UFW firewall protects network services. A backup strategy using Amazon S3 strengthens disaster recovery and supports business continuity.
+
+---
+
+## Security Considerations
+
+Security was a key design priority throughout the deployment. Multiple layers of protection were implemented to reduce risk and improve system resilience.
+
+The security strategy included:
+
+- Securing remote administration through SSH configuration and key-based authentication.
+- Restricting network access using the Uncomplicated Firewall (UFW).
+- Applying the principle of least privilege through Linux user accounts, groups, and Access Control Lists (ACLs).
+- Protecting critical system files with appropriate ownership and file permissions.
+- Keeping the operating system updated with security patches.
+- Implementing regular backup procedures to support disaster recovery.
+- Monitoring system logs to identify unauthorized access attempts and operational issues.
+
+Together, these measures create a secure Linux environment that follows enterprise security best practices while maintaining system availability and ease of administration.
+
+---
+
+## Implementation Process
+
+The deployment was completed using a structured approach to ensure the infrastructure was secure, reliable, and easy to manage.
+
+#### Phase 1 – Environment Preparation
+
+- Provisioned an Ubuntu Server 24.04 LTS instance on Amazon EC2.
+- Updated the operating system and installed required packages.
+
+#### Phase 2 – Storage Configuration
+
+- Configured Logical Volume Manager (LVM).
+- Created logical volumes and mounted file systems.
+
+#### Phase 3 – Server Services
+
+- Installed and configured Apache2.
+- Configured Bind9 DNS services.
+- Verified network connectivity and service availability.
+
+#### Phase 4 – Security Hardening
+
+- Configured SSH for secure remote administration.
+- Implemented UFW firewall rules.
+- Created Linux users, groups, permissions, and ACLs.
+
+#### Phase 5 – Backup and Documentation
+
+- Planned a backup strategy using Amazon S3.
+- Documented server configuration, security settings, and administrative procedures for future maintenance.
