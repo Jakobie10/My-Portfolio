@@ -53,3 +53,23 @@ My responsibilities included:
 - Documenting the proposed solution and providing implementation recommendations based on cloud best practices.
 
 This project strengthened my ability to translate business requirements into practical cloud solutions while balancing security, scalability, performance, and cost efficiency.
+
+---
+
+## Technologies Used
+
+The proposed solution leverages Amazon Web Services (AWS) and industry-standard technologies to deliver a secure, scalable, and resilient hybrid cloud environment.
+
+| Technology | Purpose |
+|------------|---------|
+| **Amazon EC2** | Hosts scalable virtual servers for application workloads. |
+| **Amazon VPC** | Provides an isolated and secure network environment for cloud resources. |
+| **Elastic Load Balancer (ELB)** | Distributes incoming traffic across multiple instances to improve availability and performance. |
+| **Amazon CloudFront** | Delivers content with low latency through a global content delivery network (CDN). |
+| **Amazon S3** | Stores backups, static content, and disaster recovery resources securely. |
+| **AWS Identity and Access Management (IAM)** | Controls user authentication, authorization, and least-privilege access. |
+| **AWS Web Application Firewall (WAF)** | Protects web applications against common web-based attacks. |
+| **AWS Shield** | Provides protection against Distributed Denial-of-Service (DDoS) attacks. |
+| **AWS CloudWatch** | Monitors system health, performance, and operational metrics. |
+| **AWS Backup** | Automates backup scheduling and recovery processes. |
+| **Virtual Private Network (VPN)** | Securely connects the on-premises environment with AWS resources to support the hybrid cloud architecture. |
