@@ -192,3 +192,65 @@ The use of scalable cloud services allows the organization to pay only for the r
 The hybrid architecture provides a flexible platform that can support future expansion, additional applications, and emerging technologies without requiring a complete infrastructure redesign.
 
 Overall, the proposed solution aligns technology investments with business objectives by improving operational efficiency, strengthening security, supporting long-term growth, and delivering a more reliable experience for customers and employees.
+
+---
+
+## Skills Demonstrated
+
+This project strengthened both my technical and professional competencies by requiring me to evaluate business requirements, design cloud infrastructure, and recommend secure, scalable solutions.
+
+### Technical Skills
+
+- Cloud Architecture Design
+- Amazon Web Services (AWS)
+- Hybrid Cloud Infrastructure
+- Network Design
+- Identity and Access Management (IAM)
+- Cloud Security
+- Disaster Recovery Planning
+- Infrastructure Documentation
+- Systems Analysis
+- Solution Architecture
+
+### Professional Skills
+
+- Business Analysis
+- Critical Thinking
+- Problem Solving
+- Technical Communication
+- Strategic Planning
+- Decision Making
+- Project Planning
+- Risk Assessment
+
+This project demonstrates my ability to combine technical knowledge with business understanding to design practical cloud solutions that support organizational objectives.
+
+---
+
+## Lessons Learned
+
+Designing this hybrid cloud solution expanded my understanding of how cloud technologies support organizational strategy, not just technical infrastructure. Throughout the project, I recognized that successful cloud adoption requires balancing business objectives with technical requirements such as security, scalability, availability, performance, and cost efficiency.
+
+One of the most valuable lessons I learned was the importance of designing solutions around business needs rather than simply selecting technologies. Every architectural decision—from implementing load balancing to configuring backup strategies and security controls—should contribute to measurable business value.
+
+This project also strengthened my appreciation for cloud security as a shared responsibility. Rather than relying on a single security control, effective protection requires multiple layers of defense, including identity management, network security, application protection, encryption, monitoring, and disaster recovery planning.
+
+Overall, this experience enhanced my ability to think like a solutions architect by evaluating technical decisions through both engineering and business perspectives.
+
+---
+
+## Future Improvements
+
+While the proposed hybrid cloud architecture provides a secure, scalable, and resilient foundation, there are several opportunities for future enhancement as Jumia Nigeria's technology needs continue to evolve.
+
+Potential improvements include:
+
+- Implement Infrastructure as Code (IaC) using AWS CloudFormation or Terraform to automate infrastructure deployment and improve consistency.
+- Adopt containerization technologies such as Docker and Kubernetes to simplify application deployment and scaling.
+- Integrate AWS Lambda to automate operational tasks and reduce infrastructure management overhead.
+- Enhance security monitoring by implementing AWS Security Hub, Amazon GuardDuty, and AWS Config for continuous compliance and threat detection.
+- Expand disaster recovery capabilities by implementing multi-region replication for critical workloads.
+- Introduce AI-driven monitoring and predictive analytics to identify performance trends and proactively detect potential issues.
+- Develop automated cost optimization reports to continuously improve cloud resource utilization.
+
+These enhancements would further strengthen the organization's cloud maturity while improving operational efficiency, security, scalability, and long-term business resilience.
