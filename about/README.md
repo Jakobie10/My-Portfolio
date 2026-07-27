@@ -1,6 +1,6 @@
 # About Me
 
-## Hello, I'm James Arowosoye
+## Hello, I am Olabisi James Arowosoye
 
 I am an Information Technology professional with a passion for using technology to solve business problems and improve organizational efficiency. My journey into IT has been driven by curiosity, continuous learning, and a desire to create practical solutions that make a meaningful impact.
 
