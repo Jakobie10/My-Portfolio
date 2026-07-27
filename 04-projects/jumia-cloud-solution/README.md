@@ -99,6 +99,59 @@ The proposed solution leverages Amazon Web Services (AWS) and industry-standard 
 
 ## Solution Architecture
 
+---
+
+### Architecture Diagram
+
+```text
+                         +----------------------+
+                         |      Internet        |
+                         +----------+-----------+
+                                    |
+                                    v
+                         +----------------------+
+                         |   Amazon CloudFront  |
+                         +----------+-----------+
+                                    |
+                                    v
+                         +----------------------+
+                         | Elastic Load Balancer|
+                         +----------+-----------+
+                                    |
+                 +------------------+------------------+
+                 |                                     |
+                 v                                     v
+      +----------------------+             +----------------------+
+      |    EC2 Instance 1    |             |    EC2 Instance 2    |
+      |   Web/Application    |             |   Web/Application    |
+      +----------+-----------+             +----------+-----------+
+                 \                             /
+                  \                           /
+                   +-----------+-------------+
+                               |
+                               v
+                    +----------------------+
+                    |   Database Layer     |
+                    +----------+-----------+
+                               |
+          +--------------------+---------------------+
+          |                                          |
+          v                                          v
++----------------------+                 +----------------------+
+|   Amazon S3 Backup   |                 | AWS CloudWatch Logs  |
++----------------------+                 +----------------------+
+          |
+          v
++----------------------+
+| VPN to On-Premises   |
+| Infrastructure       |
++----------------------+
+```
+
+### Diagram Overview
+
+The architecture distributes incoming traffic through Amazon CloudFront and an Elastic Load Balancer before routing requests to multiple EC2 instances. Data is stored within the database layer while Amazon S3 provides backup storage. AWS CloudWatch continuously monitors system health, and a secure VPN connection enables integration with existing on-premises infrastructure, supporting a hybrid cloud environment.
+
 The proposed solution uses a hybrid cloud architecture that combines AWS cloud services with Jumia Nigeria's existing on-premises infrastructure. This approach provides the flexibility of cloud computing while allowing the organization to retain selected workloads within its existing environment.
 
 Customer requests are first routed through Amazon CloudFront, which improves content delivery by caching frequently accessed resources closer to users. Traffic is then directed to an Elastic Load Balancer (ELB), which distributes incoming requests across multiple Amazon EC2 instances to ensure high availability and consistent application performance.
