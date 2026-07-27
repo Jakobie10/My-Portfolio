@@ -30,7 +30,7 @@ The result is a scalable, secure, and maintainable server environment that suppo
 
 ---
 
-# Business Challenge
+## Business Challenge
 
 PromisedLand.com required a secure and reliable server infrastructure capable of hosting business services while ensuring high availability, strong security, and efficient system administration. Traditional standalone server deployments often face challenges related to storage flexibility, user management, security vulnerabilities, and disaster recovery.
 
@@ -40,7 +40,7 @@ To address these challenges, a cloud-based Linux infrastructure was proposed usi
 
 ---
 
-# Project Objectives
+## Project Objectives
 
 The primary objectives of this project were to:
 
