@@ -35,3 +35,21 @@ Specific objectives included:
 - Optimize infrastructure costs by leveraging AWS managed services and elastic resource allocation.
 - Integrate cloud resources with existing on-premises infrastructure to support a hybrid operating environment.
 - Create a flexible architecture that can accommodate future expansion without major infrastructure redesign.
+
+- ---
+
+## My Role
+
+As the Cloud Solutions Architect for this project, I was responsible for analyzing the organization's infrastructure requirements and designing a hybrid cloud solution that aligned with its operational and business objectives.
+
+My responsibilities included:
+
+- Analyzing Jumia Nigeria's infrastructure and business requirements.
+- Designing a secure and scalable hybrid cloud architecture using AWS.
+- Selecting appropriate AWS services based on performance, security, availability, and cost considerations.
+- Developing a cloud migration strategy that minimized business disruption.
+- Recommending security controls to protect customer data and business-critical systems.
+- Designing backup and disaster recovery strategies to improve business continuity.
+- Documenting the proposed solution and providing implementation recommendations based on cloud best practices.
+
+This project strengthened my ability to translate business requirements into practical cloud solutions while balancing security, scalability, performance, and cost efficiency.
