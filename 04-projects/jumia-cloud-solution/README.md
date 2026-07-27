@@ -1,5 +1,26 @@
 # Jumia Nigeria Hybrid Cloud Solution
 
+> **Designing a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce platforms using Amazon Web Services (AWS).**
+
+---
+
+| **Project Information** | **Details** |
+|--------------------------|-------------|
+| **Project Type** | Cloud Infrastructure Solution Proposal |
+| **Role** | Cloud Solutions Architect |
+| **Industry** | E-commerce |
+| **Cloud Platform** | Amazon Web Services (AWS) |
+| **Architecture** | Hybrid Cloud |
+| **Project Status** | Completed |
+| **Focus Areas** | Cloud Architecture, Security, High Availability, Disaster Recovery, Cost Optimization |
+| **Skills Applied** | AWS, Cloud Design, Business Analysis, Solution Architecture, Infrastructure Planning |
+
+---
+
+## Executive Summary
+
+This project presents a modern hybrid cloud architecture designed to improve scalability, security, availability, and operational efficiency for Jumia Nigeria. The proposed solution leverages Amazon Web Services (AWS) to create a resilient infrastructure capable of supporting future business growth while reducing operational complexity and strengthening disaster recovery capabilities.
+
 ## Project Overview
 
 Jumia Nigeria is one of Africa's leading e-commerce platforms, serving millions of customers through its online marketplace. As digital commerce continues to grow, the company requires an IT infrastructure that can scale efficiently, maintain high availability, and protect sensitive customer information while controlling operational costs.
