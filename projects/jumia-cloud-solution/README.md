@@ -76,7 +76,7 @@ The proposed solution leverages Amazon Web Services (AWS) and industry-standard 
 
 ---
 
-# Solution Architecture
+## Solution Architecture
 
 The proposed solution uses a hybrid cloud architecture that combines AWS cloud services with Jumia Nigeria's existing on-premises infrastructure. This approach provides the flexibility of cloud computing while allowing the organization to retain selected workloads within its existing environment.
 
