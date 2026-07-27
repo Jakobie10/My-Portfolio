@@ -132,3 +132,31 @@ The implementation of the proposed hybrid cloud solution follows a structured ap
 - Perform regular security reviews and infrastructure updates.
 
 By following this phased implementation approach, the organization can adopt cloud technologies with minimal disruption while maintaining security, operational stability, and long-term scalability.
+
+---
+
+## Security Considerations
+
+Security is a fundamental component of the proposed hybrid cloud architecture. The solution incorporates multiple layers of protection to safeguard customer information, business-critical applications, and cloud resources against unauthorized access and cyber threats.
+
+### Identity and Access Management
+
+AWS Identity and Access Management (IAM) enforces role-based access control (RBAC) and the principle of least privilege, ensuring that users and administrators have access only to the resources required to perform their responsibilities.
+
+### Network Security
+
+The cloud environment is deployed within an Amazon Virtual Private Cloud (VPC), with public and private subnets used to isolate resources based on their functions. Security Groups and Network Access Control Lists (NACLs) provide additional layers of traffic filtering and network protection.
+
+### Application Protection
+
+AWS Web Application Firewall (WAF) helps defend web applications against common attacks such as SQL injection and cross-site scripting (XSS), while AWS Shield provides protection against Distributed Denial-of-Service (DDoS) attacks that could affect service availability.
+
+### Data Protection
+
+Sensitive business and customer data is encrypted both at rest and in transit. Regular backups are stored securely using Amazon S3 and managed through AWS Backup to support disaster recovery and business continuity.
+
+### Monitoring and Compliance
+
+Amazon CloudWatch continuously monitors system performance and operational health, while centralized logging supports incident investigation and ongoing security reviews. Routine security assessments and system updates help maintain compliance with industry best practices and strengthen the organization's overall security posture.
+
+By implementing multiple layers of security controls, the proposed solution reduces operational risk while supporting a secure, resilient, and compliant cloud environment.
