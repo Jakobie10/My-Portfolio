@@ -52,3 +52,54 @@ The primary objectives of this project were to:
 - Strengthen server security through SSH hardening and UFW firewall configuration.
 - Develop a backup and recovery strategy to protect critical organizational data.
 - Demonstrate Linux system administration best practices suitable for enterprise environments.
+
+---
+
+## My Role
+
+As the Linux Systems Administrator for this project, I was responsible for designing, deploying, securing, and documenting the server infrastructure to meet the organization's operational requirements.
+
+My responsibilities included:
+
+- Planning the server architecture and deployment strategy.
+- Provisioning and configuring an Ubuntu Server 24.04 LTS instance on Amazon EC2.
+- Designing a flexible storage solution using Logical Volume Manager (LVM).
+- Configuring Linux users, groups, file permissions, and Access Control Lists (ACLs).
+- Deploying and configuring Apache2 to host web services.
+- Implementing DNS and network configuration.
+- Securing the server through SSH hardening and UFW firewall rules.
+- Developing backup and recovery recommendations to improve business continuity.
+- Producing technical documentation to support future system maintenance and administration.
+
+This project demonstrates my ability to deploy and manage enterprise Linux infrastructure while balancing security, performance, maintainability, and business requirements.
+
+---
+
+## Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| **Ubuntu Server 24.04 LTS** | Enterprise Linux operating system used to host and manage server services. |
+| **Amazon EC2** | Cloud platform providing scalable and reliable virtual server infrastructure. |
+| **Logical Volume Manager (LVM)** | Enables flexible storage allocation and future expansion without major downtime. |
+| **Apache2** | Web server used to host business web applications and services. |
+| **Bind9 DNS** | Provides domain name resolution for internal and external network services. |
+| **SSH** | Enables secure remote server administration using encrypted connections. |
+| **UFW Firewall** | Controls inbound and outbound network traffic to improve server security. |
+| **Linux Users & Groups** | Manages authentication, authorization, and administrative access. |
+| **Access Control Lists (ACLs)** | Provides granular file and directory permissions beyond standard Linux permissions. |
+| **AWS S3 (Backup Strategy)** | Supports secure backup storage and disaster recovery planning. |
+
+---
+
+## Solution Architecture
+
+The infrastructure was designed using a layered architecture to provide secure, reliable, and maintainable enterprise services.
+
+An Ubuntu Server 24.04 LTS instance hosted on Amazon EC2 serves as the core computing platform. Storage is managed through Logical Volume Manager (LVM), allowing flexible allocation of disk space and simplified future expansion.
+
+Business services are delivered through the Apache2 web server, while Bind9 DNS provides reliable name resolution for network resources. Linux user accounts, security groups, file permissions, and Access Control Lists (ACLs) ensure controlled access to system resources.
+
+Server security is strengthened through SSH hardening, UFW firewall configuration, and secure authentication practices. Regular backups are incorporated into the overall infrastructure strategy to improve resilience and support disaster recovery.
+
+This architecture provides a scalable foundation that supports organizational growth while maintaining strong security and operational efficiency.
