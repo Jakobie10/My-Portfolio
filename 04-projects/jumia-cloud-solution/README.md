@@ -160,3 +160,35 @@ Sensitive business and customer data is encrypted both at rest and in transit. R
 Amazon CloudWatch continuously monitors system performance and operational health, while centralized logging supports incident investigation and ongoing security reviews. Routine security assessments and system updates help maintain compliance with industry best practices and strengthen the organization's overall security posture.
 
 By implementing multiple layers of security controls, the proposed solution reduces operational risk while supporting a secure, resilient, and compliant cloud environment.
+
+---
+
+## Results & Expected Business Benefits
+
+Although this project was developed as a cloud solution proposal, the recommended architecture demonstrates how a well-designed hybrid cloud environment can deliver measurable value to an enterprise organization such as Jumia Nigeria.
+
+### Improved Scalability
+
+The proposed AWS infrastructure enables the organization to scale computing resources based on customer demand, ensuring consistent performance during peak shopping periods without significant infrastructure investments.
+
+### Increased Availability
+
+By incorporating Elastic Load Balancing, redundant cloud resources, and automated monitoring, the solution minimizes service interruptions and improves the reliability of customer-facing applications.
+
+### Enhanced Security
+
+Multiple security controls, including IAM, VPC, AWS WAF, AWS Shield, encryption, and continuous monitoring, work together to reduce cybersecurity risks and protect sensitive customer and business data.
+
+### Better Disaster Recovery
+
+Automated backups, secure cloud storage, and recovery planning improve business continuity by reducing recovery time and minimizing potential data loss during unexpected incidents.
+
+### Cost Optimization
+
+The use of scalable cloud services allows the organization to pay only for the resources it uses, reducing unnecessary infrastructure costs while maintaining operational flexibility.
+
+### Foundation for Future Growth
+
+The hybrid architecture provides a flexible platform that can support future expansion, additional applications, and emerging technologies without requiring a complete infrastructure redesign.
+
+Overall, the proposed solution aligns technology investments with business objectives by improving operational efficiency, strengthening security, supporting long-term growth, and delivering a more reliable experience for customers and employees.
