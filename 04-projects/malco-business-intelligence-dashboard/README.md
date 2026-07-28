@@ -26,20 +26,6 @@ Using Microsoft Power BI, with knowledge transferable to Tableau, I designed das
 
 This project demonstrates my ability to collect, analyze, model, and visualize business data using industry-standard Business Intelligence tools to support operational efficiency and strategic planning.
 
-## Project Snapshot
-
-**Role:** Business Intelligence Analyst
-
-**Industry:** Logistics & Transportation
-
-**Duration:** Academic/Portfolio Project
-
-**Tools:** Power BI, Tableau, Excel, Power Query, DAX
-
-**Key Outcome:** Developed an interactive dashboard that provides management with insights into fleet operations, inventory, fuel consumption, and maintenance performance.
-
-**Core Skills:** Business Intelligence • Data Analytics • Dashboard Design • KPI Reporting • Decision Support
-
 ---
 
 ## Business Challenge
