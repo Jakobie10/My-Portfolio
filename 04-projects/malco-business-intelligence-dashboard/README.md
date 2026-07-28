@@ -44,37 +44,6 @@ The organization required a centralized reporting solution capable of consolidat
 
 The proposed Business Intelligence solution addresses these challenges by transforming raw operational data into clear, interactive visualizations that enhance transparency, improve reporting efficiency, and support data-driven decision-making across the organization.
 
----
-
-## Project Objectives
-
-The primary objectives of this project were to:
-
-- Design an interactive Business Intelligence dashboard to monitor fleet operations and logistics performance.
-- Consolidate operational data from inventory, fuel usage, maintenance, and procurement into a centralized reporting solution.
-- Track key performance indicators (KPIs) that support operational and strategic decision-making.
-- Improve visibility into spare parts inventory, lubricant stock levels, and Automotive Gas Oil (AGO) consumption.
-- Identify operational trends, inefficiencies, and opportunities for cost optimization through data visualization.
-- Reduce reliance on manual spreadsheet reporting by providing automated, interactive dashboards.
-- Demonstrate practical Business Intelligence skills using Microsoft Power BI, with dashboard concepts adaptable to Tableau.
-- Deliver actionable business insights that improve operational efficiency, resource planning, and management reporting.
-
----
-
-## My Role
-
-As the Business Intelligence Analyst for this project, I was responsible for designing and developing an interactive reporting solution that transformed operational data into actionable business insights.
-
-My responsibilities included:
-
-- Identifying business requirements and key performance indicators (KPIs) for fleet operations.
-- Collecting and organizing operational data from inventory, fuel consumption, maintenance, procurement, and logistics activities.
-- Cleaning and preparing datasets to ensure data quality and consistency.
-- Developing interactive dashboards and visual reports using Microsoft Power BI, with designs adaptable to Tableau.
-- Creating meaningful charts, filters, and KPI cards that support management reporting.
-- Analyzing operational trends and identifying opportunities to improve efficiency and reduce costs.
-- Presenting business insights through intuitive data visualizations that support informed decision-making.
-- Documenting dashboard functionality and reporting processes for future maintenance and enhancement.
 
 - ---
 
@@ -182,16 +151,19 @@ The Business Intelligence solution includes interactive dashboards designed to p
 
 The Business Intelligence solution provides management with a centralized platform for monitoring key operational activities across fleet management, inventory, fuel consumption, and maintenance. By consolidating data into interactive dashboards, the solution improves reporting efficiency and supports faster, more informed decision-making.
 
-### Key Business Benefits
+#### Business Impact
 
-- Improved visibility into fleet and inventory operations.
-- Faster access to operational performance metrics through interactive dashboards.
-- Reduced reliance on manual spreadsheet reporting.
-- Enhanced monitoring of spare parts, lubricants, and AGO consumption.
-- Improved maintenance planning through historical trend analysis.
-- Better inventory control, reducing the risk of stock shortages or overstocking.
-- Increased operational transparency through real-time KPI reporting.
-- Stronger data-driven decision-making for logistics management.
+✔ Reduced manual reporting effort
+
+✔ Improved visibility into operational KPIs
+
+✔ Enhanced decision-making through interactive dashboards
+
+✔ Strengthened security posture
+
+✔ Improved infrastructure scalability
+
+✔ Increased operational efficiency
 
 Overall, the dashboard demonstrates how Business Intelligence can transform operational data into actionable insights that improve efficiency, reduce costs, and support continuous business improvement.
 
@@ -264,23 +236,7 @@ Potential future improvements include:
 
 These enhancements would improve scalability, automation, and strategic decision-making while supporting continuous operational improvement.
 
----
 
-## Key Achievements
-
-✅ Designed an interactive Business Intelligence solution for logistics operations.
-
-✅ Developed dashboards to monitor fleet performance, inventory, fuel consumption, and maintenance activities.
-
-✅ Consolidated operational data into a centralized reporting platform.
-
-✅ Applied data modeling, Power Query, and DAX to generate meaningful KPIs.
-
-✅ Created executive dashboards that support faster, data-driven decision-making.
-
-✅ Demonstrated proficiency in Microsoft Power BI, Tableau, and Microsoft Excel.
-
-✅ Applied Business Intelligence principles to solve real-world operational challenges within the logistics industry.
 
 ---
 
