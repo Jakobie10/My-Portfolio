@@ -333,8 +333,8 @@ These improvements would increase operational efficiency while supporting future
 
 🏠 [Home](../../README.md)
 
-👤 [About Me](../../about/README.md)
+👤 [About Me](../../01-about/README.md)
 
-💼 [Professional Experience](../../experience/README.md)
+💼 [Professional Experience](../../02-experience/README.md)
 
-🛠️ [Technical Skills](../../skills/README.md)
+🛠️ [Technical Skills](../../03-skills/README.md)
