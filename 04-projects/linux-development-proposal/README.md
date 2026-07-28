@@ -16,6 +16,18 @@
 | **Focus Areas** | Linux Administration, Cloud Infrastructure, Security Hardening, Storage Management |
 | **Skills Applied** | Linux, AWS EC2, Apache2, LVM, DNS, SSH, ACLs, UFW, System Administration |
 
+## Key Technologies
+
+- Ubuntu Server 24.04 LTS
+- Amazon EC2
+- Apache2
+- Bind9 DNS
+- Logical Volume Manager (LVM)
+- SSH
+- UFW Firewall
+- Access Control Lists (ACLs)
+- Amazon S3
+
 ---
 
 ## Executive Summary
@@ -27,6 +39,21 @@ The solution was built using Ubuntu Server 24.04 LTS and follows industry best p
 Key implementation areas included Logical Volume Manager (LVM) for flexible storage management, Apache2 web server deployment, DNS configuration, secure SSH access, firewall configuration using UFW, Linux user and group administration, Access Control Lists (ACLs), and a backup strategy for business continuity.
 
 The result is a scalable, secure, and maintainable server environment that supports enterprise workloads while demonstrating practical Linux administration and cloud engineering skills.
+
+## Table of Contents
+
+- [Business Challenge](#business-challenge)
+- [Project Objectives](#project-objectives)
+- [My Role](#my-role)
+- [Technologies Used](#technologies-used)
+- [Solution Architecture](#solution-architecture)
+- [Enterprise Infrastructure Architecture](#enterprise-infrastructure-architecture)
+- [Security Considerations](#security-considerations)
+- [Implementation Process](#implementation-process)
+- [Results & Business Benefits](#results--business-benefits)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Lessons Learned](#lessons-learned)
+- [Future Improvements](#future-improvements)
 
 ---
 
@@ -263,3 +290,51 @@ One of the most valuable lessons I learned was that system security must be cons
 The project also strengthened my understanding of cloud-based Linux administration by demonstrating how enterprise services can be deployed, secured, and maintained within AWS while remaining scalable and resilient.
 
 Overall, this experience improved both my technical confidence and my ability to design infrastructure that supports long-term organizational needs.
+
+---
+
+## Future Improvements
+
+Although the infrastructure meets the current business requirements, several enhancements could further improve scalability, security, automation, and operational efficiency.
+
+Potential future improvements include:
+
+- Automate server deployment using Infrastructure as Code (IaC) with Terraform or AWS CloudFormation.
+- Implement configuration management using Ansible to standardize server provisioning.
+- Deploy Docker containers to simplify application deployment and improve portability.
+- Introduce Kubernetes for container orchestration as business workloads expand.
+- Configure automated monitoring and alerting using Amazon CloudWatch and AWS Systems Manager.
+- Implement centralized log management with Wazuh or the ELK Stack for enhanced security monitoring.
+- Establish automated backup scheduling and recovery testing to strengthen disaster preparedness.
+
+These improvements would increase operational efficiency while supporting future business growth and infrastructure modernization.
+
+---
+
+# Key Achievements
+
+✅ Successfully designed and deployed an enterprise Linux infrastructure on AWS EC2.
+
+✅ Implemented secure storage management using Logical Volume Manager (LVM).
+
+✅ Configured Apache2, Bind9 DNS, SSH, Linux users/groups, and Access Control Lists (ACLs).
+
+✅ Strengthened infrastructure security through SSH hardening and UFW firewall configuration.
+
+✅ Developed a backup and disaster recovery strategy using Amazon S3.
+
+✅ Produced comprehensive technical documentation following enterprise infrastructure best practices.
+
+---
+
+## Portfolio Navigation
+
+← [Back to Projects](../README.md)
+
+🏠 [Home](../../README.md)
+
+👤 [About Me](../../about/README.md)
+
+💼 [Professional Experience](../../experience/README.md)
+
+🛠️ [Technical Skills](../../skills/README.md)
