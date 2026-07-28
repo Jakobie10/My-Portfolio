@@ -9,6 +9,9 @@
 
 
 
+
+
+
 > **Designing an interactive Business Intelligence solution to monitor fleet operations, inventory performance, fuel consumption, and maintenance activities, enabling data-driven decision-making within a logistics organization.**
 
 ---
