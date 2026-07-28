@@ -5,6 +5,9 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-00599C?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-0066CC?style=for-the-badge)
+
+
 
 > **Designing an interactive Business Intelligence solution to monitor fleet operations, inventory performance, fuel consumption, and maintenance activities, enabling data-driven decision-making within a logistics organization.**
 
