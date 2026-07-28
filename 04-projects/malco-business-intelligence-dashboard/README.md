@@ -45,20 +45,6 @@ The organization required a centralized reporting solution capable of consolidat
 The proposed Business Intelligence solution addresses these challenges by transforming raw operational data into clear, interactive visualizations that enhance transparency, improve reporting efficiency, and support data-driven decision-making across the organization.
 
 
-- ---
-
-## Technologies Used
-
-| Technology | Purpose |
-|------------|---------|
-| **Microsoft Power BI** | Dashboard development and interactive business reporting |
-| **Tableau** | Alternative Business Intelligence platform for data visualization |
-| **Microsoft Excel** | Data collection, cleaning, and preparation |
-| **Power Query** | Data transformation and preparation |
-| **DAX (Data Analysis Expressions)** | Creating calculated measures and KPIs |
-| **Data Modeling** | Establishing relationships between operational datasets |
-| **Charts & Visualizations** | Presenting business insights in an intuitive format |
-| **KPI Reporting** | Monitoring operational performance and decision-making |
 
 ---
 
@@ -144,6 +130,22 @@ The Business Intelligence solution includes interactive dashboards designed to p
 - Trend analysis
 - KPI scorecards
 - Executive summaries
+
+
+- ---
+
+## Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| **Microsoft Power BI** | Dashboard development and interactive business reporting |
+| **Tableau** | Alternative Business Intelligence platform for data visualization |
+| **Microsoft Excel** | Data collection, cleaning, and preparation |
+| **Power Query** | Data transformation and preparation |
+| **DAX (Data Analysis Expressions)** | Creating calculated measures and KPIs |
+| **Data Modeling** | Establishing relationships between operational datasets |
+| **Charts & Visualizations** | Presenting business insights in an intuitive format |
+| **KPI Reporting** | Monitoring operational performance and decision-making |
 
 ---
 
