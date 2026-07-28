@@ -26,7 +26,7 @@
 
 ---
 
-## Executive Summary
+## 📋 Executive Summary
 
 This project presents a Business Intelligence solution developed to improve operational visibility and decision-making at MALCO HAULAGE. Leveraging operational data from fleet management, inventory control, fuel usage, and maintenance activities, the solution transforms raw data into meaningful insights through interactive dashboards and visual reports.
 
