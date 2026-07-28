@@ -1,6 +1,6 @@
 # Business Intelligence Dashboard for Fleet Operations at MALCO HAULAGE
 
-`Power BI` `Tableau` `Microsoft Excel` `Business Intelligence` `Data Analytics` `Fleet Operations` `Supply Chain` `KPI Reporting` `Data Visualization`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
 > **Designing an interactive Business Intelligence solution to monitor fleet operations, inventory performance, fuel consumption, and maintenance activities, enabling data-driven decision-making within a logistics organization.**
 
