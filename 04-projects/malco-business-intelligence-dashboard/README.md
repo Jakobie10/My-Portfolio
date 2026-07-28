@@ -124,3 +124,166 @@ Operational data from fleet management, inventory, fuel usage, maintenance, proc
 
 Interactive dashboards present key performance indicators, trends, and performance metrics that enable management to monitor operations, identify opportunities for improvement, and make informed business decisions.
 
+---
+
+## Dashboard Features
+
+The Business Intelligence solution includes interactive dashboards designed to provide management with a comprehensive view of operational performance.
+
+#### Executive KPI Dashboard
+- Total fleet vehicles
+- Inventory value
+- Monthly fuel (AGO) consumption
+- Maintenance costs
+- Operational performance indicators
+
+#### Fleet Operations Dashboard
+- Vehicle availability
+- Fleet utilization trends
+- Maintenance schedules
+- Operational status
+
+#### Inventory Management Dashboard
+- Spare parts inventory levels
+- Lubricant stock availability
+- Stock movement analysis
+- Reorder indicators
+
+#### Fuel Management Dashboard
+- AGO consumption by period
+- Fuel usage trends
+- Fuel cost analysis
+- Consumption comparisons
+
+#### Maintenance Dashboard
+- Preventive maintenance schedules
+- Vehicle repair history
+- Maintenance cost trends
+- Downtime analysis
+
+#### Interactive Analytics
+- Dynamic filtering
+- Drill-down reporting
+- Trend analysis
+- KPI scorecards
+- Executive summaries
+
+---
+
+## Results & Business Benefits
+
+The Business Intelligence solution provides management with a centralized platform for monitoring key operational activities across fleet management, inventory, fuel consumption, and maintenance. By consolidating data into interactive dashboards, the solution improves reporting efficiency and supports faster, more informed decision-making.
+
+### Key Business Benefits
+
+- Improved visibility into fleet and inventory operations.
+- Faster access to operational performance metrics through interactive dashboards.
+- Reduced reliance on manual spreadsheet reporting.
+- Enhanced monitoring of spare parts, lubricants, and AGO consumption.
+- Improved maintenance planning through historical trend analysis.
+- Better inventory control, reducing the risk of stock shortages or overstocking.
+- Increased operational transparency through real-time KPI reporting.
+- Stronger data-driven decision-making for logistics management.
+
+Overall, the dashboard demonstrates how Business Intelligence can transform operational data into actionable insights that improve efficiency, reduce costs, and support continuous business improvement.
+
+---
+
+## Skills Demonstrated
+
+This project strengthened my ability to transform operational data into meaningful business insights while developing practical Business Intelligence solutions for logistics operations.
+
+### Business Intelligence Skills
+
+- Dashboard Design
+- Data Visualization
+- KPI Development
+- Data Modeling
+- Data Analysis
+- Business Reporting
+- Trend Analysis
+- Executive Reporting
+
+### Technical Skills
+
+- Microsoft Power BI
+- Tableau
+- Microsoft Excel
+- Power Query
+- DAX
+- Data Transformation
+- Interactive Dashboard Development
+
+### Professional Skills
+
+- Analytical Thinking
+- Business Process Analysis
+- Problem Solving
+- Decision Support
+- Stakeholder Communication
+- Technical Documentation
+- Continuous Improvement
+
+This project demonstrates my ability to bridge business operations and technology by delivering Business Intelligence solutions that support strategic and operational decision-making.
+
+---
+
+## Lessons Learned
+
+This project reinforced the importance of transforming raw operational data into meaningful business insights. I gained a deeper understanding of how Business Intelligence tools support decision-making by presenting complex datasets in a clear and interactive format.
+
+One of the key lessons learned was that the quality of a dashboard depends heavily on the quality of the underlying data. Careful data collection, cleaning, transformation, and modeling are essential to producing accurate reports and reliable performance indicators.
+
+The project also strengthened my ability to identify business requirements, define relevant KPIs, and communicate operational performance through effective data visualization. Beyond developing technical skills in Power BI and Tableau, I learned how Business Intelligence enables organizations to improve efficiency, optimize resources, and make informed strategic decisions.
+
+Overall, this experience enhanced both my analytical thinking and my ability to bridge business operations with technology through data-driven solutions.
+
+---
+
+## Future Improvements
+
+While the current dashboard provides valuable operational insights, several enhancements could further improve its functionality and business value.
+
+Potential future improvements include:
+
+- Integrate live operational data from enterprise resource planning (ERP) or fleet management systems.
+- Develop automated data refresh processes to eliminate manual updates.
+- Implement predictive analytics to forecast maintenance requirements and inventory demand.
+- Build executive mobile dashboards for remote access to key performance indicators.
+- Introduce AI-driven analytics to identify operational trends and anomalies.
+- Expand reporting to include financial performance, route optimization, and customer service metrics.
+- Publish dashboards securely through Microsoft Power BI Service or Tableau Server for organization-wide access.
+
+These enhancements would improve scalability, automation, and strategic decision-making while supporting continuous operational improvement.
+
+---
+
+## Key Achievements
+
+✅ Designed an interactive Business Intelligence solution for logistics operations.
+
+✅ Developed dashboards to monitor fleet performance, inventory, fuel consumption, and maintenance activities.
+
+✅ Consolidated operational data into a centralized reporting platform.
+
+✅ Applied data modeling, Power Query, and DAX to generate meaningful KPIs.
+
+✅ Created executive dashboards that support faster, data-driven decision-making.
+
+✅ Demonstrated proficiency in Microsoft Power BI, Tableau, and Microsoft Excel.
+
+✅ Applied Business Intelligence principles to solve real-world operational challenges within the logistics industry.
+
+---
+
+## Portfolio Navigation
+
+← [Back to Projects](../README.md)
+
+🏠 [Home](../../README.md)
+
+👤 [About Me](../../01-about/README.md)
+
+💼 [Professional Experience](../../02-experience/README.md)
+
+🛠️ [Technical Skills](../../03-skills/README.md)
