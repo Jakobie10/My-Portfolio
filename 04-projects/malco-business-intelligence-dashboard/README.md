@@ -1,6 +1,10 @@
 # Business Intelligence Dashboard for Fleet Operations at MALCO HAULAGE
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-00599C?style=for-the-badge)
 
 > **Designing an interactive Business Intelligence solution to monitor fleet operations, inventory performance, fuel consumption, and maintenance activities, enabling data-driven decision-making within a logistics organization.**
 
