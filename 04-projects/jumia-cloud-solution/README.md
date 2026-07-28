@@ -118,7 +118,7 @@ The proposed solution leverages Amazon Web Services (AWS) and industry-standard 
 
 ---
 
-### Architecture Diagram
+#### Architecture Diagram
 
 ```text
                          +----------------------+
@@ -165,7 +165,7 @@ The proposed solution leverages Amazon Web Services (AWS) and industry-standard 
 +----------------------+
 ```
 
-### Diagram Overview
+#### Diagram Overview
 
 The architecture distributes incoming traffic through Amazon CloudFront and an Elastic Load Balancer before routing requests to multiple EC2 instances. Data is stored within the database layer while Amazon S3 provides backup storage. AWS CloudWatch continuously monitors system health, and a secure VPN connection enables integration with existing on-premises infrastructure, supporting a hybrid cloud environment.
 
@@ -185,14 +185,14 @@ This architecture provides a resilient, scalable, and secure platform capable of
 
 The implementation of the proposed hybrid cloud solution follows a structured approach designed to minimize risk, reduce downtime, and ensure a smooth transition from the existing infrastructure.
 
-### Phase 1 – Assessment and Planning
+#### Phase 1 – Assessment and Planning
 
 - Assess the existing IT infrastructure and application dependencies.
 - Identify workloads suitable for cloud migration.
 - Define business, security, and compliance requirements.
 - Develop a migration roadmap and implementation timeline.
 
-### Phase 2 – Cloud Infrastructure Deployment
+#### Phase 2 – Cloud Infrastructure Deployment
 
 - Create the AWS Virtual Private Cloud (VPC).
 - Configure public and private subnets.
@@ -200,7 +200,7 @@ The implementation of the proposed hybrid cloud solution follows a structured ap
 - Configure Elastic Load Balancer (ELB) for traffic distribution.
 - Establish secure VPN connectivity between AWS and the on-premises environment.
 
-### Phase 3 – Security Configuration
+#### Phase 3 – Security Configuration
 
 - Implement AWS Identity and Access Management (IAM) policies based on the principle of least privilege.
 - Configure AWS Web Application Firewall (WAF).
@@ -208,14 +208,14 @@ The implementation of the proposed hybrid cloud solution follows a structured ap
 - Encrypt sensitive data at rest and in transit.
 - Configure security monitoring and logging.
 
-### Phase 4 – Backup and Disaster Recovery
+#### Phase 4 – Backup and Disaster Recovery
 
 - Configure Amazon S3 for backup storage.
 - Enable AWS Backup to automate backup schedules.
 - Test recovery procedures to ensure business continuity.
 - Validate backup integrity and recovery objectives.
 
-### Phase 5 – Monitoring and Optimization
+#### Phase 5 – Monitoring and Optimization
 
 - Configure Amazon CloudWatch dashboards and alerts.
 - Monitor infrastructure performance and resource utilization.
