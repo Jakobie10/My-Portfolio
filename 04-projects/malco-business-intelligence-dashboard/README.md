@@ -48,7 +48,7 @@ The proposed Business Intelligence solution addresses these challenges by transf
 
 ---
 
-## 🏗️ Business Intelligence Architecture
+## 🏗️ Solution Architecture
 
 ```text
                  Operational Data Sources
@@ -89,7 +89,7 @@ Interactive dashboards present key performance indicators, trends, and performan
 
 ---
 
-## Dashboard Features
+## 📊 Dashboard Features
 
 The Business Intelligence solution includes interactive dashboards designed to provide management with a comprehensive view of operational performance.
 
@@ -171,7 +171,7 @@ Overall, the dashboard demonstrates how Business Intelligence can transform oper
 
 ---
 
-## Skills Demonstrated
+## 💡 Skills Demonstrated
 
 This project strengthened my ability to transform operational data into meaningful business insights while developing practical Business Intelligence solutions for logistics operations.
 
@@ -210,7 +210,7 @@ This project demonstrates my ability to bridge business operations and technolog
 
 ---
 
-## Lessons Learned
+## 📚 Lessons Learned
 
 This project reinforced the importance of transforming raw operational data into meaningful business insights. I gained a deeper understanding of how Business Intelligence tools support decision-making by presenting complex datasets in a clear and interactive format.
 
@@ -222,7 +222,7 @@ Overall, this experience enhanced both my analytical thinking and my ability to 
 
 ---
 
-## Future Improvements
+## 🚀 Future Improvements
 
 While the current dashboard provides valuable operational insights, several enhancements could further improve its functionality and business value.
 
@@ -242,7 +242,7 @@ These enhancements would improve scalability, automation, and strategic decision
 
 ---
 
-## Portfolio Navigation
+## 🧭 Portfolio Navigation
 
 ← [Back to Projects](../README.md)
 
