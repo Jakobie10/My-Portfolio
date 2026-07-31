@@ -36,7 +36,7 @@ This project demonstrates my ability to collect, analyze, model, and visualize b
 
 ---
 
-## Business Challenge
+## 🎯 Business Challenge
 
 As a logistics company, MALCO HAULAGE manages a significant volume of operational data daily, including fleet activities, spare parts inventory, diesel (AGO) consumption, lubricant usage, maintenance records, supplier transactions, and stock movements. While this information is essential for effective decision-making, it often exists in separate spreadsheets and manual records, making analysis time-consuming and limiting management's ability to identify trends quickly.
 
@@ -48,7 +48,7 @@ The proposed Business Intelligence solution addresses these challenges by transf
 
 ---
 
-## Business Intelligence Architecture
+## 🏗️ Business Intelligence Architecture
 
 ```text
                  Operational Data Sources
@@ -134,7 +134,7 @@ The Business Intelligence solution includes interactive dashboards designed to p
 
 - ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -149,7 +149,7 @@ The Business Intelligence solution includes interactive dashboards designed to p
 
 ---
 
-## Results & Business Benefits
+## 📈 Results & Business Benefits
 
 The Business Intelligence solution provides management with a centralized platform for monitoring key operational activities across fleet management, inventory, fuel consumption, and maintenance. By consolidating data into interactive dashboards, the solution improves reporting efficiency and supports faster, more informed decision-making.
 
