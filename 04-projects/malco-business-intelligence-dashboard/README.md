@@ -181,7 +181,7 @@ The Business Intelligence solution was designed to answer practical business que
 
 #### Executive Overview Dashboard
 
-![Executive Dashboard](04-projects/malco-business-intelligence-dashboard/Images/dashboard-1-executive.png)
+![Executive Dashboard](images/dashboard-1-executive.png)
 
 Provides executives with a high-level summary of fleet performance through key operational KPIs, monthly trends, and destination analysis.
 
