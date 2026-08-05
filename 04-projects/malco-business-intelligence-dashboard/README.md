@@ -26,6 +26,16 @@
 
 ---
 
+## 📌 Project Highlights
+
+- Designed and developed **4 interactive Power BI dashboards**.
+- Analyzed **490 fleet trips** using PostgreSQL and SQL.
+- Created **DAX measures** to calculate KPIs and fuel efficiency metrics.
+- Built an end-to-end Business Intelligence workflow from raw operational data to executive dashboards.
+- Delivered business insights to support fleet performance, fuel management, and operational decision-making.
+
+---
+
 ## 📋 Executive Summary
 
 This project presents an end-to-end Business Intelligence solution developed to improve operational visibility and support data-driven decision-making for MALCO HAULAGE, a logistics and transportation company.
@@ -118,3 +128,195 @@ Evaluates operational efficiency by comparing fuel efficiency across trucks and 
 
 ---
 
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| **PostgreSQL** | Storing and querying operational dispatch data |
+| **SQL** | Data exploration, KPI calculations, and business analysis |
+| **Microsoft Power BI** | Interactive dashboard development and business reporting |
+| **Power Query** | Data cleaning and transformation |
+| **DAX (Data Analysis Expressions)** | Creating calculated measures and KPIs |
+| **Data Modeling** | Building relationships between tables and supporting time-based analysis |
+| **Microsoft Excel** | Preparing and importing monthly dispatch records |
+| **Tableau** | Knowledge of dashboard implementation using an alternative BI platform |
+
+---
+
+## ❓ Business Questions Answered
+
+The Business Intelligence solution was designed to answer practical business questions that support fleet management and operational decision-making.
+
+#### Executive Overview
+
+- How many trips were completed?
+- How far did the fleet travel?
+- How much AGO was issued?
+- What is the fleet's average fuel efficiency?
+- How did operational performance change over time?
+
+#### Trip Performance
+
+- Which routes recorded the longest travel distances?
+- Which trucks completed the most trips?
+- What was the average trip distance?
+- What were the longest and shortest trips?
+
+#### Fuel Consumption
+
+- How much AGO was consumed for operational trips?
+- How much fuel was issued as gas cuts?
+- Which trucks consumed the most fuel?
+- How did fuel consumption change each month?
+
+#### Fleet Efficiency Analysis
+
+- Which trucks achieved the highest fuel efficiency?
+- Which routes demonstrated the best fuel efficiency?
+- Which operational areas may require further investigation?
+
+---
+
+## 📷 Dashboard Screenshots
+
+#### Executive Overview Dashboard
+
+> *(Insert Executive Dashboard Screenshot)*
+
+Provides executives with a high-level summary of fleet performance through key operational KPIs, monthly trends, and destination analysis.
+
+---
+
+#### Trip Performance Dashboard
+
+> *(Insert Trip Performance Dashboard Screenshot)*
+
+Analyzes fleet operations by highlighting trip statistics, longest routes, and the most frequently utilized trucks.
+
+---
+
+#### Fuel Consumption Dashboard
+
+> *(Insert Fuel Consumption Dashboard Screenshot)*
+
+Monitors AGO usage, gas cuts, monthly fuel trends, and identifies trucks with the highest fuel consumption.
+
+---
+
+#### Fleet Efficiency Analysis Dashboard
+
+> *(Insert Fleet Efficiency Dashboard Screenshot)*
+
+Evaluates truck and route fuel efficiency to identify high-performing assets and support operational improvement.
+
+---
+
+## 📈 Results & Business Impact
+
+The completed Business Intelligence solution transformed operational fleet dispatch records into a centralized reporting platform that enables management to monitor fleet performance, fuel consumption, and operational efficiency from a single source of truth.
+
+By integrating PostgreSQL, SQL analysis, Power BI, and DAX, the solution eliminates the need for manual spreadsheet analysis while providing interactive dashboards that support faster and more informed decision-making.
+
+#### Business Impact
+
+✔ Centralized operational reporting across four interactive dashboards
+
+✔ Improved visibility into fleet performance and fuel consumption
+
+✔ Reduced manual analysis through automated KPI calculations
+
+✔ Enabled trend analysis across multiple reporting periods
+
+✔ Supported data-driven decision-making using interactive filtering and drill-down capabilities
+
+✔ Identified high-performing trucks and fuel-efficient routes
+
+✔ Improved monitoring of fuel usage, gas cuts, and operational efficiency
+
+Overall, this project demonstrates how Business Intelligence can transform raw operational data into actionable insights that improve reporting efficiency and operational decision-making.
+
+---
+
+## 💡 Skills Demonstrated
+
+This project demonstrates my ability to design and deliver an end-to-end Business Intelligence solution by combining database technologies, data analysis, and interactive reporting.
+
+#### Database & Querying
+
+- PostgreSQL
+- SQL Query Development
+- Data Extraction
+- Business Query Analysis
+
+#### Business Intelligence
+
+- Microsoft Power BI
+- Dashboard Design
+- KPI Development
+- DAX Measures
+- Power Query
+- Data Modeling
+- Interactive Reporting
+
+#### Data Analytics
+
+- Fleet Performance Analysis
+- Fuel Consumption Analysis
+- Trend Analysis
+- Route Performance Analysis
+- Operational Efficiency Analysis
+- Business Storytelling
+
+#### Professional Skills
+
+- Analytical Thinking
+- Problem Solving
+- Business Process Analysis
+- Decision Support
+- Data Visualization
+- Technical Documentation
+
+---
+
+## 📚 Lessons Learned
+
+This project strengthened my understanding of the complete Business Intelligence lifecycle, from data preparation and SQL analysis to dashboard development and business reporting.
+
+One of the most valuable lessons I learned was that effective dashboards begin with understanding business questions rather than selecting charts. Every visualization should answer a specific management question and provide insights that support operational decision-making.
+
+The project also reinforced the importance of clean data, well-designed data models, and meaningful KPIs. Working with PostgreSQL, SQL, Power Query, DAX, and Power BI gave me practical experience in transforming operational data into interactive dashboards that communicate clear business insights.
+
+Overall, this project enhanced both my technical Business Intelligence skills and my ability to translate operational data into information that supports strategic decision-making.
+
+---
+
+## 🚀 Future Improvements
+
+While the current Business Intelligence solution provides valuable operational insights, several enhancements could further increase its business value and scalability.
+
+Potential future improvements include:
+
+- Integrate live data from a Fleet Management System (FMS) or Enterprise Resource Planning (ERP) platform.
+- Automate data refreshes using scheduled Power BI refresh or cloud-based ETL processes.
+- Expand the data model to include vehicle maintenance, driver performance, and operating costs.
+- Develop predictive analytics to forecast fuel consumption and maintenance requirements.
+- Incorporate GPS and route optimization data to evaluate route efficiency and travel time.
+- Publish dashboards through Microsoft Power BI Service with role-based access for management.
+- Build executive mobile dashboards for real-time operational monitoring.
+- Implement AI-driven anomaly detection to identify unusual fuel consumption or operational trends.
+
+These enhancements would further improve reporting automation, operational visibility, and strategic decision-making while supporting the organization's long-term digital transformation.
+
+---
+
+## 🧭 Portfolio Navigation
+
+← [Back to Projects](../README.md)
+
+🏠 [Home](../../README.md)
+
+👤 [About Me](../../01-about/README.md)
+
+💼 [Professional Experience](../../02-experience/README.md)
+
+🛠️ [Technical Skills](../../03-skills/README.md)
