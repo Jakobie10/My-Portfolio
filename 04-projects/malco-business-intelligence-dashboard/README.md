@@ -181,7 +181,7 @@ The Business Intelligence solution was designed to answer practical business que
 
 #### Executive Overview Dashboard
 
-> *(Insert Executive Dashboard Screenshot)*
+![Executive Dashboard](images/dashboard-1-executive.png)
 
 Provides executives with a high-level summary of fleet performance through key operational KPIs, monthly trends, and destination analysis.
 
