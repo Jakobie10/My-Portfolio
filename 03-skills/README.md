@@ -1,113 +1,126 @@
 # Technical Skills
 
-My technical skills have been developed through professional experience, academic projects, industry certifications, and continuous self-learning. I enjoy working with technologies that improve business operations, strengthen cybersecurity, and support reliable IT infrastructure.
+Throughout my academic journey at Ensign College and my professional career, I have developed practical experience across cloud computing, systems administration, cybersecurity, business intelligence, networking, scripting, database management, and technical support. My skills continue to grow through hands-on projects, professional work, certifications, and continuous learning.
 
 ---
 
-# Cloud Computing
+## ☁️ Cloud Computing
 
 - Amazon Web Services (AWS)
 - Microsoft Azure
-- Hybrid Cloud Architecture
-- EC2
+- Amazon EC2
+- Amazon S3
 - Virtual Private Cloud (VPC)
-- Cloud Security
-- Cloud Migration Planning
+- Elastic Load Balancer (ELB)
+- Auto Scaling
+- AWS IAM
+- AWS CloudFront
+- Disaster Recovery Planning
+- Hybrid Cloud Architecture
 
 ---
 
-# Cybersecurity
+## 🐧 Systems Administration
 
-- Vulnerability Assessment
-- Penetration Testing
-- Kali Linux
-- Metasploit Framework
-- Wazuh SIEM
-- Host Intrusion Detection Systems (HIDS)
-- Security Auditing
-- Windows Security
-- Linux Security
-- Security Monitoring
-
----
-
-# Systems Administration
-
-- Ubuntu Linux
-- Windows Server
+- Ubuntu Server 24.04 LTS
+- Windows Server 2022
 - Active Directory
 - DNS
 - DHCP
-- File Server Administration
-- User & Group Management
-- Linux Permissions & ACLs
-- Firewall Configuration
-- System Hardening
+- Apache2
+- SSH
+- Linux User & Group Management
+- Access Control Lists (ACLs)
+- Logical Volume Manager (LVM)
+- UFW Firewall
 
 ---
 
-# Networking
+## 🛡️ Cybersecurity
 
-- TCP/IP
-- VLANs
-- Routing & Switching
-- Network Troubleshooting
-- Cisco Packet Tracer
+- Security Hardening
+- Vulnerability Assessment
+- Wazuh SIEM
+- MITRE ATT&CK Framework
 - Network Security
-- Wireless Networking
+- Security Monitoring
+- File Integrity Monitoring
+- Access Control
+- Security Best Practices
 
 ---
 
-# Data & Business Intelligence
+## 📊 Business Intelligence & Data Analytics
+
+- Microsoft Power BI
+- Tableau
+- Microsoft Excel
+- Power Query
+- DAX
+- Data Modeling
+- Dashboard Development
+- KPI Reporting
+- Business Intelligence
+- Data Visualization
+
+---
+
+## 🗄️ Databases
 
 - PostgreSQL
+- Microsoft SQL Server
 - SQL
-- Microsoft Excel
-- Power BI
-- Dashboard Development
-- Data Visualization
-- Business Analytics
+- Database Design
+- Data Modeling
+- Query Optimization
 
 ---
 
-# Programming & Automation
+## 🌐 Networking
+
+- TCP/IP
+- Routing & Switching
+- VLANs
+- DNS
+- DHCP
+- Network Troubleshooting
+- Cisco Packet Tracer
+
+---
+
+## 💻 Programming & Scripting
 
 - Python
-- Bash Scripting
-- PowerShell (Basic)
-- Git
-- GitHub
-
----
-
-# Web Development
-
+- Bash
+- PowerShell
+- SQL
 - HTML
 - CSS
-- WordPress
-- Squarespace
+- JavaScript (Basic)
 
 ---
 
-# Technical Support
+## 🛠️ Technical Support
 
+- Microsoft 365
+- Windows Administration
 - Hardware Troubleshooting
 - Software Installation
-- Microsoft 365
-- Operating System Support
-- Customer Support
-- Remote Support
-- IT Documentation
+- End-User Support
+- System Configuration
+- IT Service Management
 
 ---
 
-# Professional Skills
+## 🤝 Professional Skills
 
 - Problem Solving
+- Critical Thinking
 - Leadership
 - Communication
-- Project Management
 - Team Collaboration
-- Critical Thinking
-- Time Management
+- Project Management
+- Business Analysis
+- Technical Documentation
+- Customer Service
 - Continuous Learning
