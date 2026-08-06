@@ -189,7 +189,7 @@ Provides executives with a high-level summary of fleet performance through key o
 
 #### Trip Performance Dashboard
 
-> *(Insert Trip Performance Dashboard Screenshot)*
+![Trip Performance](images/dashboard-2-trip-performance.png)
 
 Analyzes fleet operations by highlighting trip statistics, longest routes, and the most frequently utilized trucks.
 
@@ -197,7 +197,7 @@ Analyzes fleet operations by highlighting trip statistics, longest routes, and t
 
 #### Fuel Consumption Dashboard
 
-> *(Insert Fuel Consumption Dashboard Screenshot)*
+![Fuel Consumption](images/dashboard-3-fuel-consumption.png)
 
 Monitors AGO usage, gas cuts, monthly fuel trends, and identifies trucks with the highest fuel consumption.
 
@@ -205,7 +205,7 @@ Monitors AGO usage, gas cuts, monthly fuel trends, and identifies trucks with th
 
 #### Fleet Efficiency Analysis Dashboard
 
-> *(Insert Fleet Efficiency Dashboard Screenshot)*
+![Fleet Efficiency](images/dashboard-4-fleet-efficiency.png)
 
 Evaluates truck and route fuel efficiency to identify high-performing assets and support operational improvement.
 
