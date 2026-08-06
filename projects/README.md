@@ -20,6 +20,10 @@ Power BI • Tableau • Excel • Power Query • DAX • SQL
 
 ## ☁️ Cloud Computing
 
+<p align="center">
+<img src="../assets/images/projects/jumia-cloud-thumbnail.png" width="850">
+</p>
+
 ### Jumia Nigeria Hybrid Cloud Solution
 
 Designed a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce companies using Amazon Web Services (AWS).
