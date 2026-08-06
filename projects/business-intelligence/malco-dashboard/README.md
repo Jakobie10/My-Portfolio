@@ -311,12 +311,12 @@ These enhancements would further improve reporting automation, operational visib
 
 ## 🧭 Portfolio Navigation
 
-← [Back to Projects](../README.md)
+← [Back to Projects](../../README.md)
 
-🏠 [Home](../../README.md)
+🏠 [Home](../../../README.md)
 
-👤 [About Me](../../about/README.md)
+👤 [About Me](../../../about/README.md)
 
-💼 [Professional Experience](../../experience/README.md)
+💼 [Professional Experience](../../../experience/README.md)
 
-🛠️ [Technical Skills](../../skills/README.md)
+🛠️ [Technical Skills](../../../skills/README.md)
