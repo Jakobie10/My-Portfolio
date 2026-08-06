@@ -110,19 +110,19 @@ A dedicated calendar table and DAX measures were created to support time-based a
 
 The Business Intelligence solution consists of four interactive dashboards, each designed to answer specific business questions and support operational decision-making.
 
-### 1. Executive Overview Dashboard
+#### 1. Executive Overview Dashboard
 
 Provides a high-level summary of fleet operations through key performance indicators (KPIs), including total trips, total distance travelled, AGO issued, fuel efficiency, and monthly operational trends.
 
-### 2. Trip Performance Dashboard
+#### 2. Trip Performance Dashboard
 
 Analyzes fleet activity by highlighting average trip distance, longest and shortest routes, most frequently used trucks, and the longest operational routes during the reporting period.
 
-### 3. Fuel Consumption Dashboard
+#### 3. Fuel Consumption Dashboard
 
 Monitors AGO usage through fuel consumption trends, average fuel issued per trip, gas cuts, and identifies the trucks with the highest fuel consumption.
 
-### 4. Fleet Efficiency Analysis Dashboard
+#### 4. Fleet Efficiency Analysis Dashboard
 
 Evaluates operational efficiency by comparing fuel efficiency across trucks and routes, enabling management to identify high-performing assets and opportunities for operational improvement.
 
@@ -147,7 +147,7 @@ Evaluates operational efficiency by comparing fuel efficiency across trucks and 
 
 The Business Intelligence solution was designed to answer practical business questions that support fleet management and operational decision-making.
 
-### Executive Overview
+#### Executive Overview
 
 - How many trips were completed?
 - How far did the fleet travel?
@@ -155,21 +155,21 @@ The Business Intelligence solution was designed to answer practical business que
 - What is the fleet's average fuel efficiency?
 - How did operational performance change over time?
 
-### Trip Performance
+#### Trip Performance
 
 - Which routes recorded the longest travel distances?
 - Which trucks completed the most trips?
 - What was the average trip distance?
 - What were the longest and shortest trips?
 
-### Fuel Consumption
+#### Fuel Consumption
 
 - How much AGO was consumed for operational trips?
 - How much fuel was issued as gas cuts?
 - Which trucks consumed the most fuel?
 - How did fuel consumption change each month?
 
-### Fleet Efficiency Analysis
+#### Fleet Efficiency Analysis
 
 - Which trucks achieved the highest fuel efficiency?
 - Which routes demonstrated the best fuel efficiency?
@@ -179,15 +179,15 @@ The Business Intelligence solution was designed to answer practical business que
 
 ## 📷 Dashboard Screenshots
 
-### Executive Overview Dashboard
+#### Executive Overview Dashboard
 
-> *(Insert Executive Dashboard Screenshot)*
+![Executive Dashboard](../../../assets/images/dashboards/executive-dashboard.png)
 
 Provides executives with a high-level summary of fleet performance through key operational KPIs, monthly trends, and destination analysis.
 
 ---
 
-### Trip Performance Dashboard
+#### Trip Performance Dashboard
 
 > *(Insert Trip Performance Dashboard Screenshot)*
 
@@ -195,7 +195,7 @@ Analyzes fleet operations by highlighting trip statistics, longest routes, and t
 
 ---
 
-### Fuel Consumption Dashboard
+#### Fuel Consumption Dashboard
 
 > *(Insert Fuel Consumption Dashboard Screenshot)*
 
@@ -203,7 +203,7 @@ Monitors AGO usage, gas cuts, monthly fuel trends, and identifies trucks with th
 
 ---
 
-### Fleet Efficiency Analysis Dashboard
+#### Fleet Efficiency Analysis Dashboard
 
 > *(Insert Fleet Efficiency Dashboard Screenshot)*
 
