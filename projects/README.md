@@ -1,6 +1,20 @@
 # Featured Projects
 
-Welcome to my project portfolio. These projects demonstrate my experience in cloud computing, systems administration, business intelligence, cybersecurity, web development, and enterprise IT solutions. Each project reflects my commitment to solving real business problems through technology while continuously developing my technical and professional skills.
+Welcome to my project portfolio. These projects demonstrate my experience in business intelligence, cloud computing, systems administration, cybersecurity, web development, and enterprise IT solutions. Each project reflects my commitment to solving real business problems through technology while continuously developing my technical and professional skills.
+
+---
+
+## 📊 Business Intelligence
+
+### Fleet Operations Dashboard for MALCO Transport Limited
+
+Developed an interactive Business Intelligence solution that transforms fleet operational data into actionable insights for management through executive dashboards and KPI reporting.
+
+**Key Technologies**
+
+Power BI • Tableau • Excel • Power Query • DAX • SQL
+
+➡️ **[Explore Project](business-intelligence/malco-dashboard/README.md)**
 
 ---
 
@@ -29,20 +43,6 @@ Designed and deployed a secure Ubuntu Server infrastructure on AWS, implementing
 Ubuntu Server • AWS EC2 • Apache2 • Bind9 DNS • LVM • SSH • UFW
 
 ➡️ **[Explore Project](systems-administration/linux-infrastructure/README.md)**
-
----
-
-## 📊 Business Intelligence
-
-### Fleet Operations Dashboard for MALCO Transport Limited
-
-Developed an interactive Business Intelligence solution that transforms fleet operational data into actionable insights for management through executive dashboards and KPI reporting.
-
-**Key Technologies**
-
-Power BI • Tableau • Excel • Power Query • DAX • SQL
-
-➡️ **[Explore Project](business-intelligence/malco-dashboard/README.md)**
 
 ---
 
