@@ -315,8 +315,8 @@ These enhancements would further improve reporting automation, operational visib
 
 🏠 [Home](../../README.md)
 
-👤 [About Me](../../01-about/README.md)
+👤 [About Me](../../about/README.md)
 
-💼 [Professional Experience](../../02-experience/README.md)
+💼 [Professional Experience](../../experience/README.md)
 
-🛠️ [Technical Skills](../../03-skills/README.md)
+🛠️ [Technical Skills](../../skills/README.md)
