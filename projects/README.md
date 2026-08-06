@@ -14,7 +14,7 @@ Developed an interactive Business Intelligence solution that transforms fleet op
 
 Power BI • Tableau • Excel • Power Query • DAX • SQL
 
-➡️ **[Explore Project](business-intelligence/malco-dashboard/README.md)**
+➡️ **[Explore this Project](business-intelligence/malco-dashboard/README.md)**
 
 ---
 
@@ -28,7 +28,7 @@ Designed a secure, scalable, and cost-effective hybrid cloud architecture for on
 
 AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaster Recovery
 
-➡️ **[Explore Project](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
+➡️ **[Explore this Project](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
 
 ---
 
@@ -42,7 +42,7 @@ Designed and deployed a secure Ubuntu Server infrastructure on AWS, implementing
 
 Ubuntu Server • AWS EC2 • Apache2 • Bind9 DNS • LVM • SSH • UFW
 
-➡️ **[Explore Project](systems-administration/linux-infrastructure/README.md)**
+➡️ **[Explore this Project](systems-administration/linux-infrastructure/README.md)**
 
 ---
 
@@ -68,7 +68,7 @@ Managed and developed a professional website for Ouelessebougou Alliance to prom
 
 Squarespace • Website Design • Project Management
 
-➡️ **[Explore Project](web-development/ouelessebougou-alliance/README.md)**
+➡️ **[Explore this Project](web-development/ouelessebougou-alliance/README.md)**
 
 ---
 
@@ -82,4 +82,4 @@ Designed an interactive PowerPoint-based game that helps learners prepare for th
 
 Microsoft PowerPoint • AWS Fundamentals • Interactive Learning
 
-➡️ **[Explore Project](interactive-projects/aws-cloud-hero-quiz/README.md)**
+➡️ **[Explore this Project](interactive-projects/aws-cloud-hero-quiz/README.md)**
