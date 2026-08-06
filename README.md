@@ -1,71 +1,76 @@
 # Olabisi James Arowosoye | Professional IT Portfolio
 
-> **Business Intelligence Analyst | Technical Support Engineer | Cloud & Systems Administrator**
+Welcome to my professional portfolio. I earned a **Bachelor of Applied Science in Information Technology** from **Ensign College**, where I developed practical experience in cloud computing, cybersecurity, systems administration, business intelligence, technical support, networking, and web development.
+
+My portfolio showcases real-world projects, professional experience, and technical skills developed through academic studies, industry experience, and continuous learning. Each project reflects my passion for using technology to solve business problems, improve operational efficiency, and deliver meaningful business value.
 
 ---
 
-## Welcome
+## 👨‍💻 Professional Profile
 
-Welcome to my professional IT portfolio.
-
-I am **Olabisi James Arowosoye**, an Information Technology professional passionate about solving real-world business problems through technology. My experience spans **Business Intelligence, Cloud Computing, Cybersecurity, Linux Administration, Windows Server, Networking, Web Development, and Technical Support**.
-
-Throughout my academic journey at Ensign College and my professional career, I have completed projects that demonstrate technical excellence, continuous learning, leadership, and a commitment to serving others with integrity.
-
-This portfolio showcases the knowledge, skills, and practical experience I have gained while preparing for a career in Information Technology.
+- 🎓 Bachelor of Applied Science in Information Technology – Ensign College
+- 💼 Business Intelligence Analyst at MALCO Transport Limited
+- 🖥️ Technical Support Engineer at HSProjects Technologies
+- 🌍 Project Manager & Web Developer – Ouelessebougou Alliance
+- 🏢 Co-Founder – TIM BROWN SERVICES
 
 ---
 
-# Technical Areas
+## 🚀 Areas of Expertise
 
-- Business Intelligence & Data Analytics
-- Cloud Computing (AWS & Microsoft Azure)
-- Cybersecurity
-- Linux Administration
-- Windows Server Administration
-- Networking
-- Python Scripting & Automation
-- Technical Support
-- Web Development
-- Database Management
+☁️ Cloud Computing
 
----
+🐧 Linux & Windows Systems Administration
 
-# Featured Projects
+📊 Business Intelligence & Data Analytics
 
-This portfolio includes professional and academic projects, including:
+🛡️ Cybersecurity
 
-- Fleet Analytics Dashboard – MALCO Transport Ltd.
-- Linux Deployment Proposal for PromisedLand Data Center
-- Jumia Nigeria Cloud Solution Proposal
-- AWS Cloud Hero Quiz
-- Microsoft Azure Infrastructure Design
-- Ouelessebougou Alliance Website
-- Metasploitable 2 Penetration Testing
-- Wazuh SIEM Deployment
-- Windows & Linux Security Auditing
+🌐 Web Development
+
+🛠️ Technical Support
 
 ---
 
-# Professional Philosophy
+## 📂 Portfolio Sections
 
-I believe technology should solve problems, improve lives, and create opportunities. My approach combines technical expertise with integrity, continuous learning, and a commitment to delivering reliable solutions that provide value to organizations and the people they serve.
-
----
-
-# Portfolio Sections
-
-- About Me
-- Professional Experience
-- Technical Skills
-- Certifications
-- Featured Projects
-- Resume
-- Reflections
-- Contact
+- 👤 About Me
+- 💼 Professional Experience
+- 🛠️ Technical Skills
+- 📁 Featured Projects
+- 📜 Certifications
+- 📞 Contact
 
 ---
 
-Thank you for visiting my portfolio.
+## ⭐ Featured Projects
 
-I hope these projects demonstrate my passion for Information Technology, my dedication to lifelong learning, and my commitment to excellence.
+### ☁️ Cloud Computing
+
+- Jumia Nigeria Hybrid Cloud Solution
+
+### 🐧 Systems Administration
+
+- Enterprise Linux Infrastructure Deployment
+
+### 📊 Business Intelligence
+
+- Fleet Operations Dashboard for MALCO Transport Limited
+
+### 🛡️ Cybersecurity
+
+- Enterprise Security Monitoring with Wazuh *(In Progress)*
+
+### 🌍 Web Development
+
+- African Market Website
+
+---
+
+## 🎯 Career Objective
+
+My goal is to contribute to organizations by designing secure, scalable, and data-driven technology solutions that improve business performance. I am particularly interested in opportunities involving Cloud Computing, Systems Administration, Business Intelligence, Cybersecurity, and IT Infrastructure, where I can continue learning while creating measurable value through technology.
+
+---
+
+*"Technology is most valuable when it solves real business problems and improves people's lives."*
