@@ -348,15 +348,15 @@ These enhancements would further strengthen the organization's cloud maturity wh
 
 ---
 
-## Portfolio Navigation
+## 🧭 Portfolio Navigation
 
-← [Back to 04-projects](../README.md)
+← [Back to Projects](../../README.md)
 
-🏠 [Home](../../README.md)
+🏠 [Home](../../../README.md)
 
-👤 [About Me](../../01-about/README.md)
+👤 [About Me](../../../about/README.md)
 
-💼 [Professional Experience](../../02-experience/README.md)
+💼 [Professional Experience](../../../experience/README.md)
 
-🛠️ [Technical Skills](../../03-skills/README.md)
+🛠️ [Technical Skills](../../../skills/README.md)
 
