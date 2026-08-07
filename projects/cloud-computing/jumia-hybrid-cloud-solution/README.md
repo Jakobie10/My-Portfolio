@@ -1,22 +1,13 @@
 # AWS Hybrid Cloud Architecture for Jumia Nigeria
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
 ![Amazon CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge)
-
 ![Elastic Load Balancer](https://img.shields.io/badge/Elastic_Load_Balancer-FF9900?style=for-the-badge)
-
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge)
-
 ![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-0F766E?style=for-the-badge)
-
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0052CC?style=for-the-badge)
-
 ![Hybrid Cloud](https://img.shields.io/badge/Hybrid_Cloud-7C3AED?style=for-the-badge)
-
 ![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-DC2626?style=for-the-badge)
 
 > **Designing a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce platforms using Amazon Web Services (AWS).**
