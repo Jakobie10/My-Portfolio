@@ -123,8 +123,6 @@ I am always open to opportunities in Cloud Computing, Business Intelligence, Cyb
 
 🐙 **GitHub:** <a href="https://github.com/Jakobie10" target="_blank">github.com/Jakobie10</a>
 
----
-
 *"Technology is most valuable when it solves real business problems and improves people's lives."*
 
 ---
