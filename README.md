@@ -32,6 +32,68 @@ My portfolio showcases real-world projects, professional experience, and technic
 
 ---
 
+# ⭐ Featured Projects
+
+## 📊 Fleet Operations Dashboard for MALCO Transport Limited
+
+<p align="center">
+  <img src="assets/images/projects/malco-dashboard-thumbnail.png" width="700">
+</p>
+
+Developed an interactive Business Intelligence solution that transforms fleet operational data into actionable insights for logistics management.
+
+🔗 **[View Complete Case Study →](projects/business-intelligence/malco-dashboard/README.md)**
+
+---
+
+## ☁️ Jumia Nigeria Hybrid Cloud Solution
+
+<p align="center">
+  <img src="assets/images/projects/jumia-cloud-thumbnail.png" width="700">
+</p>
+
+Designed a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce companies using Amazon Web Services (AWS).
+
+🔗 **[View Complete Case Study →](projects/cloud-computing/jumia-hybrid-cloud-solution/README.md)**
+
+---
+
+## 🌍 African Market Website
+
+<p align="center">
+  <img src="assets/images/projects/african-market-thumbnail.png" width="700">
+</p>
+
+Managed and developed a professional website that promotes African artisans and supports community development initiatives.
+
+🔗 **[View Complete Case Study →](projects/web-development/ouelessebougou-alliance/README.md)**
+
+---
+
+## 🎮 AWS Cloud Hero Quiz
+
+<p align="center">
+  <img src="assets/images/projects/aws-cloud-hero-thumbnail.png" width="700">
+</p>
+
+Designed an interactive PowerPoint-based game that helps learners prepare for the AWS Certified Cloud Practitioner certification.
+
+🔗 **[View Complete Case Study →](projects/interactive-projects/aws-cloud-hero-quiz/README.md)**
+
+---
+
+## 🐧 Enterprise Linux Infrastructure Deployment
+
+<p align="center">
+  <img src="assets/images/projects/linux-infrastructure-thumbnail.png" width="700">
+</p>
+
+Designed and deployed a secure enterprise Linux infrastructure implementing web services, DNS, storage management, and layered security on AWS.
+
+🔗 **[View Complete Case Study →](projects/systems-administration/linux-infrastructure/README.md)**
+
+---
+
 ## 📂 Portfolio Sections
 
 - 👤 About Me
