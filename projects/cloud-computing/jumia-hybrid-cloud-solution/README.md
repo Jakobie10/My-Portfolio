@@ -1,7 +1,36 @@
-# Jumia Nigeria Hybrid Cloud Solution
-`AWS` `EC2` `CloudFront` `Elastic Load Balancer` `IAM` `VPC` `Cloud Security` `Hybrid Cloud` `Disaster Recovery`
+# AWS Hybrid Cloud Architecture for Jumia Nigeria
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+![Amazon CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge)
+
+![Elastic Load Balancer](https://img.shields.io/badge/Elastic_Load_Balancer-FF9900?style=for-the-badge)
+
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge)
+
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-0F766E?style=for-the-badge)
+
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-0052CC?style=for-the-badge)
+
+![Hybrid Cloud](https://img.shields.io/badge/Hybrid_Cloud-7C3AED?style=for-the-badge)
+
+![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-DC2626?style=for-the-badge)
 
 > **Designing a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce platforms using Amazon Web Services (AWS).**
+
+---
+
+<p align="center">
+  <img src="../../../assets/images/projects/jumia-cloud-thumbnail.png" width="900">
+</p>
+
+
+> **🏗️ Architecture Snapshot**
+>
+> This solution combines Amazon CloudFront, Elastic Load Balancer, Amazon EC2, Amazon S3, IAM, CloudWatch, and secure VPN connectivity to deliver a highly available, scalable, and secure hybrid cloud environment that integrates seamlessly with existing on-premises infrastructure.
 
 ---
 
@@ -18,39 +47,23 @@
 
 ---
 
-## Executive Summary
+## 📋 Executive Summary
 
 This project presents a modern hybrid cloud architecture designed to improve scalability, security, availability, and operational efficiency for Jumia Nigeria. The proposed solution leverages Amazon Web Services (AWS) to create a resilient infrastructure capable of supporting future business growth while reducing operational complexity and strengthening disaster recovery capabilities.
 
-## Table of Contents
+---
 
-- [Project Overview](#project-overview)
-- [Business Challenge](#business-challenge)
-- [Project Objectives](#project-objectives)
-- [My Role](#my-role)
-- [Technologies Used](#technologies-used)
-- [Solution Architecture](#solution-architecture)
-- [Architecture Diagram](#architecture-diagram)
-- [Implementation Process](#implementation-process)
-- [Security Considerations](#security-considerations)
-- [Results & Expected Business Benefits](#results--expected-business-benefits)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Lessons Learned](#lessons-learned)
-- [Future Improvements](#future-improvements)
+## ⭐ Project Highlights
 
-## Project Overview
-
-Jumia Nigeria is one of Africa's leading e-commerce platforms, serving millions of customers through its online marketplace. As digital commerce continues to grow, the company requires an IT infrastructure that can scale efficiently, maintain high availability, and protect sensitive customer information while controlling operational costs.
-
-This project presents a hybrid cloud solution designed to modernize Jumia Nigeria's infrastructure using Amazon Web Services (AWS). The proposed architecture combines cloud services with existing on-premises resources to improve scalability, strengthen security, enhance disaster recovery, and support future business growth.
-
-The solution incorporates industry best practices for cloud computing, including high availability, load balancing, secure network design, automated backups, data encryption, and cost optimization. By leveraging AWS services, the proposal demonstrates how cloud technologies can improve operational efficiency while providing a reliable and secure platform for business-critical applications.
-
-This project reflects my ability to analyze business requirements, design cloud-based infrastructure, and recommend practical technology solutions that align with organizational objectives.
+- ☁️ Designed a secure and scalable hybrid cloud architecture using Amazon Web Services (AWS).
+- 🔒 Implemented cloud security best practices, including IAM, AWS WAF, encryption, and secure network design.
+- ⚖️ Designed for high availability using Elastic Load Balancer, Amazon EC2, and CloudFront.
+- 💰 Optimized infrastructure for scalability, operational efficiency, and cost management.
+- 📈 Developed a cloud solution aligned with business objectives, disaster recovery, and future growth.
 
 ---
 
-## Business Challenge
+## 🎯 Business Challenge
 
 Jumia Nigeria operates in a highly competitive e-commerce market where customers expect fast, reliable, and secure online services. As transaction volumes continue to grow, traditional on-premises infrastructure can become increasingly difficult to scale, maintain, and protect against unexpected outages or cyber threats.
 
@@ -60,41 +73,7 @@ To address these challenges, I designed a hybrid cloud architecture that combine
 
 ---
 
-## Project Objectives
-
-The primary objective of this project was to design a secure, scalable, and cost-effective hybrid cloud infrastructure that supports Jumia Nigeria's business operations and future growth.
-
-Specific objectives included:
-
-- Improve application availability through a highly available cloud architecture.
-- Increase scalability to support growing customer demand during peak shopping periods.
-- Strengthen security using industry-standard cloud security services and best practices.
-- Protect business-critical data through automated backups and disaster recovery planning.
-- Optimize infrastructure costs by leveraging AWS managed services and elastic resource allocation.
-- Integrate cloud resources with existing on-premises infrastructure to support a hybrid operating environment.
-- Create a flexible architecture that can accommodate future expansion without major infrastructure redesign.
-
-- ---
-
-## My Role
-
-As the Cloud Solutions Architect for this project, I was responsible for analyzing the organization's infrastructure requirements and designing a hybrid cloud solution that aligned with its operational and business objectives.
-
-My responsibilities included:
-
-- Analyzing Jumia Nigeria's infrastructure and business requirements.
-- Designing a secure and scalable hybrid cloud architecture using AWS.
-- Selecting appropriate AWS services based on performance, security, availability, and cost considerations.
-- Developing a cloud migration strategy that minimized business disruption.
-- Recommending security controls to protect customer data and business-critical systems.
-- Designing backup and disaster recovery strategies to improve business continuity.
-- Documenting the proposed solution and providing implementation recommendations based on cloud best practices.
-
-This project strengthened my ability to translate business requirements into practical cloud solutions while balancing security, scalability, performance, and cost efficiency.
-
----
-
-## Technologies Used
+## 🛠️ Technologies Used
 
 The proposed solution leverages Amazon Web Services (AWS) and industry-standard technologies to deliver a secure, scalable, and resilient hybrid cloud environment.
 
@@ -114,11 +93,9 @@ The proposed solution leverages Amazon Web Services (AWS) and industry-standard 
 
 ---
 
-## Solution Architecture
+## 🏗️ Solution Architecture Diagram
 
 ---
-
-#### Architecture Diagram
 
 ```text
                          +----------------------+
@@ -167,7 +144,7 @@ The proposed solution leverages Amazon Web Services (AWS) and industry-standard 
 
 #### Diagram Overview
 
-The architecture distributes incoming traffic through Amazon CloudFront and an Elastic Load Balancer before routing requests to multiple EC2 instances. Data is stored within the database layer while Amazon S3 provides backup storage. AWS CloudWatch continuously monitors system health, and a secure VPN connection enables integration with existing on-premises infrastructure, supporting a hybrid cloud environment.
+The proposed solution adopts a hybrid cloud architecture that combines Amazon Web Services (AWS) with Jumia Nigeria's existing on-premises infrastructure. This design improves scalability, availability, security, and disaster recovery while allowing the organization to continue leveraging existing systems during its cloud adoption journey.
 
 The proposed solution uses a hybrid cloud architecture that combines AWS cloud services with Jumia Nigeria's existing on-premises infrastructure. This approach provides the flexibility of cloud computing while allowing the organization to retain selected workloads within its existing environment.
 
@@ -181,7 +158,7 @@ This architecture provides a resilient, scalable, and secure platform capable of
 
 ---
 
-## Implementation Process
+## ⚙️ Implementation Process
 
 The implementation of the proposed hybrid cloud solution follows a structured approach designed to minimize risk, reduce downtime, and ensure a smooth transition from the existing infrastructure.
 
@@ -226,27 +203,27 @@ By following this phased implementation approach, the organization can adopt clo
 
 ---
 
-## Security Considerations
+## 🛡️ Security Considerations
 
 Security is a fundamental component of the proposed hybrid cloud architecture. The solution incorporates multiple layers of protection to safeguard customer information, business-critical applications, and cloud resources against unauthorized access and cyber threats.
 
-### Identity and Access Management
+#### Identity and Access Management
 
 AWS Identity and Access Management (IAM) enforces role-based access control (RBAC) and the principle of least privilege, ensuring that users and administrators have access only to the resources required to perform their responsibilities.
 
-### Network Security
+#### Network Security
 
 The cloud environment is deployed within an Amazon Virtual Private Cloud (VPC), with public and private subnets used to isolate resources based on their functions. Security Groups and Network Access Control Lists (NACLs) provide additional layers of traffic filtering and network protection.
 
-### Application Protection
+#### Application Protection
 
 AWS Web Application Firewall (WAF) helps defend web applications against common attacks such as SQL injection and cross-site scripting (XSS), while AWS Shield provides protection against Distributed Denial-of-Service (DDoS) attacks that could affect service availability.
 
-### Data Protection
+#### Data Protection
 
 Sensitive business and customer data is encrypted both at rest and in transit. Regular backups are stored securely using Amazon S3 and managed through AWS Backup to support disaster recovery and business continuity.
 
-### Monitoring and Compliance
+#### Monitoring and Compliance
 
 Amazon CloudWatch continuously monitors system performance and operational health, while centralized logging supports incident investigation and ongoing security reviews. Routine security assessments and system updates help maintain compliance with industry best practices and strengthen the organization's overall security posture.
 
@@ -254,31 +231,31 @@ By implementing multiple layers of security controls, the proposed solution redu
 
 ---
 
-## Results & Expected Business Benefits
+## 📈 Business Impact
 
-Although this project was developed as a cloud solution proposal, the recommended architecture demonstrates how a well-designed hybrid cloud environment can deliver measurable value to an enterprise organization such as Jumia Nigeria.
+This proposed hybrid cloud solution demonstrates how a well-designed AWS architecture can improve business performance through greater scalability, enhanced security, higher availability, and better disaster recovery. By aligning cloud technologies with business objectives, the solution provides a resilient foundation for future digital growth while optimizing operational efficiency and infrastructure costs.
 
-### Improved Scalability
+#### Improved Scalability
 
 The proposed AWS infrastructure enables the organization to scale computing resources based on customer demand, ensuring consistent performance during peak shopping periods without significant infrastructure investments.
 
-### Increased Availability
+#### Increased Availability
 
 By incorporating Elastic Load Balancing, redundant cloud resources, and automated monitoring, the solution minimizes service interruptions and improves the reliability of customer-facing applications.
 
-### Enhanced Security
+#### Enhanced Security
 
 Multiple security controls, including IAM, VPC, AWS WAF, AWS Shield, encryption, and continuous monitoring, work together to reduce cybersecurity risks and protect sensitive customer and business data.
 
-### Better Disaster Recovery
+#### Better Disaster Recovery
 
 Automated backups, secure cloud storage, and recovery planning improve business continuity by reducing recovery time and minimizing potential data loss during unexpected incidents.
 
-### Cost Optimization
+#### Cost Optimization
 
 The use of scalable cloud services allows the organization to pay only for the resources it uses, reducing unnecessary infrastructure costs while maintaining operational flexibility.
 
-### Foundation for Future Growth
+#### Foundation for Future Growth
 
 The hybrid architecture provides a flexible platform that can support future expansion, additional applications, and emerging technologies without requiring a complete infrastructure redesign.
 
@@ -286,11 +263,11 @@ Overall, the proposed solution aligns technology investments with business objec
 
 ---
 
-## Skills Demonstrated
+## 💡 Skills Demonstrated
 
-This project strengthened both my technical and professional competencies by requiring me to evaluate business requirements, design cloud infrastructure, and recommend secure, scalable solutions.
+This project demonstrates my ability to translate business requirements into practical cloud solutions while balancing security, scalability, availability, performance, and cost optimization. It also strengthened both my technical and professional competencies as a Cloud Solutions Architect.
 
-### Technical Skills
+#### ☁️ Technical Skills
 
 - Cloud Architecture Design
 - Amazon Web Services (AWS)
@@ -303,7 +280,7 @@ This project strengthened both my technical and professional competencies by req
 - Systems Analysis
 - Solution Architecture
 
-### Professional Skills
+#### 🤝 Professional Skills
 
 - Business Analysis
 - Critical Thinking
@@ -318,7 +295,7 @@ This project demonstrates my ability to combine technical knowledge with busines
 
 ---
 
-## Lessons Learned
+## 📚 Lessons Learned
 
 Designing this hybrid cloud solution expanded my understanding of how cloud technologies support organizational strategy, not just technical infrastructure. Throughout the project, I recognized that successful cloud adoption requires balancing business objectives with technical requirements such as security, scalability, availability, performance, and cost efficiency.
 
@@ -330,9 +307,9 @@ Overall, this experience enhanced my ability to think like a solutions architect
 
 ---
 
-## Future Improvements
+## 🚀 Future Improvements
 
-While the proposed hybrid cloud architecture provides a secure, scalable, and resilient foundation, there are several opportunities for future enhancement as Jumia Nigeria's technology needs continue to evolve.
+Although the proposed architecture provides a secure and scalable foundation, several enhancements could further improve automation, operational efficiency, security, and cloud maturity as business requirements evolve.
 
 Potential improvements include:
 
