@@ -36,7 +36,7 @@ Designed a secure, scalable, and cost-effective hybrid cloud architecture for on
 
 AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaster Recovery
 
-➡️ **[Explore this project](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
+🔗 **[View Complete Case Study →](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
 
 ---
 
