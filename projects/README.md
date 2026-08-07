@@ -43,7 +43,7 @@ AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaste
 ## 🌍 Web Development
 
 <p align="center">
-  <img src="../assets/images/projects/african-market-thumbnail.png" width="850">
+  <img src="../assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure Project" width="850">
 </p>
 
 ### African Market Website Store
