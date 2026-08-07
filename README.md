@@ -117,9 +117,9 @@ Thank you for visiting my portfolio.
 
 I am always open to opportunities in Cloud Computing, Business Intelligence, Cybersecurity, Systems Administration, Technical Support, and IT Infrastructure.
 
-📧 **Email:** *successola10@gmail.com*
+📧 **Email:**(successola10@gmail.com)
 
-💼 **LinkedIn:** *https://www.linkedin.com/in/olabisijames/*
+💼 **LinkedIn:** https://www.linkedin.com/in/olabisijames
 
 🐙 **GitHub:** https://github.com/Jakobie10
 
@@ -127,6 +127,7 @@ I am always open to opportunities in Cloud Computing, Business Intelligence, Cyb
 
 *"Technology is most valuable when it solves real business problems and improves people's lives."*
 
-© 2026 James Arowosoye
+---
 
+© 2026 James Arowosoye
 Built with GitHub Pages and Markdown.
