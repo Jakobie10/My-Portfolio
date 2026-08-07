@@ -96,10 +96,10 @@ Designed and deployed a secure enterprise Linux infrastructure implementing web 
 
 ## 📂 Portfolio Sections
 
-- [👤 About Me](about)
-- 💼 Professional Experience
-- 🛠️ Technical Skills
-- 📁 Featured Projects
+- 👤 [About Me](about)
+- 💼 [Professional Experience](experience)
+- 🛠️ [Technical Skills](skills)
+- 📁 [Featured Projects](projects)
 - 📜 Certifications
 - 📞 Contact
 
