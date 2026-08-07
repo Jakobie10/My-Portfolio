@@ -63,7 +63,7 @@ My portfolio showcases real-world projects, professional experience, and technic
 
 ### 🌍 Web Development
 
-- African Market Website
+- African Market Website Store
 
 ---
 
