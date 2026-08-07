@@ -101,7 +101,7 @@ Designed and deployed a secure enterprise Linux infrastructure implementing web 
 - 🛠️ [Technical Skills](skills)
 - 📁 [Featured Projects](projects)
 - 📜 Certifications
-- 📞 [Contact](#career-objectives)
+- 📞 [Contact](#connect-with-me)
 
 ---
 
