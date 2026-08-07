@@ -6,6 +6,10 @@ Welcome to my project portfolio. These projects demonstrate my experience in bus
 
 ## 📊 Business Intelligence
 
+<p align="center">
+<img src="../assets/images/projects/malco-dashboard-thumbnail.png" width="850">
+</p>
+
 ### Fleet Operations Dashboard for MALCO Transport Limited
 
 Developed an interactive Business Intelligence solution that transforms fleet operational data into actionable insights for management through executive dashboards and KPI reporting.
