@@ -7,7 +7,7 @@ Welcome to my project portfolio. These projects demonstrate my experience in bus
 ## 📊 Business Intelligence
 
 <p align="center">
-<img src="../assets/images/projects/malco-dashboard-thumbnail.png" width="850">
+  <img src="../assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="850">
 </p>
 
 ### Fleet Operations Dashboard for MALCO Transport Limited
@@ -18,14 +18,14 @@ Developed an interactive Business Intelligence solution that transforms fleet op
 
 Power BI • Tableau • Excel • Power Query • DAX • SQL
 
-🔗 **[Expore This Project →](business-intelligence/malco-dashboard/README.md)**
+**[Expore This Project →](business-intelligence/malco-dashboard/README.md)**
 
 ---
 
 ## ☁️ Cloud Computing
 
 <p align="center">
-<img src="../assets/images/projects/jumia-cloud-thumbnail.png" width="850">
+  <img src="../assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure Project" width="850">
 </p>
 
 ### Jumia Nigeria Hybrid Cloud Solution
@@ -36,7 +36,7 @@ Designed a secure, scalable, and cost-effective hybrid cloud architecture for on
 
 AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaster Recovery
 
-🔗 **[Expore This Project →](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
+**[Expore This Project →](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
 
 ---
 
@@ -54,14 +54,14 @@ Managed and developed a professional website for Ouelessebougou Alliance to prom
 
 Squarespace • Website Design • Project Management
 
-🔗 **[Expore This Project →](web-development/ouelessebougou-alliance/README.md)**
+**[Expore This Project →](web-development/ouelessebougou-alliance/README.md)**
 
 ---
 
 ## 🎮 Interactive Learning
 
 <p align="center">
-  <img src="../assets/images/projects/aws-cloud-hero-thumbnail.png" width="850">
+  <img src="../assets/images/projects/aws-cloud-hero-thumbnail.png" alt="AWS Cloud Hero Quiz Game" width="850">
 </p>
 
 ### AWS Cloud Hero Quiz
@@ -72,7 +72,7 @@ Designed an interactive PowerPoint-based game that helps learners prepare for th
 
 Microsoft PowerPoint • AWS Fundamentals • Interactive Learning
 
-🔗 **[Expore This Project →](interactive-projects/aws-cloud-hero-quiz/README.md)**
+**[Expore This Project →](interactive-projects/aws-cloud-hero-quiz/README.md)**
 
 ---
 
@@ -86,7 +86,7 @@ Designed and deployed a secure Ubuntu Server infrastructure on AWS, implementing
 
 Ubuntu Server • AWS EC2 • Apache2 • Bind9 DNS • LVM • SSH • UFW
 
-🔗 **[Expore This Project →](systems-administration/linux-infrastructure/README.md)**
+**[Expore This Project →](systems-administration/linux-infrastructure/README.md)**
 
 ---
 
