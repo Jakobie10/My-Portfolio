@@ -37,7 +37,7 @@ My portfolio showcases real-world projects, professional experience, and technic
 ## 📊 Fleet Operations Dashboard for MALCO Transport Limited
 
 <p align="center">
-  <img src="assets/images/projects/malco-dashboard-thumbnail.png" width="700">
+  <img src="assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="700">
 </p>
 
 Developed an interactive Business Intelligence solution that transforms fleet operational data into actionable insights for logistics management.
@@ -49,7 +49,7 @@ Developed an interactive Business Intelligence solution that transforms fleet op
 ## ☁️ Jumia Nigeria Hybrid Cloud Solution
 
 <p align="center">
-  <img src="assets/images/projects/jumia-cloud-thumbnail.png" width="700">
+  <img src="assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure" width="700">
 </p>
 
 Designed a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce companies using Amazon Web Services (AWS).
@@ -73,7 +73,7 @@ Managed and developed a professional website that promotes African artisans and 
 ## 🎮 AWS Cloud Hero Quiz
 
 <p align="center">
-  <img src="assets/images/projects/aws-cloud-hero-thumbnail.png" width="700">
+  <img src="assets/images/projects/aws-cloud-hero-thumbnail.png" alt="AWS Cloud Hero Quiz Game" width="700">
 </p>
 
 Designed an interactive PowerPoint-based game that helps learners prepare for the AWS Certified Cloud Practitioner certification.
