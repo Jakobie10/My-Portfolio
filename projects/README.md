@@ -18,7 +18,7 @@ Developed an interactive Business Intelligence solution that transforms fleet op
 
 Power BI • Tableau • Excel • Power Query • DAX • SQL
 
-➡️ **[Explore this Project](business-intelligence/malco-dashboard/README.md)**
+➡️ **[Explore this project](business-intelligence/malco-dashboard/README.md)**
 
 ---
 
@@ -36,7 +36,35 @@ Designed a secure, scalable, and cost-effective hybrid cloud architecture for on
 
 AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaster Recovery
 
-➡️ **[Explore this Project](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
+➡️ **[Explore this project](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
+
+---
+
+## 🌍 Web Development
+
+### African Market Website Store
+
+Managed and developed a professional website for Ouelessebougou Alliance to promote African artisans and expand the organization's digital presence.
+
+**Key Technologies**
+
+Squarespace • Website Design • Project Management
+
+➡️ **[Explore this project](web-development/ouelessebougou-alliance/README.md)**
+
+---
+
+## 🎮 Interactive Learning
+
+### AWS Cloud Hero Quiz
+
+Designed an interactive PowerPoint-based game that helps learners prepare for the AWS Certified Cloud Practitioner examination through engaging, scenario-based quizzes.
+
+**Key Technologies**
+
+Microsoft PowerPoint • AWS Fundamentals • Interactive Learning
+
+➡️ **[Explore this project](interactive-projects/aws-cloud-hero-quiz/README.md)**
 
 ---
 
@@ -50,7 +78,7 @@ Designed and deployed a secure Ubuntu Server infrastructure on AWS, implementing
 
 Ubuntu Server • AWS EC2 • Apache2 • Bind9 DNS • LVM • SSH • UFW
 
-➡️ **[Explore this Project](systems-administration/linux-infrastructure/README.md)**
+➡️ **[Explore this project](systems-administration/linux-infrastructure/README.md)**
 
 ---
 
@@ -66,28 +94,4 @@ Wazuh • Linux • Elastic Stack • MITRE ATT&CK
 
 ---
 
-## 🌍 Web Development
 
-### African Market Website Store
-
-Managed and developed a professional website for Ouelessebougou Alliance to promote African artisans and expand the organization's digital presence.
-
-**Key Technologies**
-
-Squarespace • Website Design • Project Management
-
-➡️ **[Explore this Project](web-development/ouelessebougou-alliance/README.md)**
-
----
-
-## 🎮 Interactive Learning
-
-### AWS Cloud Hero Quiz
-
-Designed an interactive PowerPoint-based game that helps learners prepare for the AWS Certified Cloud Practitioner examination through engaging, scenario-based quizzes.
-
-**Key Technologies**
-
-Microsoft PowerPoint • AWS Fundamentals • Interactive Learning
-
-➡️ **[Explore this Project](interactive-projects/aws-cloud-hero-quiz/README.md)**
