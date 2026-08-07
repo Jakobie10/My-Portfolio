@@ -61,7 +61,7 @@ Designed a secure, scalable, and cost-effective hybrid cloud architecture for on
 ## 🌍 African Market Website
 
 <p align="center">
-  <img src="assets/images/projects/african-market-thumbnail.png" width="700">
+  <img src="assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance" width="700">
 </p>
 
 Managed and developed a professional website that promotes African artisans and supports community development initiatives.
