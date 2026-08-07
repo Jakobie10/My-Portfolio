@@ -101,7 +101,7 @@ Designed and deployed a secure enterprise Linux infrastructure implementing web 
 - 🛠️ [Technical Skills](skills)
 - 📁 [Featured Projects](projects)
 - 📜 Certifications
-- 📞 [Contact](#let's-connect)
+- 📞 [Contact](#connect-with-me)
 
 ---
 
@@ -111,7 +111,7 @@ My goal is to contribute to organizations by designing secure, scalable, and dat
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 Thank you for visiting my portfolio.
 
