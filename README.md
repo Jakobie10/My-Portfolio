@@ -105,34 +105,28 @@ Designed and deployed a secure enterprise Linux infrastructure implementing web 
 
 ---
 
-## ⭐ Featured Projects
-
-### ☁️ Cloud Computing
-
-- Jumia Nigeria Hybrid Cloud Solution
-
-### 🐧 Systems Administration
-
-- Enterprise Linux Infrastructure Deployment
-
-### 📊 Business Intelligence
-
-- Fleet Operations Dashboard for MALCO Transport Limited
-
-### 🛡️ Cybersecurity
-
-- Enterprise Security Monitoring with Wazuh *(In Progress)*
-
-### 🌍 Web Development
-
-- African Market Website Store
-
----
-
 ## 🎯 Career Objective
 
 My goal is to contribute to organizations by designing secure, scalable, and data-driven technology solutions that improve business performance. I am particularly interested in opportunities involving Cloud Computing, Systems Administration, Business Intelligence, Cybersecurity, and IT Infrastructure, where I can continue learning while creating measurable value through technology.
 
 ---
 
+## 🤝 Let's Connect
+
+Thank you for visiting my portfolio.
+
+I am always open to opportunities in Cloud Computing, Business Intelligence, Cybersecurity, Systems Administration, Technical Support, and IT Infrastructure.
+
+📧 **Email:** *successola10@gmail.com*
+
+💼 **LinkedIn:** *https://www.linkedin.com/in/olabisijames/*
+
+🐙 **GitHub:** https://github.com/Jakobie10
+
+---
+
 *"Technology is most valuable when it solves real business problems and improves people's lives."*
+
+© 2026 James Arowosoye
+
+Built with GitHub Pages and Markdown.
