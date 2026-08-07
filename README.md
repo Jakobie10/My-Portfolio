@@ -94,14 +94,16 @@ Designed and deployed a secure enterprise Linux infrastructure implementing web 
 
 ---
 
-## 📂 Portfolio Sections
+## 📁 Portfolio Sections
 
-- 👤 [About Me](about)
-- 💼 [Professional Experience](experience)
-- 🛠️ [Technical Skills](skills)
-- 📁 [Featured Projects](projects)
-- 📜 Certifications
-- 📞 [Contact](#connect-with-me)
+- 👤 [About Me](about/)
+- 💼 [Professional Experience](experience/)
+- 🛠️ [Technical Skills](skills/)
+- 📂 [Featured Projects](projects/)
+- 📜 [Certifications](certifications/)
+- 📄 [Résumé](resume/)
+- 🗂️ [Portfolio Assets](assets/)
+- 📞 [Contact](#-lets-connect)
 
 ---
 
@@ -111,7 +113,7 @@ My goal is to contribute to organizations by designing secure, scalable, and dat
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 Thank you for visiting my portfolio.
 
