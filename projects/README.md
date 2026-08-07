@@ -42,6 +42,10 @@ AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaste
 
 ## 🌍 Web Development
 
+<p align="center">
+  <img src="../assets/images/projects/african-market-thumbnail.png" width="850">
+</p>
+
 ### African Market Website Store
 
 Managed and developed a professional website for Ouelessebougou Alliance to promote African artisans and expand the organization's digital presence.
@@ -55,6 +59,10 @@ Squarespace • Website Design • Project Management
 ---
 
 ## 🎮 Interactive Learning
+
+<p align="center">
+  <img src="../assets/images/projects/aws-cloud-hero-thumbnail.png" width="850">
+</p>
 
 ### AWS Cloud Hero Quiz
 
