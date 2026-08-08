@@ -324,18 +324,18 @@ A visual walkthrough of the Squarespace backend demonstrates the hands-on e-comm
 
 ## 🧭 Portfolio Navigation
 
-← [Back to Projects](../README.md)
+← [Back to Projects](../../README.md)
 
-🏠 [Home](../../README.md)
+🏠 [Home](../../../README.md)
 
-👤 [About Me](../about/README.md)
+👤 [About Me](../../../about/README.md)
 
-💼 [Professional Experience](../experience/README.md)
+💼 [Professional Experience](../../../experience/README.md)
 
-🛠️ [Technical Skills](../skills/README.md)
+🛠️ [Technical Skills](../../../skills/README.md)
 
-📜 [Certifications](../certifications/README.md)
+📜 [Certifications](../../../certifications/README.md)
 
-📄 [Résumé](../resume/README.md)
+📄 [Résumé](../../../resume/README.md)
 
-📞 [Contact](../README.md#-lets-connect)
+📞 [Contact](../../../README.md#-lets-connect)
