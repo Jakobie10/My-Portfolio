@@ -9,7 +9,6 @@
 **Designing and building an accessible online marketplace that connects African artisans and cultural products with a global audience through Squarespace.**
 
 ---
-
 ---
 
 ## 📋 Project Information
