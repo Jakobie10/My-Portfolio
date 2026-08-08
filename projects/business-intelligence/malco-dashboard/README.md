@@ -10,7 +10,7 @@
 > **Designed and developed an end-to-end Business Intelligence solution that transforms operational fleet data into interactive dashboards, enabling data-driven decision-making for fleet performance, fuel consumption, and operational efficiency at MALCO HAULAGE.**
 
 ---
-
+---
 | **Project Information** | **Details** |
 |-------------------------|-------------|
 | **Project Type** | End-to-End Business Intelligence Solution |
