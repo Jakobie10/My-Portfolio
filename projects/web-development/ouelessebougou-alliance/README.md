@@ -293,17 +293,18 @@ The project also involved hands-on management of the Squarespace backend, includ
 
 ---
 
-#### 🏺 Product Photography
+#### 🏺 Original Product Photography
 
-Original product images supplied for the African Market were incorporated into the online store to present authentic products and support their individual stories.
+The store incorporated original product photographs supplied for the African Market collection. These images were used alongside product descriptions, categories, pricing, and tags to create consistent product listings.
 
 <p align="center">
-  <img src="../../../assets/images/projects/african-market-products.png" width="850">
+  <img src="../../../assets/images/projects/african-market/traditional-african-guitar.jpg" width="280">
+  <img src="../../../assets/images/projects/african-market/beautiful-black-african-drum.jpg" width="280">
+  <img src="../../../assets/images/projects/african-market/tapoli-herb-grinder.jpg" width="280">
 </p>
 
-*Selected original product photography used for the African Market collection.*
+*Selected original product photographs used in the African Market Online Store.*
 
----
 
 #### 🎥 Behind the Store
 
