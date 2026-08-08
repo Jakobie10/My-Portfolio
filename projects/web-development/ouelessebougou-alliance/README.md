@@ -274,7 +274,7 @@ The project report specifically recommends ongoing content refreshes, seasonal c
 The completed African Market Store provides an online storefront where visitors can explore handcrafted products from Mali, learn about their cultural significance, and support the Ouelessebougou Alliance through purchases.
 
 <p align="center">
-  <img src="../../../assets/images/projects/african-market-store.png" width="850">
+  <img src="../../../assets/images/projects/african-market-storefront.png" width="850">
 </p>
 
 *African Market Online Store — completed storefront.*
@@ -286,7 +286,7 @@ The completed African Market Store provides an online storefront where visitors 
 The project also involved hands-on management of the Squarespace backend, including product editing, categories, tags, shipping, payments, sales tax, fees, and product-page customization.
 
 <p align="center">
-  <img src="../../../assets/images/projects/african-market-backend.png" width="850">
+  <img src="../../../assets/images/projects/african-market-backend-categories-tags.png" width="850">
 </p>
 
 *Squarespace backend showing product organization and store management.*
