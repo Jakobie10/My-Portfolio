@@ -46,7 +46,7 @@ AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaste
   <img src="../assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance" width="850">
 </p>
 
-### African Market Website Store
+### African Market Online Store
 
 Managed and developed a professional website for Ouelessebougou Alliance to promote African artisans and expand the organization's digital presence.
 
