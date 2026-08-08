@@ -13,3 +13,12 @@
 <p align="center">
   <img src="../assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure" width="850">
 </p>
+
+<p align="center">
+  <img src="../../../assets/images/projects/african-market-backend-categories-tags.png" width="850">
+</p>
+
+<p align="center">
+  <img src="../../../assets/images/projects/african-market-storefront.png" width="850">
+</p>
+
