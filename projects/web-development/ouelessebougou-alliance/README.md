@@ -306,11 +306,20 @@ The store incorporated original product photographs supplied for the African Mar
 *Selected original product photographs used in the African Market Online Store.*
 
 
-#### 🎥 Behind the Store
+---
 
-A short walkthrough demonstrates the Squarespace backend and the process used to manage products and store settings.
+### 🎥 Behind the Store
 
-> **Note:** The walkthrough focuses on the visual backend workflow and is presented without audio to keep the demonstration clear and distraction-free.
+A visual walkthrough of the Squarespace backend demonstrates the hands-on e-commerce management performed during the project, including product editing, categories, tags, and store configuration.
+
+<p align="center">
+  <video controls width="850">
+    <source src="../../../assets/videos/projects/african-market-squarespace-walkthrough.mp4" type="video/mp4">
+    Your browser does not support the video element.
+  </video>
+</p>
+
+*Squarespace backend walkthrough demonstrating product and store management.*
 
 ---
 
