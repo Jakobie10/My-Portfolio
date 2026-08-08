@@ -1,4 +1,4 @@
-# About Me
+# 👤 About Me
 
 ## Hello, I'm James Arowosoye
 
@@ -16,7 +16,7 @@ I am currently seeking opportunities where I can contribute as a Cloud Engineer,
 
 ---
 
-## Core Values
+## 🎯 Core Values
 
 - Integrity
 - Lifelong Learning
@@ -29,7 +29,7 @@ I am currently seeking opportunities where I can contribute as a Cloud Engineer,
 
 ---
 
-## Technical Interests
+## 💻 Technical Interests
 
 - Cloud Computing (AWS & Microsoft Azure)
 - Cybersecurity
