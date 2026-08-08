@@ -335,7 +335,3 @@ A visual walkthrough of the Squarespace backend demonstrates the hands-on e-comm
 🛠️ [Technical Skills](../../../skills/README.md)
 
 📜 [Certifications](../../../certifications/README.md)
-
-📄 [Résumé](../../../resume/README.md)
-
-📞 [Contact](../../../README.md#-lets-connect)
