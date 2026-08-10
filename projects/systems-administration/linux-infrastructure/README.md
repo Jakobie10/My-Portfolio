@@ -11,7 +11,7 @@
 ![UFW](https://img.shields.io/badge/UFW-F43F5E?style=for-the-badge)
 
 > **Designing and deploying a secure, scalable Linux infrastructure on Amazon Web Services (AWS) to support enterprise web services, storage management, networking, and system security.**
-
+---
 ---
 
 ## 📋 Project Information
@@ -105,15 +105,49 @@ This project was particularly valuable because it gave me practical experience c
 
 ---
 
+---
+
 ## 🏗️ Solution Architecture
 
 The infrastructure follows a layered architecture in which **Amazon EC2 provides the cloud computing foundation**, while Ubuntu Server hosts and manages the enterprise services.
 
 The architecture combines web services, DNS, secure remote administration, storage management, access controls, and firewall protection into a single managed Linux environment.
 
-### Architecture Overview
+### Architecture Flow
 
-The Ubuntu Server instance serves as the central platform for the infrastructure. **Apache2** provides web services, while **Bind9** handles DNS functionality and **SSH** enables secure remote administration.
+<pre>
+                         ☁️ Amazon Web Services
+                                  │
+                                  ▼
+                       ┌─────────────────────┐
+                       │     Amazon EC2      │
+                       │ Ubuntu Server 24.04 │
+                       └──────────┬──────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+       🌐 Apache2             🌍 Bind9 DNS          🔐 SSH
+       Web Services           Name Resolution      Remote Access
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  ▼
+                       ┌─────────────────────┐
+                       │     LVM Storage     │
+                       └──────────┬──────────┘
+                                  │
+                    ┌─────────────┼─────────────┐
+                    ▼             ▼             ▼
+                 👥 Users       🔑 ACLs       🛡️ UFW
+                 & Groups      Permissions    Firewall
+                                  │
+                                  ▼
+                       ☁️ Amazon S3 Backup
+</pre>
+
+#### Architecture Overview
+
+The **Ubuntu Server** instance serves as the central platform for the infrastructure. **Apache2** provides web services, while **Bind9** handles DNS functionality and **SSH** enables secure remote administration.
 
 Storage is managed using **LVM**, allowing disk resources to be organized and expanded efficiently. Linux users, groups, and **ACLs** provide controlled access to system resources, while **UFW** adds a network-level security layer.
 
@@ -324,7 +358,7 @@ The following screenshots provide visual evidence of the AWS and Linux infrastru
 *Screenshot showing the Ubuntu Server instance running on Amazon EC2, including the instance status and server configuration.*
 
 <p align="center">
-  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/01-aws-ec2-instance.png"
+  <img src="../../../assets/images/projects/linux-infrastructure/01-aws-ec2-instance.png"
        alt="AWS EC2 Ubuntu Server instance"
        width="900">
 </p>
@@ -334,7 +368,7 @@ The following screenshots provide visual evidence of the AWS and Linux infrastru
 *Screenshot showing the Amazon EBS volumes provisioned for the Linux infrastructure.*
 
 <p align="center">
-  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/02-aws-ebs-volumes.png"
+  <img src="../../../assets/images/projects/linux-infrastructure/02-aws-ebs-volumes.png"
        alt="Amazon EBS volumes"
        width="900">
 </p>
@@ -344,7 +378,7 @@ The following screenshots provide visual evidence of the AWS and Linux infrastru
 *Screenshot showing Ubuntu Server system information and the Amazon EC2 environment.*
 
 <p align="center">
-  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/03-linux-system-information.png"
+  <img src="../../../assets/images/projects/linux-infrastructure/03-linux-system-information.png"
        alt="Ubuntu Server system information"
        width="900">
 </p>
@@ -354,7 +388,7 @@ The following screenshots provide visual evidence of the AWS and Linux infrastru
 *Screenshot showing Linux file ownership, permissions, and Access Control List configuration.*
 
 <p align="center">
-  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/04-linux-file-permissions-acl.png"
+  <img src="../../../assets/images/projects/linux-infrastructure/04-linux-file-permissions-acl.png"
        alt="Linux file permissions and ACL configuration"
        width="900">
 </p>
@@ -364,7 +398,7 @@ The following screenshots provide visual evidence of the AWS and Linux infrastru
 *Screenshot showing the active UFW firewall and configured network access rules.*
 
 <p align="center">
-  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/05-ufw-firewall-configuration.png"
+  <img src="../../../assets/images/projects/linux-infrastructure/05-ufw-firewall-configuration.png"
        alt="UFW firewall configuration"
        width="900">
 </p>
@@ -374,7 +408,7 @@ The following screenshots provide visual evidence of the AWS and Linux infrastru
 *Screenshot showing Linux storage utilization and network interface configuration.*
 
 <p align="center">
-  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/06-linux-storage-network-configuration.png"
+  <img src="../../../assets/images/projects/linux-infrastructure/06-linux-storage-network-configuration.png"
        alt="Linux storage and network configuration"
        width="900">
 </p>
