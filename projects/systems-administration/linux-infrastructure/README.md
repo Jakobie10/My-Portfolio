@@ -111,37 +111,6 @@ The infrastructure follows a layered architecture in which **Amazon EC2 provides
 
 The architecture combines web services, DNS, secure remote administration, storage management, access controls, and firewall protection into a single managed Linux environment.
 
-#### Architecture Flow
-
-```text
-                         ☁️ Amazon Web Services
-                                  │
-                                  ▼
-                       ┌─────────────────────┐
-                       │     Amazon EC2      │
-                       │ Ubuntu Server 24.04 │
-                       └──────────┬──────────┘
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-             ▼                    ▼                    ▼
-       🌐 Apache2             🌍 Bind9 DNS          🔐 SSH
-       Web Services           Name Resolution      Remote Access
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  ▼
-                       ┌─────────────────────┐
-                       │     LVM Storage     │
-                       └──────────┬──────────┘
-                                  │
-                    ┌─────────────┼─────────────┐
-                    ▼             ▼             ▼
-                 👥 Users       🔑 ACLs       🛡️ UFW
-                 & Groups      Permissions    Firewall
-                                  │
-                                  ▼
-                       ☁️ Amazon S3 Backup
-
 ### Architecture Overview
 
 The Ubuntu Server instance serves as the central platform for the infrastructure. **Apache2** provides web services, while **Bind9** handles DNS functionality and **SSH** enables secure remote administration.
@@ -150,3 +119,4 @@ Storage is managed using **LVM**, allowing disk resources to be organized and ex
 
 A planned **Amazon S3 backup strategy** provides an additional layer of resilience for business continuity and disaster recovery.
 
+---
