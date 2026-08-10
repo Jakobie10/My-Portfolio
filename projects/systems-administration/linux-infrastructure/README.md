@@ -1,341 +1,155 @@
-# Enterprise Linux Infrastructure Deployment for PromisedLand.com
+# 🖥️ Enterprise Linux Infrastructure Deployment for PromisedLand.com
 
-`Ubuntu Server 24.04 LTS` `AWS EC2` `Linux Administration` `LVM` `Apache2` `DNS` `SSH` `ACLs` `UFW Firewall` `System Security`
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-005571?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=openssh&logoColor=white)
+![LVM](https://img.shields.io/badge/LVM-6B7280?style=for-the-badge)
+![UFW](https://img.shields.io/badge/UFW-F43F5E?style=for-the-badge)
 
-> **Designing and deploying a secure Linux server infrastructure on Amazon Web Services (AWS) to deliver scalable, reliable, and well-managed enterprise services.**
+> **Designing and deploying a secure, scalable Linux infrastructure on Amazon Web Services (AWS) to support enterprise web services, storage management, networking, and system security.**
 
 ---
 
-| **Project Information** | **Details** |
-|--------------------------|-------------|
+## 📋 Project Information
+
+| **Detail** | **Information** |
+|---|---|
 | **Project Type** | Enterprise Linux Infrastructure Deployment |
 | **Role** | Linux Systems Administrator |
 | **Environment** | Amazon Web Services (AWS) |
 | **Operating System** | Ubuntu Server 24.04 LTS |
+| **Cloud Platform** | Amazon EC2 |
 | **Project Status** | Completed |
-| **Focus Areas** | Linux Administration, Cloud Infrastructure, Security Hardening, Storage Management |
-| **Skills Applied** | Linux, AWS EC2, Apache2, LVM, DNS, SSH, ACLs, UFW, System Administration |
-
-## Key Technologies
-
-- Ubuntu Server 24.04 LTS
-- Amazon EC2
-- Apache2
-- Bind9 DNS
-- Logical Volume Manager (LVM)
-- SSH
-- UFW Firewall
-- Access Control Lists (ACLs)
-- Amazon S3
+| **Focus Areas** | Linux Administration, Cloud Infrastructure, Security, Storage Management |
+| **Skills Applied** | Linux, AWS EC2, Apache2, LVM, DNS, SSH, ACLs, UFW |
 
 ---
 
-## Executive Summary
+## 🚀 Executive Summary
 
-This project demonstrates the design, deployment, and administration of a secure enterprise Linux infrastructure hosted on Amazon Web Services (AWS).
+This project demonstrates the deployment and administration of an enterprise Linux infrastructure hosted on Amazon Web Services (AWS).
 
-The solution was built using Ubuntu Server 24.04 LTS and follows industry best practices for Linux system administration, cloud deployment, and infrastructure security.
+The environment was built using **Ubuntu Server 24.04 LTS on Amazon EC2** and incorporated practical Linux administration, cloud infrastructure, storage management, web services, networking, access control, and security practices.
 
-Key implementation areas included Logical Volume Manager (LVM) for flexible storage management, Apache2 web server deployment, DNS configuration, secure SSH access, firewall configuration using UFW, Linux user and group administration, Access Control Lists (ACLs), and a backup strategy for business continuity.
+Key implementation areas included **Logical Volume Manager (LVM), Apache2, DNS, SSH, Linux users and groups, Access Control Lists (ACLs), UFW firewall configuration, and backup planning**.
 
-The result is a scalable, secure, and maintainable server environment that supports enterprise workloads while demonstrating practical Linux administration and cloud engineering skills.
-
-## Table of Contents
-
-- [Business Challenge](#business-challenge)
-- [Project Objectives](#project-objectives)
-- [My Role](#my-role)
-- [Technologies Used](#technologies-used)
-- [Solution Architecture](#solution-architecture)
-- [Enterprise Infrastructure Architecture](#enterprise-infrastructure-architecture)
-- [Security Considerations](#security-considerations)
-- [Implementation Process](#implementation-process)
-- [Results & Business Benefits](#results--business-benefits)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Lessons Learned](#lessons-learned)
-- [Future Improvements](#future-improvements)
+The project provided hands-on experience combining Linux system administration with AWS cloud infrastructure and strengthened my understanding of how cloud-hosted Linux environments can be designed, secured, and maintained for enterprise workloads.
 
 ---
 
-## Business Challenge
+## 🎯 Business Challenge
 
-PromisedLand.com required a secure and reliable server infrastructure capable of hosting business services while ensuring high availability, strong security, and efficient system administration. Traditional standalone server deployments often face challenges related to storage flexibility, user management, security vulnerabilities, and disaster recovery.
+PromisedLand.com required a reliable and secure server environment capable of supporting business web services while providing flexibility for future growth.
 
-The organization required an infrastructure that could be easily maintained, securely accessed by administrators, and expanded as business requirements evolved. Additionally, the deployment needed to follow industry best practices for Linux server administration, including secure authentication, firewall protection, storage optimization, and controlled user access.
+The project presented several infrastructure requirements, including effective storage management, controlled user access, secure remote administration, reliable web and DNS services, and protection against unauthorized network access.
 
-To address these challenges, a cloud-based Linux infrastructure was proposed using Amazon EC2, providing a flexible platform that supports enterprise workloads while simplifying administration and improving long-term scalability.
+To address these requirements, an **Ubuntu Server 24.04 LTS environment was deployed on Amazon EC2**, combining Linux system administration practices with AWS cloud infrastructure.
+
+The solution was designed to provide a practical foundation for hosting enterprise services while maintaining security, manageability, and scalability.
 
 ---
 
-## Project Objectives
+## 🎯 Project Objectives
 
 The primary objectives of this project were to:
 
-- Deploy a secure Ubuntu Server 24.04 LTS instance on Amazon EC2.
-- Design a scalable storage architecture using Logical Volume Manager (LVM).
-- Configure secure user and group management with Linux permissions and Access Control Lists (ACLs).
-- Deploy Apache2 to provide web hosting services.
-- Configure DNS services for reliable name resolution.
-- Strengthen server security through SSH hardening and UFW firewall configuration.
-- Develop a backup and recovery strategy to protect critical organizational data.
-- Demonstrate Linux system administration best practices suitable for enterprise environments.
+- Deploy and configure **Ubuntu Server 24.04 LTS on Amazon EC2**.
+- Implement flexible storage management using **Logical Volume Manager (LVM)**.
+- Configure Linux users, groups, permissions, and **Access Control Lists (ACLs)**.
+- Deploy and configure **Apache2** for web services.
+- Configure **DNS services** for reliable name resolution.
+- Secure remote administration using **SSH**.
+- Configure the **UFW firewall** to control network access.
+- Develop a backup and recovery strategy to support business continuity.
+- Apply practical Linux and cloud administration best practices.
 
 ---
 
-## My Role
+## 👨🏽‍💻 My Role
 
-As the Linux Systems Administrator for this project, I was responsible for designing, deploying, securing, and documenting the server infrastructure to meet the organization's operational requirements.
+As the **Linux Systems Administrator**, I was responsible for deploying, configuring, securing, and documenting the infrastructure.
 
 My responsibilities included:
 
-- Planning the server architecture and deployment strategy.
-- Provisioning and configuring an Ubuntu Server 24.04 LTS instance on Amazon EC2.
-- Designing a flexible storage solution using Logical Volume Manager (LVM).
-- Configuring Linux users, groups, file permissions, and Access Control Lists (ACLs).
-- Deploying and configuring Apache2 to host web services.
-- Implementing DNS and network configuration.
-- Securing the server through SSH hardening and UFW firewall rules.
-- Developing backup and recovery recommendations to improve business continuity.
-- Producing technical documentation to support future system maintenance and administration.
+- Provisioning and configuring the Ubuntu Server environment on **Amazon EC2**.
+- Managing Linux storage using **LVM**.
+- Creating and managing users, groups, permissions, and ACLs.
+- Installing and configuring **Apache2** and DNS services.
+- Configuring secure remote access through **SSH**.
+- Implementing and managing **UFW firewall rules**.
+- Testing system connectivity, services, storage, and security configurations.
+- Documenting the completed infrastructure and administrative procedures.
 
-This project demonstrates my ability to deploy and manage enterprise Linux infrastructure while balancing security, performance, maintainability, and business requirements.
+This project was particularly valuable because it gave me practical experience combining **Linux system administration with AWS cloud infrastructure**.
 
 ---
 
-## Technologies Used
+## 🧰 Technologies Used
 
-| Technology | Purpose |
-|------------|---------|
-| **Ubuntu Server 24.04 LTS** | Enterprise Linux operating system used to host and manage server services. |
-| **Amazon EC2** | Cloud platform providing scalable and reliable virtual server infrastructure. |
-| **Logical Volume Manager (LVM)** | Enables flexible storage allocation and future expansion without major downtime. |
-| **Apache2** | Web server used to host business web applications and services. |
-| **Bind9 DNS** | Provides domain name resolution for internal and external network services. |
-| **SSH** | Enables secure remote server administration using encrypted connections. |
-| **UFW Firewall** | Controls inbound and outbound network traffic to improve server security. |
+| **Technology** | **Purpose** |
+|---|---|
+| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) **Ubuntu Server 24.04 LTS** | Enterprise Linux operating system used to host and manage server services. |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) **Amazon EC2** | Cloud platform used to provision and host the Linux server. |
+| **LVM** | Provides flexible storage allocation and management. |
+| ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) **Apache2** | Web server used to host web services. |
+| **Bind9 DNS** | Provides domain name resolution and DNS services. |
+| ![SSH](https://img.shields.io/badge/SSH-222222?style=flat-square&logo=openssh&logoColor=white) **SSH** | Provides secure remote administration of the Linux server. |
+| **UFW Firewall** | Controls network traffic and restricts unauthorized access. |
 | **Linux Users & Groups** | Manages authentication, authorization, and administrative access. |
-| **Access Control Lists (ACLs)** | Provides granular file and directory permissions beyond standard Linux permissions. |
-| **AWS S3 (Backup Strategy)** | Supports secure backup storage and disaster recovery planning. |
+| **ACLs** | Provides granular file and directory access permissions. |
+| ![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white) **Amazon S3** | Supports the planned backup and disaster recovery strategy. |
 
 ---
 
-## Solution Architecture
+## 🏗️ Solution Architecture
 
-The infrastructure was designed using a layered architecture to provide secure, reliable, and maintainable enterprise services.
+The infrastructure follows a layered architecture in which **Amazon EC2 provides the cloud computing foundation**, while Ubuntu Server hosts and manages the enterprise services.
 
-An Ubuntu Server 24.04 LTS instance hosted on Amazon EC2 serves as the core computing platform. Storage is managed through Logical Volume Manager (LVM), allowing flexible allocation of disk space and simplified future expansion.
+The architecture combines web services, DNS, secure remote administration, storage management, access controls, and firewall protection into a single managed Linux environment.
 
-Business services are delivered through the Apache2 web server, while Bind9 DNS provides reliable name resolution for network resources. Linux user accounts, security groups, file permissions, and Access Control Lists (ACLs) ensure controlled access to system resources.
-
-Server security is strengthened through SSH hardening, UFW firewall configuration, and secure authentication practices. Regular backups are incorporated into the overall infrastructure strategy to improve resilience and support disaster recovery.
-
-This architecture provides a scalable foundation that supports organizational growth while maintaining strong security and operational efficiency.
-
----
-
-#### Enterprise Infrastructure Architecture
+#### Architecture Flow
 
 ```text
-                              Internet
+                         ☁️ Amazon Web Services
                                   │
                                   ▼
-                     +-------------------------+
-                     |      Amazon EC2         |
-                     | Ubuntu Server 24.04 LTS |
-                     +-----------+-------------+
-                                 │
-        ┌────────────────────────┼─────────────────────────┐
-        │                        │                         │
-        ▼                        ▼                         ▼
-+----------------+      +----------------+      +----------------+
-|   Apache2      |      |   Bind9 DNS    |      |      SSH       |
-|  Web Server    |      | Domain Service |      | Remote Access  |
-+----------------+      +----------------+      +----------------+
-                                 │
-                                 ▼
-                    +--------------------------+
-                    |   Linux File System      |
-                    |       (LVM Storage)      |
-                    +------------+-------------+
-                                 │
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-              ▼                  ▼                  ▼
-      +---------------+   +---------------+   +---------------+
-      | Users/Groups  |   | ACLs & Permissions | UFW Firewall |
-      +---------------+   +---------------+   +---------------+
-                                 │
-                                 ▼
-                      +----------------------+
-                      | AWS S3 Backup Plan   |
-                      +----------------------+
-```
+                       ┌─────────────────────┐
+                       │     Amazon EC2      │
+                       │ Ubuntu Server 24.04 │
+                       └──────────┬──────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+       🌐 Apache2             🌍 Bind9 DNS          🔐 SSH
+       Web Services           Name Resolution      Remote Access
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  ▼
+                       ┌─────────────────────┐
+                       │     LVM Storage     │
+                       └──────────┬──────────┘
+                                  │
+                    ┌─────────────┼─────────────┐
+                    ▼             ▼             ▼
+                 👥 Users       🔑 ACLs       🛡️ UFW
+                 & Groups      Permissions    Firewall
+                                  │
+                                  ▼
+                       ☁️ Amazon S3 Backup
 
 #### Architecture Overview
 
-The enterprise infrastructure is hosted on an Ubuntu Server 24.04 LTS instance running on Amazon EC2. Core services include Apache2 for web hosting, Bind9 for DNS, and SSH for secure remote administration.
+The Ubuntu Server instance serves as the central platform for the infrastructure. Apache2 provides web services, while Bind9 handles DNS functionality and SSH enables secure remote administration.
 
-Storage is managed using Logical Volume Manager (LVM), providing flexibility for future expansion without significant downtime. Linux users, groups, and Access Control Lists (ACLs) enforce secure access to system resources, while the UFW firewall protects network services. A backup strategy using Amazon S3 strengthens disaster recovery and supports business continuity.
+Storage is managed using LVM, allowing disk resources to be organized and expanded efficiently. Linux users, groups, and ACLs provide controlled access to system resources, while UFW adds a network-level security layer.
 
----
+A planned Amazon S3 backup strategy provides an additional layer of resilience for business continuity and disaster recovery.
 
-## Security Considerations
+### ☁️ AWS EC2 Instance Deployment
 
-Security was a key design priority throughout the deployment. Multiple layers of protection were implemented to reduce risk and improve system resilience.
-
-The security strategy included:
-
-- Securing remote administration through SSH configuration and key-based authentication.
-- Restricting network access using the Uncomplicated Firewall (UFW).
-- Applying the principle of least privilege through Linux user accounts, groups, and Access Control Lists (ACLs).
-- Protecting critical system files with appropriate ownership and file permissions.
-- Keeping the operating system updated with security patches.
-- Implementing regular backup procedures to support disaster recovery.
-- Monitoring system logs to identify unauthorized access attempts and operational issues.
-
-Together, these measures create a secure Linux environment that follows enterprise security best practices while maintaining system availability and ease of administration.
-
----
-
-## Implementation Process
-
-The deployment was completed using a structured approach to ensure the infrastructure was secure, reliable, and easy to manage.
-
-#### Phase 1 – Environment Preparation
-
-- Provisioned an Ubuntu Server 24.04 LTS instance on Amazon EC2.
-- Updated the operating system and installed required packages.
-
-#### Phase 2 – Storage Configuration
-
-- Configured Logical Volume Manager (LVM).
-- Created logical volumes and mounted file systems.
-
-#### Phase 3 – Server Services
-
-- Installed and configured Apache2.
-- Configured Bind9 DNS services.
-- Verified network connectivity and service availability.
-
-#### Phase 4 – Security Hardening
-
-- Configured SSH for secure remote administration.
-- Implemented UFW firewall rules.
-- Created Linux users, groups, permissions, and ACLs.
-
-#### Phase 5 – Backup and Documentation
-
-- Planned a backup strategy using Amazon S3.
-- Documented server configuration, security settings, and administrative procedures for future maintenance.
-
----
-
-## Results & Business Benefits
-
-The completed Linux infrastructure provides a secure, scalable, and maintainable platform capable of supporting enterprise business operations. By combining cloud hosting with Linux administration best practices, the solution improves system reliability while simplifying future growth and maintenance.
-
-### Key Business Benefits
-
-- Improved system security through layered access controls, firewall protection, and secure remote administration.
-- Increased storage flexibility using Logical Volume Manager (LVM), allowing future expansion with minimal downtime.
-- Reliable web hosting through Apache2 and DNS services.
-- Simplified administration through structured user, group, and permission management.
-- Enhanced disaster recovery through a planned backup strategy using Amazon S3.
-- A scalable cloud infrastructure capable of supporting future organizational growth.
-
-Overall, this deployment establishes a stable and secure enterprise environment that balances operational efficiency with long-term business resilience.
-
----
-
-## Skills Demonstrated
-
-This project strengthened both my technical expertise and my ability to design infrastructure that aligns with business requirements.
-
-### Technical Skills
-
-- Linux System Administration
-- Ubuntu Server Administration
-- Amazon EC2
-- Apache2 Web Server
-- Bind9 DNS
-- Logical Volume Manager (LVM)
-- SSH Configuration
-- Linux User & Group Administration
-- Access Control Lists (ACLs)
-- UFW Firewall
-- Backup & Recovery Planning
-- Infrastructure Documentation
-
-### Professional Skills
-
-- Infrastructure Planning
-- Systems Analysis
-- Problem Solving
-- Technical Documentation
-- Risk Assessment
-- Security Best Practices
-- Business Continuity Planning
-- Critical Thinking
-
-This project demonstrates my ability to deploy, secure, and maintain enterprise Linux infrastructure while supporting organizational goals and operational efficiency.
-
----
-
-## Lessons Learned
-
-This project reinforced the importance of planning before deployment. A well-designed Linux infrastructure is not simply a collection of installed services—it is an integrated system where storage, networking, security, and user management work together to support business operations.
-
-One of the most valuable lessons I learned was that system security must be considered from the beginning rather than added later. Implementing secure authentication, firewall rules, user permissions, and access controls during deployment creates a stronger and more manageable environment.
-
-The project also strengthened my understanding of cloud-based Linux administration by demonstrating how enterprise services can be deployed, secured, and maintained within AWS while remaining scalable and resilient.
-
-Overall, this experience improved both my technical confidence and my ability to design infrastructure that supports long-term organizational needs.
-
----
-
-## Future Improvements
-
-Although the infrastructure meets the current business requirements, several enhancements could further improve scalability, security, automation, and operational efficiency.
-
-Potential future improvements include:
-
-- Automate server deployment using Infrastructure as Code (IaC) with Terraform or AWS CloudFormation.
-- Implement configuration management using Ansible to standardize server provisioning.
-- Deploy Docker containers to simplify application deployment and improve portability.
-- Introduce Kubernetes for container orchestration as business workloads expand.
-- Configure automated monitoring and alerting using Amazon CloudWatch and AWS Systems Manager.
-- Implement centralized log management with Wazuh or the ELK Stack for enhanced security monitoring.
-- Establish automated backup scheduling and recovery testing to strengthen disaster preparedness.
-
-These improvements would increase operational efficiency while supporting future business growth and infrastructure modernization.
-
----
-
-# Key Achievements
-
-✅ Successfully designed and deployed an enterprise Linux infrastructure on AWS EC2.
-
-✅ Implemented secure storage management using Logical Volume Manager (LVM).
-
-✅ Configured Apache2, Bind9 DNS, SSH, Linux users/groups, and Access Control Lists (ACLs).
-
-✅ Strengthened infrastructure security through SSH hardening and UFW firewall configuration.
-
-✅ Developed a backup and disaster recovery strategy using Amazon S3.
-
-✅ Produced comprehensive technical documentation following enterprise infrastructure best practices.
-
----
-
-## Portfolio Navigation
-
-← [Back to Projects](../README.md)
-
-🏠 [Home](../../README.md)
-
-👤 [About Me](../../01-about/README.md)
-
-💼 [Professional Experience](../../02-experience/README.md)
-
-🛠️ [Technical Skills](../../03-skills/README.md)
-
+*Screenshot showing the Ubuntu Server instance running on Amazon EC2, including the instance status and `t3.micro` configuration.*
