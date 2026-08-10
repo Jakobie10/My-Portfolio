@@ -120,3 +120,279 @@ Storage is managed using **LVM**, allowing disk resources to be organized and ex
 A planned **Amazon S3 backup strategy** provides an additional layer of resilience for business continuity and disaster recovery.
 
 ---
+
+## 🔐 Security Considerations
+
+Security was a core consideration throughout the deployment. The infrastructure uses multiple layers of protection to reduce unauthorized access and improve system resilience.
+
+#### 🔑 Secure Remote Access
+
+**SSH** was configured to provide secure remote administration of the Ubuntu Server environment while reducing exposure to unauthorized access.
+
+#### 🛡️ Network Protection
+
+The **UFW firewall** was configured to control network traffic and restrict access to only the services required by the infrastructure.
+
+#### 👥 Access Control
+
+Linux **users, groups, file permissions, and ACLs** were used to control access to system resources and apply the principle of least privilege.
+
+#### 📦 System Protection
+
+The server environment was maintained using appropriate system administration and security practices, including system updates and controlled access to critical resources.
+
+#### 💾 Backup & Recovery
+
+A planned **Amazon S3 backup strategy** provides an additional layer of protection for critical data and supports business continuity and disaster recovery.
+
+Together, these controls create a layered security approach that protects the server while maintaining the accessibility required for legitimate administration and enterprise services.
+
+---
+
+## ⚙️ Implementation Process
+
+The infrastructure was deployed through a structured process covering cloud provisioning, Linux configuration, service deployment, security hardening, and backup planning.
+
+#### Phase 1 — AWS & Server Deployment
+
+- Provisioned an **Amazon EC2** instance.
+- Installed and configured **Ubuntu Server 24.04 LTS**.
+- Updated the operating system and installed required packages.
+- Verified server connectivity and system resources.
+
+#### Phase 2 — Storage Configuration
+
+- Configured **Logical Volume Manager (LVM)**.
+- Created and organized logical volumes.
+- Mounted and verified the required file systems.
+- Prepared the storage environment for future expansion.
+
+#### Phase 3 — Enterprise Services
+
+- Installed and configured **Apache2** for web services.
+- Configured **Bind9 DNS** for name resolution.
+- Configured **SSH** for secure remote administration.
+- Verified service availability and network connectivity.
+
+#### Phase 4 — Security & Access Control
+
+- Created and configured Linux users and groups.
+- Applied file ownership and permissions.
+- Configured **Access Control Lists (ACLs)** for granular access.
+- Enabled and configured the **UFW firewall**.
+- Reviewed network access and security settings.
+
+#### Phase 5 — Backup & Documentation
+
+- Developed a backup strategy using **Amazon S3**.
+- Verified system configuration and services.
+- Documented the infrastructure and administrative procedures.
+- Reviewed the completed environment for maintainability and future expansion.
+
+---
+
+## 📊 Results & Business Benefits
+
+The completed infrastructure provides a secure and maintainable Linux environment hosted on AWS. The deployment demonstrates how cloud infrastructure and Linux administration can work together to support enterprise services.
+
+#### ☁️ Cloud Infrastructure
+
+The Linux environment was successfully deployed on **Amazon EC2**, providing a flexible cloud-based platform for hosting and managing server workloads.
+
+#### 🔐 Improved Security
+
+SSH, UFW, Linux permissions, users and groups, and ACLs provide multiple layers of protection for the server and its resources.
+
+#### 💾 Flexible Storage
+
+LVM provides a structured approach to storage management and allows storage resources to be expanded as future requirements change.
+
+#### 🌐 Reliable Services
+
+Apache2 and Bind9 provide essential web and DNS capabilities within the Linux environment.
+
+#### 🛠️ Improved Administration
+
+Structured user management, permissions, remote administration, and documented configurations make the environment easier to maintain.
+
+#### ♻️ Business Continuity
+
+The planned Amazon S3 backup strategy provides a foundation for protecting critical data and supporting future disaster recovery requirements.
+
+Overall, the project demonstrates a practical combination of **AWS cloud infrastructure, Linux administration, security, and enterprise systems management**.
+
+---
+
+## 💡 Skills Demonstrated
+
+This project strengthened my ability to combine cloud infrastructure with practical Linux system administration and security practices.
+
+#### ☁️ Cloud & Infrastructure
+
+- Amazon Web Services (AWS)
+- Amazon EC2
+- Cloud Infrastructure Deployment
+- Infrastructure Planning
+- Server Provisioning
+
+#### 🐧 Linux Administration
+
+- Ubuntu Server Administration
+- Linux File System Management
+- Logical Volume Manager (LVM)
+- Linux Users & Groups
+- File Permissions
+- Access Control Lists (ACLs)
+- Apache2
+- Bind9 DNS
+- SSH
+
+#### 🔐 Security
+
+- UFW Firewall Configuration
+- Secure Remote Administration
+- Access Control
+- Least-Privilege Principles
+- Security Hardening
+- Backup & Recovery Planning
+
+#### 🤝 Professional Skills
+
+- Systems Analysis
+- Problem Solving
+- Technical Documentation
+- Infrastructure Planning
+- Critical Thinking
+- Risk Assessment
+- Troubleshooting
+
+This project demonstrates my ability to deploy, configure, secure, and document a cloud-hosted Linux environment while considering both technical requirements and organizational needs.
+
+---
+
+## 📚 Lessons Learned
+
+This project strengthened my understanding of how Linux administration and cloud infrastructure work together to support reliable enterprise systems.
+
+One of the most important lessons I learned was the importance of **planning infrastructure before implementation**. Storage, networking, security, user access, and services must be considered together rather than configured independently.
+
+The project also gave me my **first practical experience with AWS cloud services**, helping me understand how a Linux server can be provisioned and managed within a cloud environment.
+
+I learned that security should be integrated throughout the deployment process. SSH security, firewall rules, user permissions, ACLs, and controlled access all contribute to a stronger overall infrastructure.
+
+Working with LVM also improved my understanding of flexible storage management and how infrastructure can be designed to accommodate future growth.
+
+Overall, this project gave me a strong foundation in **cloud-based Linux administration** and increased my confidence in working with AWS infrastructure.
+
+---
+
+## 🚀 Future Improvements
+
+Although the current infrastructure meets the project's requirements, several improvements could further strengthen scalability, automation, monitoring, and security.
+
+- ☁️ **Infrastructure as Code:** Use Terraform or AWS CloudFormation to automate infrastructure deployment and configuration.
+- ⚙️ **Configuration Management:** Introduce Ansible to automate server configuration and maintain consistency.
+- 📦 **Containerization:** Deploy Docker containers to improve application portability and simplify service management.
+- 📊 **Monitoring:** Configure Amazon CloudWatch for system monitoring, performance metrics, and automated alerts.
+- 🔎 **Centralized Logging:** Implement a centralized logging and security monitoring solution for improved visibility and incident investigation.
+- 💾 **Automated Backups:** Implement scheduled automated backups and regularly test recovery procedures.
+- 🔐 **Advanced Security:** Introduce additional AWS security services and automated security assessments as the infrastructure grows.
+
+These improvements would help evolve the environment from a manually managed Linux deployment toward a more automated, observable, and resilient cloud infrastructure.
+
+---
+
+## 🏆 Key Achievements
+
+- ☁️ Successfully deployed **Ubuntu Server 24.04 LTS on Amazon EC2**.
+- 🐧 Applied practical **Linux system administration** principles.
+- 💾 Implemented flexible storage management using **LVM**.
+- 🌐 Configured **Apache2 web services and Bind9 DNS**.
+- 🔐 Implemented **SSH, UFW, Linux permissions, users, groups, and ACLs**.
+- 💡 Gained practical experience combining **AWS cloud infrastructure with Linux administration**.
+- 📚 Documented the infrastructure and administrative procedures for future maintenance.
+- 🛡️ Developed a backup and disaster recovery strategy using **Amazon S3**.
+
+---
+
+## 📸 Deployment Evidence
+
+The following screenshots provide visual evidence of the AWS and Linux infrastructure deployed during the project.
+
+#### ☁️ AWS EC2 Instance Deployment
+
+*Screenshot showing the Ubuntu Server instance running on Amazon EC2, including the instance status and server configuration.*
+
+<p align="center">
+  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/01-aws-ec2-instance.png"
+       alt="AWS EC2 Ubuntu Server instance"
+       width="900">
+</p>
+
+#### 💾 Amazon EBS Storage Configuration
+
+*Screenshot showing the Amazon EBS volumes provisioned for the Linux infrastructure.*
+
+<p align="center">
+  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/02-aws-ebs-volumes.png"
+       alt="Amazon EBS volumes"
+       width="900">
+</p>
+
+#### 🐧 Linux System Information
+
+*Screenshot showing Ubuntu Server system information and the Amazon EC2 environment.*
+
+<p align="center">
+  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/03-linux-system-information.png"
+       alt="Ubuntu Server system information"
+       width="900">
+</p>
+
+#### 🔐 Linux File Permissions & ACLs
+
+*Screenshot showing Linux file ownership, permissions, and Access Control List configuration.*
+
+<p align="center">
+  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/04-linux-file-permissions-acl.png"
+       alt="Linux file permissions and ACL configuration"
+       width="900">
+</p>
+
+#### 🛡️ UFW Firewall Configuration
+
+*Screenshot showing the active UFW firewall and configured network access rules.*
+
+<p align="center">
+  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/05-ufw-firewall-configuration.png"
+       alt="UFW firewall configuration"
+       width="900">
+</p>
+
+#### 💾 Linux Storage & Network Configuration
+
+*Screenshot showing Linux storage utilization and network interface configuration.*
+
+<p align="center">
+  <img src="../../../assets/images/projects/systems-administration/linux-infrastructure/06-linux-storage-network-configuration.png"
+       alt="Linux storage and network configuration"
+       width="900">
+</p>
+
+---
+
+## 🧭 Portfolio Navigation
+
+← [Back to Projects](../README.md)
+
+🏠 [Home](../../../README.md)
+
+👤 [About Me](../../../about/README.md)
+
+💼 [Professional Experience](../../../experience/README.md)
+
+🛠️ [Technical Skills](../../../skills/README.md)
+
+📜 [Certifications](../../../certifications/README.md)
+
+📄 [Résumé](../../../resume/README.md)
