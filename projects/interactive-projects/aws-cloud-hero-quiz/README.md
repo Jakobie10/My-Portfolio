@@ -27,7 +27,6 @@
 | **Project Status** | Completed |
 
 ---
-
 ## 🎯 Executive Summary
 
 The **AWS Cloud Hero Quiz Game** is an interactive PowerPoint-based learning experience designed to help learners prepare for the **AWS Certified Cloud Practitioner exam** in a fun, engaging, and accessible way.
