@@ -318,7 +318,7 @@ A visual walkthrough of the Squarespace backend demonstrates the hands-on e-comm
 </p>
 
 <p align="center">
-  ▶️ <strong><a href="https://youtu.be/2XIlFPwdOD0" target="_blank">
+  <a href="https://youtu.be/2XIlFPwdOD0" target="_blank">
 </p>
 
 *Silent visual walkthrough of the Squarespace store management process.*
