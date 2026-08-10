@@ -8,7 +8,6 @@
 **An interactive PowerPoint-based learning game designed to help learners prepare for the AWS Certified Cloud Practitioner exam through challenges, immediate feedback, and progressive difficulty.**
 
 ---
-
 ---
 
 ## 📋 Project Information
@@ -29,8 +28,6 @@
 
 ---
 
----
-
 ## 🎯 Executive Summary
 
 The **AWS Cloud Hero Quiz Game** is an interactive PowerPoint-based learning experience designed to help learners prepare for the **AWS Certified Cloud Practitioner exam** in a fun, engaging, and accessible way.
@@ -42,8 +39,6 @@ A correct answer takes the player to a **“Correct!”** screen with praise and
 The game covers AWS-related topics including **cloud services, security, pricing, and support**, while using custom navigation, visual feedback, and progressive difficulty to create a more engaging learning experience.
 
 The final challenge leads to a **“Congratulations”** screen, completing the player's journey and recognizing them as an **AWS Cloud Hero**.
-
----
 
 ---
 
@@ -61,8 +56,6 @@ The game was designed to:
 - Allow learners to retry incorrect answers.
 - Gradually increase the difficulty as the player progresses.
 - Provide a clear sense of completion through the final **AWS Cloud Hero** achievement.
-
----
 
 ---
 
@@ -107,8 +100,6 @@ This navigation structure creates a simple feedback loop:
 - 🏆 **Gamified Completion** — The final challenge leads to a congratulatory AWS Cloud Hero achievement.
 - 💻 **Accessible Format** — Designed as a PowerPoint-based game without requiring an AWS account or specialized software.
 - 🎥 **Walkthrough Demonstration** — A short video demonstrates selected gameplay stages, including Questions 1, 2, 5, the final Question 30, and the Congratulations screen.
-
----
 
 ---
 
@@ -264,3 +255,17 @@ A short walkthrough demonstrates selected stages of the interactive game, includ
 </p>
 
 *Click the image or link above to watch the video walkthrough on YouTube.*
+
+---
+
+## 🧭 Portfolio Navigation
+
+← [Back to Projects](../../README.md)
+
+🏠 [Home](../../../README.md)
+
+👤 [About Me](../../../about/README.md)
+
+💼 [Professional Experience](../../../experience/README.md)
+
+🛠️ [Technical Skills](../../../skills/README.md)
