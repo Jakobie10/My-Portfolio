@@ -313,7 +313,7 @@ A visual walkthrough of the Squarespace backend demonstrates the hands-on e-comm
 
 <p align="center">
   <a href="https://youtu.be/2XIlFPwdOD0" target="_blank">
-    <img src="../../../assets/images/projects/african-market-video-thumbnail.png" width="850">
+    
   </a>
 </p>
 
