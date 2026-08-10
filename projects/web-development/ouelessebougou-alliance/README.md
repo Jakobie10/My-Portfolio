@@ -311,7 +311,11 @@ The store incorporated original product photographs supplied for the African Mar
 
 A visual walkthrough of the Squarespace backend demonstrates the hands-on e-commerce management performed during the project, including product editing, categories, tags, shipping, payments, sales tax, and store configuration.
 
-
+<p align="center">
+  <a href="https://youtu.be/2XIlFPwdOD0" target="_blank">
+    <img src="../../../assets/images/projects/african-market-video-thumbnail.png" width="850">
+  </a>
+</p>
 
 <p align="center">
   ▶️ <strong><a href="https://youtu.be/2XIlFPwdOD0" target="_blank">
