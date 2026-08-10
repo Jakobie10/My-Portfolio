@@ -46,15 +46,15 @@ Developed an interactive Business Intelligence solution that transforms fleet op
 
 ---
 
-## ☁️ Jumia Nigeria Hybrid Cloud Solution
+## 🐧 Enterprise Linux Infrastructure Deployment
 
 <p align="center">
-  <img src="assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure" width="700">
+  <img src="assets/images/projects/enterprise-linux-thumbnail.png" width="700">
 </p>
 
-Designed a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce companies using Amazon Web Services (AWS).
+Designed and deployed a secure enterprise Linux infrastructure implementing web services, DNS, storage management, and layered security on AWS.
 
-🔗 **[View Complete Case Study →](projects/cloud-computing/jumia-hybrid-cloud-solution/README.md)**
+🔗 **[View Complete Case Study →](projects/systems-administration/linux-infrastructure/README.md)**
 
 ---
 
@@ -67,30 +67,6 @@ Designed a secure, scalable, and cost-effective hybrid cloud architecture for on
 Managed and developed a professional website that promotes African artisans and supports community development initiatives.
 
 🔗 **[View Complete Case Study →](projects/web-development/ouelessebougou-alliance/README.md)**
-
----
-
-## 🎮 AWS Cloud Hero Quiz
-
-<p align="center">
-  <img src="assets/images/projects/aws-cloud-hero-thumbnail.png" alt="AWS Cloud Hero Quiz Game" width="700">
-</p>
-
-Designed an interactive PowerPoint-based game that helps learners prepare for the AWS Certified Cloud Practitioner certification.
-
-🔗 **[View Complete Case Study →](projects/interactive-projects/aws-cloud-hero-quiz/README.md)**
-
----
-
-## 🐧 Enterprise Linux Infrastructure Deployment
-
-<p align="center">
-  <img src="assets/images/projects/linux-infrastructure-thumbnail.png" width="700">
-</p>
-
-Designed and deployed a secure enterprise Linux infrastructure implementing web services, DNS, storage management, and layered security on AWS.
-
-🔗 **[View Complete Case Study →](projects/systems-administration/linux-infrastructure/README.md)**
 
 ---
 
