@@ -141,3 +141,12 @@ The architecture combines web services, DNS, secure remote administration, stora
                                   │
                                   ▼
                        ☁️ Amazon S3 Backup
+
+### Architecture Overview
+
+The Ubuntu Server instance serves as the central platform for the infrastructure. **Apache2** provides web services, while **Bind9** handles DNS functionality and **SSH** enables secure remote administration.
+
+Storage is managed using **LVM**, allowing disk resources to be organized and expanded efficiently. Linux users, groups, and **ACLs** provide controlled access to system resources, while **UFW** adds a network-level security layer.
+
+A planned **Amazon S3 backup strategy** provides an additional layer of resilience for business continuity and disaster recovery.
+
