@@ -417,7 +417,7 @@ The following screenshots provide visual evidence of the AWS and Linux infrastru
 
 ## 🧭 Portfolio Navigation
 
-← [Back to Projects](../README.md)
+← [Back to Projects](../../README.md)
 
 🏠 [Home](../../../README.md)
 
@@ -426,7 +426,3 @@ The following screenshots provide visual evidence of the AWS and Linux infrastru
 💼 [Professional Experience](../../../experience/README.md)
 
 🛠️ [Technical Skills](../../../skills/README.md)
-
-📜 [Certifications](../../../certifications/README.md)
-
-📄 [Résumé](../../../resume/README.md)
