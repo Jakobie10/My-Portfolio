@@ -22,21 +22,21 @@ Power BI • Tableau • Excel • Power Query • DAX • SQL
 
 ---
 
-## ☁️ Cloud Computing
+## 🐧 Systems Administration
 
 <p align="center">
-  <img src="../assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure Project" width="850">
+  <img src="../assets/images/projects/enterprise-linux-thumbnail.png" alt="Linux Infrastructure Deployment" width="850">
 </p>
 
-### Jumia Nigeria Hybrid Cloud Solution
+### Enterprise Linux Infrastructure Deployment
 
-Designed a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce companies using Amazon Web Services (AWS).
+Designed and deployed a secure Ubuntu Server infrastructure on AWS, implementing enterprise Linux administration, storage management, network services, and security best practices.
 
 **Key Technologies**
 
-AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaster Recovery
+Ubuntu Server • AWS EC2 • Apache2 • Bind9 DNS • LVM • SSH • UFW
 
-**[Expore This Project →](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
+**[Expore This Project →](systems-administration/linux-infrastructure/README.md)**
 
 ---
 
@@ -76,17 +76,21 @@ Microsoft PowerPoint • AWS Fundamentals • Interactive Learning
 
 ---
 
-## 🐧 Systems Administration
+## ☁️ Cloud Computing
 
-### Enterprise Linux Infrastructure Deployment
+<p align="center">
+  <img src="../assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure Project" width="850">
+</p>
 
-Designed and deployed a secure Ubuntu Server infrastructure on AWS, implementing enterprise Linux administration, storage management, network services, and security best practices.
+### Jumia Nigeria Hybrid Cloud Solution
+
+Designed a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce companies using Amazon Web Services (AWS).
 
 **Key Technologies**
 
-Ubuntu Server • AWS EC2 • Apache2 • Bind9 DNS • LVM • SSH • UFW
+AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaster Recovery
 
-**[Expore This Project →](systems-administration/linux-infrastructure/README.md)**
+**[Expore This Project →](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
 
 ---
 
