@@ -83,21 +83,38 @@ My goal is to contribute to organizations by designing secure, scalable, and dat
 
 ---
 
+---
+
 ## 🤝 Let's Connect
 
 Thank you for visiting my portfolio.
 
 I am always open to opportunities in Cloud Computing, Business Intelligence, Cybersecurity, Systems Administration, Technical Support, and IT Infrastructure.
 
-📧 **Email:** <a href="mailto:successola10@gmail.com">successola10@gmail.com</a>
+<p align="center">
+  <a href="mailto:successola10@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="42">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/olabisi-james" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="42">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Jakobie10" target="_blank">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="42">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/2348105106879" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="42">
+  </a>
+</p>
 
-💼 **LinkedIn:** <a href="https://linkedin.com/in/olabisijames" target="_blank">linkedin.com/in/olabisijames</a>
-
-🐙 **GitHub:** <a href="https://github.com/Jakobie10" target="_blank">github.com/Jakobie10</a>
-
-*"Technology is most valuable when it solves real business problems and improves people's lives."*
+<p align="center">
+  <em>"Technology is most valuable when it solves real business problems and improves people's lives."</em>
+</p>
 
 ---
+
 
 <p align="center">
   <sub>
