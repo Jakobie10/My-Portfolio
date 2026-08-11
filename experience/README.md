@@ -28,7 +28,7 @@ Power BI • Tableau • SQL • PostgreSQL • Microsoft Excel • Data Analyti
 
 ## Technical Support Engineer
 ### HSProjects Technologies
-**September 2024 – Present**
+**September 2024 – December 2024**
 
 As a Technical Support Engineer, I provide end-user support while ensuring reliable IT operations across hardware, software, networking, and Microsoft 365 environments. I troubleshoot technical issues, configure computer systems, and help users maximize productivity through effective technical solutions and excellent customer service.
 
@@ -84,7 +84,7 @@ Project Management • Facilities Management • Budget Planning • Customer Se
 
 ## Store & Logistics Supervisor
 ### MALCO Transport Limited
-**April 2020 – April 2025**
+**September 2015 – April 2025**
 
 Prior to transitioning into Business Intelligence, I managed inventory operations, truck spare parts, lubricants, Automotive Gas Oil (AGO), and logistics support activities. This role provided a strong foundation in supply chain operations, inventory management, operational planning, and data accuracy—experience that now strengthens my work in Business Intelligence and data analytics.
 
