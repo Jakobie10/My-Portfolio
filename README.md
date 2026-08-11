@@ -18,17 +18,35 @@ My portfolio showcases real-world projects, professional experience, and technic
 
 ## 🚀 Areas of Expertise
 
-☁️ Cloud Computing
+<p align="center">
+  <img src="https://cdn.simpleicons.org/amazonaws" height="52" alt="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftazure" height="52" alt="Microsoft Azure"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" height="52" alt="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/windows" height="52" alt="Windows"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi" height="52" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python" height="52" alt="Python"/>
+</p>
 
-🐧 Linux & Windows Systems Administration
-
-📊 Business Intelligence & Data Analytics
-
-🛡️ Cybersecurity
-
-🌐 Web Development
-
-🛠️ Technical Support
+<p align="center">
+  <img src="https://cdn.simpleicons.org/postgresql" height="48" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="48" alt="Microsoft SQL Server"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" height="48" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github" height="48" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" height="48" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5" height="48" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3" height="48" alt="CSS3"/>
+</p>
 
 ---
 
