@@ -18,12 +18,12 @@ My portfolio showcases real-world projects, professional experience, and technic
 
 ## 🚀 Areas of Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,windows,powerbi,python&theme=light" />
-</p>
+My technical experience spans cloud computing, systems administration, business intelligence, cybersecurity, databases, networking, programming, and web technologies.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,github,js,html,css&theme=light" />
+  <img src="../assets/images/projects/area-of-expertise-thumbnail.png"
+       alt="Areas of Expertise"
+       width="850">
 </p>
 
 ---
