@@ -83,8 +83,6 @@ My goal is to contribute to organizations by designing secure, scalable, and dat
 
 ---
 
----
-
 ## 🤝 Let's Connect
 
 Thank you for visiting my portfolio.
@@ -96,8 +94,8 @@ I am always open to opportunities in Cloud Computing, Business Intelligence, Cyb
     <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="42">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/olabisi-james" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="42">
+  <a href="https://www.linkedin.com/in/olabisijames" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" width="42">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Jakobie10" target="_blank">
