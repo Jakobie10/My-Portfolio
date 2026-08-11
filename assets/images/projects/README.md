@@ -22,3 +22,8 @@
   <img src="../../../assets/images/projects/african-market-storefront.png" width="850">
 </p>
 
+<p align="center">
+  <img src="../assets/images/projects/area-of-expertise-thumbnail.png"
+       alt="Areas of Expertise"
+       width="850">
+</p>
