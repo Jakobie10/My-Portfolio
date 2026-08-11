@@ -73,9 +73,9 @@ Managed and developed a professional website that promotes African artisans and 
 ## 📁 Portfolio Sections
 
 - 👤 [About Me](about/)
+- 🗂️ [Portfolio Assets](assets/)
 - 📂 [Featured Projects](projects/)
 - 📄 [Résumé](resume/)
-- 🗂️ [Portfolio Assets](assets/)
 - 📞 [Contact](#-lets-connect)
 
 ---
