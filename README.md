@@ -95,7 +95,7 @@ I am always open to opportunities in Cloud Computing, Business Intelligence, Cyb
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/olabisijames" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" width="42">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="42">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Jakobie10" target="_blank">
@@ -112,7 +112,6 @@ I am always open to opportunities in Cloud Computing, Business Intelligence, Cyb
 </p>
 
 ---
-
 
 <p align="center">
   <sub>
