@@ -21,9 +21,11 @@ My portfolio showcases real-world projects, professional experience, and technic
 My technical experience spans cloud computing, systems administration, business intelligence, cybersecurity, databases, networking, programming, and web technologies.
 
 <p align="center">
-  <img src="../assets/images/projects/area-of-expertise-thumbnail.png"
-       alt="Areas of Expertise"
-       width="850">
+  <img
+    src="https://raw.githubusercontent.com/Jakobie10/My-Portfolio/main/assets/images/projects/area-of-expertise-thumbnail.png"
+    alt="Areas of Expertise"
+    width="850"
+  >
 </p>
 
 ---
