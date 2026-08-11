@@ -30,9 +30,9 @@ My technical experience spans cloud computing, systems administration, business 
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
-## 📊 Fleet Operations Dashboard for MALCO Transport Limited
+### 📊 Fleet Operations Dashboard for MALCO Transport Limited
 
 <p align="center">
   <img src="assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="700">
@@ -44,7 +44,7 @@ Developed an interactive Business Intelligence solution that transforms fleet op
 
 ---
 
-## 🐧 Enterprise Linux Infrastructure Deployment
+### 🐧 Enterprise Linux Infrastructure Deployment
 
 <p align="center">
   <img src="assets/images/projects/enterprise-linux-thumbnail.png" width="700">
@@ -56,7 +56,7 @@ Designed and deployed a secure enterprise Linux infrastructure implementing web 
 
 ---
 
-## 🌍 African Market Website
+### 🌍 African Market Website
 
 <p align="center">
   <img src="assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance" width="700">
