@@ -22,7 +22,7 @@ My technical experience spans cloud computing, systems administration, business 
 
 <p align="center">
   <img src="../assets/images/projects/area-of-expertise-thumbnail.png"
-       alt="Areas of Expertise"
+       alt="Area of Expertise"
        width="850">
 </p>
 
