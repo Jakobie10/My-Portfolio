@@ -51,8 +51,12 @@ My technical experience spans cloud computing, systems administration, business 
         <sub><b>Windows</b></sub>
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/skills/powerbi/default.svg" width="42" alt="Power BI" /><br />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="42" alt="Power BI" /><br />
         <sub><b>Power BI</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="42" alt="Tableau" /><br />
+        <sub><b>Tableau</b></sub>
       </td>
       <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" alt="Python" /><br />
