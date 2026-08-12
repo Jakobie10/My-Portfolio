@@ -211,7 +211,7 @@ Evaluates truck and route fuel efficiency to identify high-performing assets and
 
 ---
 
-## 🎥 Dashboard Walkthrough
+#### 🎥 Dashboard Walkthrough
 
 <p align="center">
   <a href="https://youtu.be/fJ3oRIBjmpo" target="_blank">
@@ -220,6 +220,8 @@ Evaluates truck and route fuel efficiency to identify high-performing assets and
          width="100%">
   </a>
 </p>
+
+---
 
 ## 📈 Results & Business Impact
 
