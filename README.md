@@ -174,7 +174,7 @@ I am always open to opportunities in Cloud Computing, Business Intelligence, Cyb
   </a>
   &nbsp;
   <!-- WhatsApp -->
-  <a href="https://wa.me/@oja10" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/2348105106879" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
