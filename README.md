@@ -104,7 +104,7 @@ My technical experience spans cloud computing, systems administration, business 
 
 Developed an interactive Business Intelligence solution that transforms fleet operational data into actionable insights for logistics management.
 
-🔗 **[View Complete Case Study →](projects/business-intelligence/malco-dashboard/README.md)**
+**[View Complete Case Study →](projects/business-intelligence/malco-dashboard/README.md)**
 
 ---
 
@@ -118,7 +118,7 @@ Developed an interactive Business Intelligence solution that transforms fleet op
 
 Designed and deployed a secure enterprise Linux infrastructure implementing web services, DNS, storage management, and layered security on AWS.
 
-🔗 **[View Complete Case Study →](projects/systems-administration/linux-infrastructure/README.md)**
+**[View Complete Case Study →](projects/systems-administration/linux-infrastructure/README.md)**
 
 ---
 
@@ -132,7 +132,7 @@ Designed and deployed a secure enterprise Linux infrastructure implementing web 
 
 Managed and developed a professional website that promotes African artisans and supports community development initiatives.
 
-🔗 **[View Complete Case Study →](projects/web-development/ouelessebougou-alliance/README.md)**
+**[View Complete Case Study →](projects/web-development/ouelessebougou-alliance/README.md)**
 
 ---
 
