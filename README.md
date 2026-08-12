@@ -30,6 +30,20 @@ My technical experience spans cloud computing, systems administration, business 
 
 ---
 
+<p align="center">
+  <!-- Row 1 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,linux,windows,powerbi,py" alt="AWS, Azure, Linux, Windows, PowerBI, Python" />
+  </a>
+  <br /><br />
+  <!-- Row 2 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mssql,docker,github,js,html,css" alt="PostgreSQL, SQL Server, Docker, GitHub, JavaScript, HTML, CSS" />
+  </a>
+</p>
+
+---
+
 ## ⭐ Featured Projects
 
 ### 📊 Fleet Operations Dashboard for MALCO Transport Limited
