@@ -11,7 +11,7 @@
 ![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-DC2626?style=for-the-badge)
 
 > **Designing a secure, scalable, and cost-effective hybrid cloud architecture for one of Africa's leading e-commerce platforms using Amazon Web Services (AWS).**
-
+---
 ---
 
 <p align="center">
@@ -323,8 +323,4 @@ These enhancements would further strengthen the organization's cloud maturity wh
 🏠 [Home](../../../README.md)
 
 👤 [About Me](../../../about/README.md)
-
-💼 [Professional Experience](../../../experience/README.md)
-
-🛠️ [Technical Skills](../../../skills/README.md)
 
