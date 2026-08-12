@@ -115,3 +115,7 @@ A comprehensive Security Information and Event Management (SIEM) solution featur
 Wazuh • Linux • Elastic Stack • MITRE ATT&CK
 
 ---
+
+## 🧭 Portfolio Navigation
+
+🏠 [Home](../README.md)
