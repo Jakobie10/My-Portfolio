@@ -243,17 +243,15 @@ Several improvements could make the AWS Cloud Hero Quiz Game more powerful as a 
 
 A short walkthrough demonstrates selected stages of the interactive game, including Questions 1, 2, 5, the final Question 30, and the Congratulations screen.
 
+*Click the image below to watch the video walkthrough.*
+
 <p align="center">
   <a href="https://youtu.be/5Vtmduqez9c" target="_blank">
     <img src="../../../assets/images/projects/aws-cloud-hero-video-thumbnail.png" width="850">
   </a>
 </p>
 
-<p align="center">
-  ▶️ <strong><a href="https://youtu.be/5Vtmduqez9c" target="_blank">Watch the AWS Cloud Hero video walkthrough</a></strong>
-</p>
 
-*Click the image or link above to watch the video walkthrough on YouTube.*
 
 ---
 
