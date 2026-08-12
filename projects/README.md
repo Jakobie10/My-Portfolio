@@ -1,4 +1,4 @@
-# Featured Projects
+# ⭐ Featured Projects
 
 Welcome to my project portfolio. These projects demonstrate my experience in business intelligence, cloud computing, systems administration, cybersecurity, web development, and enterprise IT solutions. Each project reflects my commitment to solving real business problems through technology while continuously developing my technical and professional skills.
 
@@ -7,7 +7,9 @@ Welcome to my project portfolio. These projects demonstrate my experience in bus
 ## 📊 Business Intelligence
 
 <p align="center">
-  <img src="../assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="850">
+  <a href="business-intelligence/malco-dashboard/README.md">
+    <img src="../assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="850">
+  </a>
 </p>
 
 ### Fleet Operations Dashboard for MALCO Transport Limited
@@ -25,7 +27,9 @@ Power BI • Tableau • Excel • Power Query • DAX • SQL
 ## 🐧 Systems Administration
 
 <p align="center">
-  <img src="../assets/images/projects/enterprise-linux-thumbnail.png" alt="Linux Infrastructure Deployment" width="850">
+  <a href="systems-administration/linux-infrastructure/README.md">
+    <img src="../assets/images/projects/enterprise-linux-thumbnail.png" alt="Linux Infrastructure Deployment" width="850">
+  </a>
 </p>
 
 ### Enterprise Linux Infrastructure Deployment
@@ -43,7 +47,9 @@ Ubuntu Server • AWS EC2 • Apache2 • Bind9 DNS • LVM • SSH • UFW
 ## 🌍 Web Development
 
 <p align="center">
-  <img src="../assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance" width="850">
+  <a href="web-development/ouelessebougou-alliance/README.md">
+    <img src="../assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance" width="850">
+  </a>
 </p>
 
 ### African Market Online Store
@@ -61,7 +67,9 @@ Squarespace • Website Design • Project Management
 ## 🎮 Interactive Learning
 
 <p align="center">
-  <img src="../assets/images/projects/aws-cloud-hero-thumbnail.png" alt="AWS Cloud Hero Quiz Game" width="850">
+  <a href="interactive-projects/aws-cloud-hero-quiz/README.md">
+    <img src="../assets/images/projects/aws-cloud-hero-thumbnail.png" alt="AWS Cloud Hero Quiz Game" width="850">
+  </a>
 </p>
 
 ### AWS Cloud Hero Quiz
@@ -79,7 +87,9 @@ Microsoft PowerPoint • AWS Fundamentals • Interactive Learning
 ## ☁️ Cloud Computing
 
 <p align="center">
-  <img src="../assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure Project" width="850">
+  <a href="cloud-computing/jumia-hybrid-cloud-solution/README.md">
+    <img src="../assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure Project" width="850">
+  </a>
 </p>
 
 ### Jumia Nigeria Hybrid Cloud Solution
@@ -105,5 +115,3 @@ A comprehensive Security Information and Event Management (SIEM) solution featur
 Wazuh • Linux • Elastic Stack • MITRE ATT&CK
 
 ---
-
-
