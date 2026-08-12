@@ -97,7 +97,9 @@ My technical experience spans cloud computing, systems administration, business 
 ### 📊 Fleet Operations Dashboard for MALCO Transport Limited
 
 <p align="center">
-  <img src="assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="700">
+  <a href="projects/business-intelligence/malco-dashboard/README.md">
+    <img src="assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="700">
+  </a>
 </p>
 
 Developed an interactive Business Intelligence solution that transforms fleet operational data into actionable insights for logistics management.
@@ -109,7 +111,9 @@ Developed an interactive Business Intelligence solution that transforms fleet op
 ### 🐧 Enterprise Linux Infrastructure Deployment
 
 <p align="center">
-  <img src="assets/images/projects/enterprise-linux-thumbnail.png" width="700">
+  <a href="projects/systems-administration/linux-infrastructure/README.md">
+    <img src="assets/images/projects/enterprise-linux-thumbnail.png" width="700">
+  </a>
 </p>
 
 Designed and deployed a secure enterprise Linux infrastructure implementing web services, DNS, storage management, and layered security on AWS.
@@ -121,13 +125,14 @@ Designed and deployed a secure enterprise Linux infrastructure implementing web 
 ### 🌍 African Market Website
 
 <p align="center">
-  <img src="assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance" width="700">
+  <a href="projects/web-development/ouelessebougou-alliance/README.md">
+    <img src="assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance" width="700">
+  </a>
 </p>
 
 Managed and developed a professional website that promotes African artisans and supports community development initiatives.
 
 🔗 **[View Complete Case Study →](projects/web-development/ouelessebougou-alliance/README.md)**
-
 ---
 
 ## 📁 Portfolio Sections
