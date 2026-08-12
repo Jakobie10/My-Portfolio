@@ -332,9 +332,3 @@ A visual walkthrough of the Squarespace backend demonstrates the hands-on e-comm
 🏠 [Home](../../../README.md)
 
 👤 [About Me](../../../about/README.md)
-
-💼 [Professional Experience](../../../experience/README.md)
-
-🛠️ [Technical Skills](../../../skills/README.md)
-
-📜 [Certifications](../../../certifications/README.md)
