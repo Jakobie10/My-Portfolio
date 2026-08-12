@@ -133,6 +133,7 @@ Designed and deployed a secure enterprise Linux infrastructure implementing web 
 Managed and developed a professional website that promotes African artisans and supports community development initiatives.
 
 🔗 **[View Complete Case Study →](projects/web-development/ouelessebougou-alliance/README.md)**
+
 ---
 
 ## 📁 Portfolio Sections
