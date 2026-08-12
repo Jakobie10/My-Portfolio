@@ -211,6 +211,16 @@ Evaluates truck and route fuel efficiency to identify high-performing assets and
 
 ---
 
+## 🎥 Dashboard Video Walkthrough
+
+<p align="center">
+  <a href="https://youtu.be/fJ3oRIBjmpo" target="_blank">
+    <img src="https://github.com/Jakobie10/My-Portfolio/tree/main/assets/images/dashboards/malco-bi-dashboard-video-thumbnail.png"
+         alt="Malco Haulage Fleet Performance & Fuel Analytics Dashboard Video Walkthrough"
+         width="100%">
+  </a>
+</p>
+
 ## 📈 Results & Business Impact
 
 The completed Business Intelligence solution transformed operational fleet dispatch records into a centralized reporting platform that enables management to monitor fleet performance, fuel consumption, and operational efficiency from a single source of truth.
