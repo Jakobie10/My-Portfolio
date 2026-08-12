@@ -212,7 +212,7 @@ I am always open to opportunities in Cloud Computing, Business Intelligence, Cyb
 </p>
 
 <p align="center">
-  <em>"Technology is most valuable when it solves real business problems and improves people's lives."</em>
+  <em>Technology is most valuable when it solves real business problems and improves people's lives.</em>
 </p>
 
 ---
