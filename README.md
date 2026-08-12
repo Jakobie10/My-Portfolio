@@ -8,11 +8,11 @@ My portfolio showcases real-world projects, professional experience, and technic
 
 ## 👨‍💻 Professional Profile
 
-- 🎓 Bachelor of Applied Science in Information Technology – Ensign College
-- 💼 Business Intelligence Analyst at MALCO Transport Limited
-- 🖥️ Technical Support Engineer at HSProjects Technologies
-- 🌍 Project Manager & Web Developer – Ouelessebougou Alliance
-- 🏢 Co-Founder – TIM BROWN SERVICES
+- 🎓 **Bachelor of Applied Science in Information Technology** – Ensign College
+- 💼 **Business Intelligence Analyst** at MALCO Transport Limited
+- 🖥️ **Technical Support Engineer** at HSProjects Technologies
+- 🌍 **Project Manager & Web Developer** – Ouelessebougou Alliance
+- 🏢 **Co-Founder** – TIM BROWN SERVICES
 
 ---
 
@@ -97,50 +97,50 @@ My technical experience spans cloud computing, systems administration, business 
 ### 📊 Fleet Operations Dashboard for MALCO Transport Limited
 
 <p align="center">
-  <a href="projects/business-intelligence/malco-dashboard/README.md">
-    <img src="assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="700">
+  <a href="./projects/business-intelligence/malco-dashboard/README.md">
+    <img src="./assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="700">
   </a>
 </p>
 
 Developed an interactive Business Intelligence solution that transforms fleet operational data into actionable insights for logistics management.
 
-**[View Complete Case Study →](projects/business-intelligence/malco-dashboard/README.md)**
+🔗 **[View Complete Case Study →](./projects/business-intelligence/malco-dashboard/README.md)**
 
 ---
 
 ### 🐧 Enterprise Linux Infrastructure Deployment
 
 <p align="center">
-  <a href="projects/systems-administration/linux-infrastructure/README.md">
-    <img src="assets/images/projects/enterprise-linux-thumbnail.png" width="700">
+  <a href="./projects/systems-administration/linux-infrastructure/README.md">
+    <img src="./assets/images/projects/enterprise-linux-thumbnail.png" alt="Enterprise Linux Infrastructure Architecture" width="700">
   </a>
 </p>
 
 Designed and deployed a secure enterprise Linux infrastructure implementing web services, DNS, storage management, and layered security on AWS.
 
-**[View Complete Case Study →](projects/systems-administration/linux-infrastructure/README.md)**
+🔗 **[View Complete Case Study →](./projects/systems-administration/linux-infrastructure/README.md)**
 
 ---
 
 ### 🌍 African Market Website
 
 <p align="center">
-  <a href="projects/web-development/ouelessebougou-alliance/README.md">
-    <img src="assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance" width="700">
+  <a href="./projects/web-development/ouelessebougou-alliance/README.md">
+    <img src="./assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance Website" width="700">
   </a>
 </p>
 
 Managed and developed a professional website that promotes African artisans and supports community development initiatives.
 
-**[View Complete Case Study →](projects/web-development/ouelessebougou-alliance/README.md)**
+🔗 **[View Complete Case Study →](./projects/web-development/ouelessebougou-alliance/README.md)**
 
 ---
 
 ## 📁 Portfolio Sections
 
-- 👤 [About Me](about/)
-- 📂 [Featured Projects](projects/)
-- 📄 [Résumé](resume/resume-olabisi-james-arowosoye.pdf)
+- 👤 [About Me](./about/)
+- 📂 [Featured Projects](./projects/)
+- 📄 [Résumé](./resume/resume-olabisi-james-arowosoye.pdf)
 - 📞 [Contact](#-lets-connect)
 
 ---
@@ -178,7 +178,9 @@ I am always open to opportunities in Cloud Computing, Business Intelligence, Cyb
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-    <em>"Technology is most valuable when it solves real business problems and improves people's lives."</em>
+
+<p align="center">
+  <em>"Technology is most valuable when it solves real business problems and improves people's lives."</em>
 </p>
 
 ---
