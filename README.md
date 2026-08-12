@@ -99,6 +99,7 @@ My technical experience spans cloud computing, systems administration, business 
     </tr>
   </table>
 </div>
+
 ---
 
 ## ⭐ Featured Projects
