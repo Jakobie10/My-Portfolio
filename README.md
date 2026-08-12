@@ -50,12 +50,14 @@ My technical experience spans cloud computing, systems administration, business 
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="42" alt="Windows" /><br />
         <sub><b>Windows</b></sub>
       </td>
+      <!-- Custom Power BI Icon from relative path -->
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="42" alt="Power BI" /><br />
+        <img src="../assets/images/projects/powerbi-icon.png" width="42" alt="Power BI" /><br />
         <sub><b>Power BI</b></sub>
       </td>
+      <!-- Custom Tableau Icon from relative path -->
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="42" alt="Tableau" /><br />
+        <img src="../assets/images/projects/tableau-icon.png" width="42" alt="Tableau" /><br />
         <sub><b>Tableau</b></sub>
       </td>
       <td align="center" width="90">
