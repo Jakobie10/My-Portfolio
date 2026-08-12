@@ -92,22 +92,22 @@ I am always open to opportunities in Cloud Computing, Business Intelligence, Cyb
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/olabisijames" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/Jakobie10" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="42" alt="GitHub" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:successola10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" alt="Email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <!-- WhatsApp -->
   <a href="https://wa.me/2348105106879" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" alt="WhatsApp" />
   </a>
 </p>
 
