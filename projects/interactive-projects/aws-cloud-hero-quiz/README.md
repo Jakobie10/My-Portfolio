@@ -264,7 +264,3 @@ A short walkthrough demonstrates selected stages of the interactive game, includ
 🏠 [Home](../../../README.md)
 
 👤 [About Me](../../../about/README.md)
-
-💼 [Professional Experience](../../../experience/README.md)
-
-🛠️ [Technical Skills](../../../skills/README.md)
