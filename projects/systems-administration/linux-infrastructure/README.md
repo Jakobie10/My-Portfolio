@@ -422,7 +422,3 @@ The following screenshots provide visual evidence of the AWS and Linux infrastru
 🏠 [Home](../../../README.md)
 
 👤 [About Me](../../../about/README.md)
-
-💼 [Professional Experience](../../../experience/README.md)
-
-🛠️ [Technical Skills](../../../skills/README.md)
