@@ -28,43 +28,43 @@ My technical experience spans cloud computing, systems administration, business 
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">AWS</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">AWS</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="42" height="42" alt="Azure" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">Microsoft Azure</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">Microsoft Azure</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">Linux</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">Linux</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="42" height="42" alt="Windows" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">Windows</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">Windows</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/Jakobie10/My-Portfolio/main/assets/images/projects/powerbi-icon.png" width="42" height="42" alt="Power BI" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">Power BI</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">Power BI</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/Jakobie10/My-Portfolio/main/assets/images/projects/tableau-icon.png" width="42" height="42" alt="Tableau" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">Tableau</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">Tableau</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">Python</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">Python</a></b></sub>
       </td>
     </tr>
   </table>
@@ -76,43 +76,43 @@ My technical experience spans cloud computing, systems administration, business 
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">PostgreSQL</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">PostgreSQL</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="SQL Server" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">SQL Server</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">SQL Server</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">Docker</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">Docker</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">GitHub</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">GitHub</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">JavaScript</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">JavaScript</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">HTML</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">HTML</a></b></sub>
       </td>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS" />
         </a><br />
-        <sub><b><a href="./about/#technical-skills">CSS</a></b></sub>
+        <sub><b><a href="./about/#technical-skills" style="color: inherit; text-decoration: none;">CSS</a></b></sub>
       </td>
     </tr>
   </table>
@@ -163,7 +163,7 @@ Managed and developed a professional website that promotes African artisans and 
 🔗 **[View Complete Case Study →](./projects/web-development/ouelessebougou-alliance/README.md)**
 
 <p align="right">
-  <sub><em><a href="./projects/">Explore the full project page here →</a></em></sub>
+  <b><em><a href="./projects/">Explore the full project page here →</a></em></b>
 </p>
 
 ---
