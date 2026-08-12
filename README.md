@@ -52,12 +52,12 @@ My technical experience spans cloud computing, systems administration, business 
       </td>
       <!-- Custom Power BI Icon from relative path -->
       <td align="center" width="90">
-        <img src="../assets/images/projects/powerbi-icon.png" width="42" alt="Power BI" /><br />
+        <img src="https://raw.githubusercontent.com/Jakobie10/My-Portfolio/main/assets/images/projects/powerbi-icon.png" width="42" alt="Power BI" /><br />
         <sub><b>Power BI</b></sub>
       </td>
       <!-- Custom Tableau Icon from relative path -->
       <td align="center" width="90">
-        <img src="../assets/images/projects/tableau-icon.png" width="42" alt="Tableau" /><br />
+        <img src="https://raw.githubusercontent.com/Jakobie10/My-Portfolio/main/assets/images/projects/tableau-icon.png" width="42" alt="Tableau" /><br />
         <sub><b>Tableau</b></sub>
       </td>
       <td align="center" width="90">
