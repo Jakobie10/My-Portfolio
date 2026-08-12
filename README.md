@@ -30,17 +30,71 @@ My technical experience spans cloud computing, systems administration, business 
 
 ---
 
-<p align="center">
+<div align="center">
   <!-- Row 1 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,linux,windows,powerbi,py" alt="AWS, Azure, Linux, Windows, PowerBI, Python" />
-  </a>
-  <br /><br />
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" alt="AWS" /><br />
+        <sub><b>AWS</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="42" alt="Azure" /><br />
+        <sub><b>Microsoft Azure</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" alt="Linux" /><br />
+        <sub><b>Linux</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="42" alt="Windows" /><br />
+        <sub><b>Windows</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/skills/powerbi/default.svg" width="42" alt="Power BI" /><br />
+        <sub><b>Power BI</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" alt="Python" /><br />
+        <sub><b>Python</b></sub>
+      </td>
+    </tr>
+  </table>
+
   <!-- Row 2 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mssql,docker,github,js,html,css" alt="PostgreSQL, SQL Server, Docker, GitHub, JavaScript, HTML, CSS" />
-  </a>
-</p>
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" /><br />
+        <sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" alt="SQL Server" /><br />
+        <sub><b>SQL Server</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" alt="Docker" /><br />
+        <sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" alt="GitHub" /><br />
+        <sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" /><br />
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML" /><br />
+        <sub><b>HTML</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS" /><br />
+        <sub><b>CSS</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
