@@ -130,14 +130,14 @@ The Wazuh agent was installed on the Ubuntu endpoint and configured to run as a 
 
 The following evidence confirms the successful activation of the Wazuh agent:
 
-<div align="center" style="margin-bottom: 0px;">
+<div align="center">
   <img 
     src="../../../assets/images/projects/cybersecurity/02-ubuntu-wazuh-agent-running.png" 
     alt="Ubuntu Wazuh Agent Running" 
     width="1000">
 </div>
-<p align="left" style="margin-top: -8px;">
-  <small><small><b><em>Screenshot showing the Ubuntu Wazuh agent service running, confirming successful installation and activation.</em></b></small></small>
+<p align="left" style="margin-top: 0px;">
+  <em>Screenshot showing the Ubuntu Wazuh agent service running, confirming successful installation and activation.</em>
 </p>
 
 
