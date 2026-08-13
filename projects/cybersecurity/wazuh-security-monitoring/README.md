@@ -152,7 +152,7 @@ A Wazuh agent was also installed on the Windows Server endpoint. The Windows Ser
     alt="Wazuh Agent Running as a Windows Service" 
     width="1000">
 </div>
-<p align="left" style="margin-top: -15px;">
+<p align="left" style="margin-top: -8px;">
   <em>Screenshot showing the Wazuh agent successfully installed and running as a Windows service, confirming that the HIDS agent is active.</em>
 </p>
 
