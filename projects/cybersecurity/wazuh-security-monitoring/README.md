@@ -136,7 +136,7 @@ The following evidence confirms the successful activation of the Wazuh agent:
     alt="Ubuntu Wazuh Agent Running" 
     width="1000">
 </div>
-<p align="left" style="margin-top: -15px;">
+<p align="left" style="margin-top: -8px;">
   <small><small><b><em>Screenshot showing the Ubuntu Wazuh agent service running, confirming successful installation and activation.</em></b></small></small>
 </p>
 
