@@ -58,6 +58,55 @@ The solution uses Wazuh as the central security monitoring platform, collecting 
 
 The architecture consists of a **Wazuh Manager**, monitored **Ubuntu and Windows Server endpoints**, and a **Kali Linux testing system** used to generate controlled authentication activity. Wazuh agents installed on the monitored endpoints collect relevant security events and forward them to the Wazuh Manager for centralized analysis.
 
+### Architecture Flow
+
+<pre>
+                         🔐 Controlled Virtual Lab
+                                  │
+                                  ▼
+                       ┌─────────────────────┐
+                       │    Wazuh Manager    │
+                       │   SIEM / HIDS Core  │
+                       │                     │
+                       │ • Log Analysis      │
+                       │ • Threat Detection  │
+                       │ • Alert Generation  │
+                       │ • Security Events   │
+                       └──────────┬──────────┘
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+                    ▼                           ▼
+          ┌──────────────────┐       ┌──────────────────┐
+          │   Ubuntu Server  │       │  Windows Server  │
+          │   Ubuntu-Aro      │       │  Win-Server-ARO  │
+          │                  │       │                  │
+          │ Wazuh Agent     │       │ Wazuh Agent      │
+          │ SSH Monitoring  │       │ Windows Events   │
+          │ System Logs     │       │ Logon Monitoring │
+          └────────┬─────────┘       └────────┬─────────┘
+                   │                          │
+                   └────────────┬─────────────┘
+                                │
+                                ▼
+                       📊 Security Events
+                                │
+                                ▼
+                    ┌─────────────────────┐
+                    │ Threat Detection &  │
+                    │ Security Analysis   │
+                    └─────────────────────┘
+                                ▲
+                                │
+                    ┌───────────┴───────────┐
+                    │                       │
+                    │  Controlled Testing   │
+                    │                       │
+                    ▼                       ▼
+             🐉 Kali Linux            🔑 Authentication
+             Security Testing         Event Generation
+</pre>
+
 #### Core Components
 
 | **Component** | **Purpose** |
@@ -94,7 +143,7 @@ The following evidence confirms the successful activation of the Wazuh agent:
 A Wazuh agent was also installed on the Windows Server endpoint. The Windows Services console was used to verify that the **Wazuh** service was running and configured for automatic startup.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/01-windows-wazuh-agent-service.png"
+  <img src="../../../assets/images/projects/cybersecurity/01-windows-wazuh-agent-service.png"
        alt="Wazuh Agent Running as a Windows Service"
        width="1000">
 </p>
@@ -108,7 +157,7 @@ After configuring the agents, the Wazuh dashboard was used to verify that the mo
 Both **Win-Server-ARO** and **Ubuntu-Aro** appear in the Active Agents section with an **Active** status.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/03-wazuh-active-endpoints.png"
+  <img src="../../../assets/images/projects/cybersecurity/03-wazuh-active-endpoints.png"
        alt="Wazuh Active Endpoints"
        width="1000">
 </p>
@@ -130,7 +179,7 @@ The purpose of the testing was not to gain unauthorized access, but to generate 
 A controlled SSH dictionary-based authentication test was performed against the Ubuntu endpoint using Hydra. The test generated repeated SSH authentication attempts, providing Wazuh with security events that could be analyzed for suspicious login behavior.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/04-kali-hydra-ssh-attack.png"
+  <img src="../../../assets/images/projects/cybersecurity/04-kali-hydra-ssh-attack.png"
        alt="Kali Linux Hydra SSH Authentication Testing"
        width="1000">
 </p>
@@ -144,7 +193,7 @@ The generated authentication failures were subsequently captured by the Wazuh ag
 The Wazuh Security Events interface was then examined to determine whether the authentication activity had been detected.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/05-wazuh-security-events-authentication-alerts.png"
+  <img src="../../../assets/images/projects/cybersecurity/05-wazuh-security-events-authentication-alerts.png"
        alt="Wazuh SSH Authentication Failure Alerts"
        width="1000">
 </p>
@@ -162,7 +211,7 @@ A second controlled authentication test was performed against the Windows Server
 The objective was to determine whether unsuccessful RDP authentication attempts would generate Windows security events that could be collected and analyzed by Wazuh.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/06-kali-hydra-rdp-attack.png"
+  <img src="../../../assets/images/projects/cybersecurity/06-kali-hydra-rdp-attack.png"
        alt="Kali Linux Hydra RDP Authentication Testing"
        width="1000">
 </p>
@@ -176,7 +225,7 @@ The unsuccessful authentication attempts generated Windows security events that 
 The Wazuh dashboard was used to investigate the events generated during the controlled RDP testing.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/07-wazuh-windows-logon-privileged-alerts.png"
+  <img src="../../../assets/images/projects/cybersecurity/07-wazuh-windows-logon-privileged-alerts.png"
        alt="Wazuh Windows Logon and Privileged Operation Alerts"
        width="1000">
 </p>
@@ -320,16 +369,10 @@ Most importantly, this project reinforced the principle that cybersecurity shoul
 
 ---
 
-## 🎯 Portfolio Takeaway
-
-This project demonstrates my ability to deploy and operate a security monitoring environment, integrate endpoint systems with a SIEM platform, analyze security events, and interpret alerts generated from controlled security testing.
-
-It also strengthened my practical understanding of **SIEM, HIDS, log analysis, authentication monitoring, threat detection, and incident investigation**—skills that are directly applicable to enterprise cybersecurity and IT infrastructure environments.
-
----
-
 ## 🧭 Portfolio Navigation
 
-← [Back to Cybersecurity Projects](../README.md)
+← [Back to Projects](../../README.md)
 
 🏠 [Home](../../../README.md)
+
+👤 [About Me](../../../about/README.md)
