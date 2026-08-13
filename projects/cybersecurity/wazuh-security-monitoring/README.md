@@ -94,7 +94,7 @@ The following evidence confirms the successful activation of the Wazuh agent:
 A Wazuh agent was also installed on the Windows Server endpoint. The Windows Services console was used to verify that the **Wazuh** service was running and configured for automatic startup.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/wazuh-security-monitoring/01-windows-wazuh-agent-service.png"
+  <img src="../../assets/images/projects/cybersecurity/01-windows-wazuh-agent-service.png"
        alt="Wazuh Agent Running as a Windows Service"
        width="1000">
 </p>
