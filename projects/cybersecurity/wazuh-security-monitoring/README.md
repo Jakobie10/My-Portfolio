@@ -130,7 +130,7 @@ The Wazuh agent was installed on the Ubuntu endpoint and configured to run as a 
 
 The following evidence confirms the successful activation of the Wazuh agent:
 
-<p align="center" style="margin-bottom: 0px;">
+<div align="center">
   <img 
     src="../../../assets/images/projects/cybersecurity/02-ubuntu-wazuh-agent-running.png" 
     alt="Ubuntu Wazuh Agent Running" 
@@ -163,13 +163,15 @@ After configuring the agents, the Wazuh dashboard was used to verify that the mo
 
 Both **Win-Server-ARO** and **Ubuntu-Aro** appear in the Active Agents section with an **Active** status.
 
-<p align="center">
+<div align="center">
+ <p align="center">
   <img src="../../../assets/images/projects/cybersecurity/03-wazuh-active-endpoints.png"
        alt="Wazuh Active Endpoints"
        width="1000">
+</div>
+<p align="left" style="margin-top: -15px;">
+  <em>Screenshot showing Win-Server-ARO and Ubuntu-Aro listed as active endpoints in the Wazuh dashboard.</em>
 </p>
-
-> **Screenshot showing Win-Server-ARO and Ubuntu-Aro listed as active endpoints in the Wazuh dashboard.**
 
 This confirms that the monitoring infrastructure was operational and that security events from both Windows and Linux environments could be collected for centralized analysis.
 
