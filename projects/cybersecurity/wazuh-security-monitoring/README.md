@@ -56,7 +56,7 @@ The project also included controlled security testing using Kali Linux to genera
 
 The solution uses Wazuh as the central security monitoring platform, collecting and analyzing security events from multiple endpoint systems within the controlled laboratory environment.
 
-The architecture consists of a **Wazuh Manager**, monitored **Ubuntu and Windows Server endpoints**, and a **Kali Linux testing system** used to generate controlled authentication activity. Wazuh agents installed on the monitored endpoints collect relevant security events and forward them to the Wazuh Manager for centralized analysis.
+The architecture consists of a Wazuh Manager, monitored Ubuntu and Windows Server endpoints, and a Kali Linux testing system used to generate controlled authentication activity. Wazuh agents installed on the monitored endpoints collect relevant security events and forward them to the Wazuh Manager for centralized analysis.
 
 ### Architecture Flow
 
@@ -139,6 +139,8 @@ The following evidence confirms the successful activation of the Wazuh agent:
 <p align="left" style="margin-top: 0px;">
   <em>Screenshot showing the Ubuntu Wazuh agent service running, confirming successful installation and activation.</em>
 </p>
+
+
 
 
 #### 🪟 Windows Wazuh Agent
