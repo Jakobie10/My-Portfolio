@@ -82,7 +82,7 @@ The Wazuh agent was installed on the Ubuntu endpoint and configured to run as a 
 The following evidence confirms the successful activation of the Wazuh agent:
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/02-ubuntu-wazuh-agent-running.png"
+  <img src="../../assets/images/projects/cybersecurity/wazuh-security-monitoring/02-ubuntu-wazuh-agent-running.png"
        alt="Ubuntu Wazuh Agent Running"
        width="1000">
 </p>
@@ -94,7 +94,7 @@ The following evidence confirms the successful activation of the Wazuh agent:
 A Wazuh agent was also installed on the Windows Server endpoint. The Windows Services console was used to verify that the **Wazuh** service was running and configured for automatic startup.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/01-windows-wazuh-agent-service.png"
+  <img src="../../assets/images/projects/cybersecurity/wazuh-security-monitoring/01-windows-wazuh-agent-service.png"
        alt="Wazuh Agent Running as a Windows Service"
        width="1000">
 </p>
@@ -108,7 +108,7 @@ After configuring the agents, the Wazuh dashboard was used to verify that the mo
 Both **Win-Server-ARO** and **Ubuntu-Aro** appear in the Active Agents section with an **Active** status.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/03-wazuh-active-endpoints.png"
+  <img src="../../assets/images/projects/cybersecurity/wazuh-security-monitoring/03-wazuh-active-endpoints.png"
        alt="Wazuh Active Endpoints"
        width="1000">
 </p>
@@ -130,7 +130,7 @@ The purpose of the testing was not to gain unauthorized access, but to generate 
 A controlled SSH dictionary-based authentication test was performed against the Ubuntu endpoint using Hydra. The test generated repeated SSH authentication attempts, providing Wazuh with security events that could be analyzed for suspicious login behavior.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/04-kali-hydra-ssh-attack.png"
+  <img src="../../assets/images/projects/cybersecurity/wazuh-security-monitoring/04-kali-hydra-ssh-attack.png"
        alt="Kali Linux Hydra SSH Authentication Testing"
        width="1000">
 </p>
@@ -144,7 +144,7 @@ The generated authentication failures were subsequently captured by the Wazuh ag
 The Wazuh Security Events interface was then examined to determine whether the authentication activity had been detected.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/05-wazuh-security-events-authentication-alerts.png"
+  <img src="../../assets/images/projects/cybersecurity/wazuh-security-monitoring/05-wazuh-security-events-authentication-alerts.png"
        alt="Wazuh SSH Authentication Failure Alerts"
        width="1000">
 </p>
@@ -162,7 +162,7 @@ A second controlled authentication test was performed against the Windows Server
 The objective was to determine whether unsuccessful RDP authentication attempts would generate Windows security events that could be collected and analyzed by Wazuh.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/06-kali-hydra-rdp-attack.png"
+  <img src="../../assets/images/projects/cybersecurity/wazuh-security-monitoring/06-kali-hydra-rdp-attack.png"
        alt="Kali Linux Hydra RDP Authentication Testing"
        width="1000">
 </p>
@@ -176,7 +176,7 @@ The unsuccessful authentication attempts generated Windows security events that 
 The Wazuh dashboard was used to investigate the events generated during the controlled RDP testing.
 
 <p align="center">
-  <img src="../../assets/images/projects/cybersecurity/07-wazuh-windows-logon-privileged-alerts.png"
+  <img src="../../assets/images/projects/cybersecurity/wazuh-security-monitoring/07-wazuh-windows-logon-privileged-alerts.png"
        alt="Wazuh Windows Logon and Privileged Operation Alerts"
        width="1000">
 </p>
