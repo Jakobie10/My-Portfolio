@@ -42,13 +42,13 @@ The project also included controlled security testing using Kali Linux to genera
 
 ### 🔐 Controlled Laboratory Environment
 
-> **Important:** This project was performed entirely within a contained and controlled virtual laboratory environment specifically established for educational purposes under the supervision of the Ensign College IT department.
->
-> All virtual machines used in this project were created and configured by me specifically for my coursework and security labs. They were not personal computers or systems belonging to other individuals or organizations.
->
-> As a student, I agreed to follow Ensign College's academic and ethical requirements and not engage in malicious cyber activity against unauthorized systems. The dictionary-based authentication testing and other security concepts demonstrated in this project were conducted strictly for educational purposes.
->
-> The purpose of these demonstrations is to understand how security monitoring systems identify suspicious authentication activity and to highlight defensive practices such as strong password policies, account protection, authentication monitoring, and login rate-limiting. They are not intended for unauthorized access or harmful purposes.
+***Important:** This project was performed entirely within a contained and controlled virtual laboratory environment specifically established for educational purposes under the supervision of the Ensign College IT department.*
+
+*All virtual machines used in this project were created and configured by me specifically for my coursework and security labs. They were not personal computers or systems belonging to other individuals or organizations.*
+
+*As a student, I agreed to follow Ensign College's academic and ethical requirements and not engage in malicious cyber activity against unauthorized systems. The dictionary-based authentication testing and other security concepts demonstrated in this project were conducted strictly for educational purposes.*
+
+*The purpose of these demonstrations is to understand how security monitoring systems identify suspicious authentication activity and to highlight defensive practices such as strong password policies, account protection, authentication monitoring, and login rate-limiting. They are not intended for unauthorized access or harmful purposes.*
 
 ---
 
