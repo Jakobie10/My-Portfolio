@@ -104,7 +104,13 @@ AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaste
 
 ---
 
-## 🛡️ Cybersecurity *(Coming Soon)*
+## 🛡️ Cybersecurity
+
+<p align="center">
+  <a href="cybersecurity/wazuh-security-monitoring/README.md">
+    <img src="../assets/images/projects/wazuh-security-thumbnail.png" alt="Enterprise Security Monitoring with Wazuh" width="850">
+  </a>
+</p>
 
 ### Enterprise Security Monitoring with Wazuh
 
@@ -113,6 +119,8 @@ A comprehensive Security Information and Event Management (SIEM) solution featur
 **Key Technologies**
 
 Wazuh • Linux • Elastic Stack • MITRE ATT&CK
+
+**[Expore This Project →](cybersecurity/wazuh-security-monitoring/README.md)**
 
 ---
 
