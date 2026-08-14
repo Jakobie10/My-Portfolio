@@ -1,1 +1,154 @@
+-- ============================================================
+-- MALCO HAULAGE FLEET BI PROJECT
+-- 04 - Fuel Consumption Analysis
+-- ============================================================
 
+
+-- ------------------------------------------------------------
+-- 1. Total AGO Issued
+-- ------------------------------------------------------------
+
+SELECT
+    SUM(fuel_litres) AS total_ago_issued_litres
+
+FROM public.ago_dispatch;
+
+
+-- ------------------------------------------------------------
+-- 2. AGO Used for Trips
+-- ------------------------------------------------------------
+
+SELECT
+    SUM(fuel_litres) AS trip_ago_litres
+
+FROM public.ago_dispatch
+
+WHERE dispatch_type = 'trip';
+
+
+-- ------------------------------------------------------------
+-- 3. Gas Cut Events
+-- ------------------------------------------------------------
+
+SELECT
+    COUNT(*) AS gas_cut_events,
+
+    SUM(fuel_litres) AS gas_cut_litres
+
+FROM public.ago_dispatch
+
+WHERE LOWER(dispatch_type) = 'gas cut';
+
+
+-- ------------------------------------------------------------
+-- 4. Average AGO per Trip
+-- ------------------------------------------------------------
+
+SELECT
+    ROUND(
+        SUM(fuel_litres)
+        /
+        NULLIF(
+            COUNT(*) FILTER (
+                WHERE dispatch_type = 'trip'
+            ),
+            0
+        ),
+        2
+    ) AS average_ago_per_trip_litres
+
+FROM public.ago_dispatch;
+
+
+-- ------------------------------------------------------------
+-- 5. Monthly AGO Issued
+-- ------------------------------------------------------------
+
+SELECT
+    DATE_TRUNC('month', dispatch_date)::date AS month,
+
+    SUM(fuel_litres) AS ago_issued_litres
+
+FROM public.ago_dispatch
+
+GROUP BY
+    DATE_TRUNC('month', dispatch_date)
+
+ORDER BY
+    DATE_TRUNC('month', dispatch_date);
+
+
+-- ------------------------------------------------------------
+-- 6. Top 10 Fuel-Consuming Trucks
+-- ------------------------------------------------------------
+
+SELECT
+    truck_id,
+
+    SUM(fuel_litres) AS total_fuel_litres,
+
+    COUNT(*) FILTER (
+        WHERE dispatch_type = 'trip'
+    ) AS total_trips
+
+FROM public.ago_dispatch
+
+WHERE dispatch_type = 'trip'
+
+GROUP BY
+    truck_id
+
+ORDER BY
+    total_fuel_litres DESC
+
+LIMIT 10;
+
+
+-- ------------------------------------------------------------
+-- 7. Monthly Trip AGO vs Gas Cuts
+-- ------------------------------------------------------------
+
+SELECT
+    DATE_TRUNC('month', dispatch_date)::date AS month,
+
+    SUM(fuel_litres) FILTER (
+        WHERE dispatch_type = 'trip'
+    ) AS trip_ago_litres,
+
+    SUM(fuel_litres) FILTER (
+        WHERE LOWER(dispatch_type) = 'gas cut'
+    ) AS gas_cut_litres,
+
+    COUNT(*) FILTER (
+        WHERE LOWER(dispatch_type) = 'gas cut'
+    ) AS gas_cut_events
+
+FROM public.ago_dispatch
+
+GROUP BY
+    DATE_TRUNC('month', dispatch_date)
+
+ORDER BY
+    DATE_TRUNC('month', dispatch_date);
+
+
+-- ------------------------------------------------------------
+-- 8. Truck with Highest Fuel Consumption
+-- ------------------------------------------------------------
+
+SELECT
+    truck_id,
+
+    SUM(fuel_litres) AS total_fuel_litres
+
+FROM public.ago_dispatch
+
+WHERE dispatch_type = 'trip'
+
+GROUP BY
+    truck_id
+
+ORDER BY
+    total_fuel_litres DESC
+
+LIMIT 1;
