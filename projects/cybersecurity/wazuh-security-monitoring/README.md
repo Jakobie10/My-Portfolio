@@ -144,16 +144,15 @@ The following evidence confirms the successful activation of the Wazuh agent:
 
 #### 🪟 Windows Wazuh Agent
 
-A Wazuh agent was also installed on the Windows Server endpoint. The Windows Services console was used to verify that the **Wazuh** service was running and configured for automatic startup.
+A Wazuh agent was also installed on the Windows Server endpoint. The Windows Services console was used to verify that the Wazuh service was running and configured for automatic startup.
 
 <div align="center">
   <img 
-    src="../../../assets/images/projects/cybersecurity/01-windows-wazuh-agent-service.png" 
-    alt="Wazuh Agent Running as a Windows Service" 
+    src="../../../assets/images/projects/cybersecurity/01-windows-wazuh-agent-service.png"
+    alt="Wazuh Agent Running as a Windows Service"
     width="1000">
 </div>
-</p>
-<p align="left" style="margin-top: -15px;">
+<p align="left" style="margin-top: 0px;">
   <em>Screenshot showing the Wazuh agent successfully installed and running as a Windows service, confirming that the HIDS agent is active.</em>
 </p>
 
@@ -165,12 +164,12 @@ After configuring the agents, the Wazuh dashboard was used to verify that the mo
 Both **Win-Server-ARO** and **Ubuntu-Aro** appear in the Active Agents section with an **Active** status.
 
 <div align="center">
- <p align="center">
-  <img src="../../../assets/images/projects/cybersecurity/03-wazuh-active-endpoints.png"
-       alt="Wazuh Active Endpoints"
-       width="1000">
+  <img 
+    src="../../../assets/images/projects/cybersecurity/03-wazuh-active-endpoints.png"
+    alt="Wazuh Active Endpoints"
+    width="1000">
 </div>
-<p align="left" style="margin-top: -15px;">
+<p align="left" style="margin-top: 0px;">
   <em>Screenshot showing Win-Server-ARO and Ubuntu-Aro listed as active endpoints in the Wazuh dashboard.</em>
 </p>
 
@@ -188,13 +187,15 @@ The purpose of the testing was not to gain unauthorized access, but to generate 
 
 A controlled SSH dictionary-based authentication test was performed against the Ubuntu endpoint using Hydra. The test generated repeated SSH authentication attempts, providing Wazuh with security events that could be analyzed for suspicious login behavior.
 
-<p align="center">
-  <img src="../../../assets/images/projects/cybersecurity/04-kali-hydra-ssh-attack.png"
-       alt="Kali Linux Hydra SSH Authentication Testing"
-       width="1000">
+<div align="center">
+  <img 
+    src="../../../assets/images/projects/cybersecurity/04-kali-hydra-ssh-attack.png"
+    alt="Kali Linux Hydra SSH Authentication Testing"
+    width="1000">
+</div>
+<p align="left" style="margin-top: 0px;">
+  <em>Screenshot showing the controlled Hydra SSH authentication test running from the Kali Linux laboratory environment.</em>
 </p>
-
-> **Screenshot showing the controlled Hydra SSH authentication test running from the Kali Linux laboratory environment.**
 
 The generated authentication failures were subsequently captured by the Wazuh agent running on the Ubuntu endpoint and forwarded to the Wazuh Manager for analysis.
 
@@ -202,13 +203,15 @@ The generated authentication failures were subsequently captured by the Wazuh ag
 
 The Wazuh Security Events interface was then examined to determine whether the authentication activity had been detected.
 
-<p align="center">
-  <img src="../../../assets/images/projects/cybersecurity/05-wazuh-security-events-authentication-alerts.png"
-       alt="Wazuh SSH Authentication Failure Alerts"
-       width="1000">
+<div align="center">
+  <img 
+    src="../../../assets/images/projects/cybersecurity/05-wazuh-security-events-authentication-alerts.png"
+    alt="Wazuh SSH Authentication Failure Alerts"
+    width="1000">
+</div>
+<p align="left" style="margin-top: 0px;">
+  <em>Screenshot showing Wazuh security events associated with SSH authentication failures and multiple failed login attempts.</em>
 </p>
-
-> **Screenshot showing Wazuh security events associated with SSH authentication failures and multiple failed login attempts.**
 
 The alerts included events such as **“sshd: authentication failed”** and **“PAM: Multiple failed logins in short period,”** demonstrating that the activity generated recognizable security events within the SIEM. :contentReference[oaicite:0]{index=0}
 
@@ -220,13 +223,15 @@ A second controlled authentication test was performed against the Windows Server
 
 The objective was to determine whether unsuccessful RDP authentication attempts would generate Windows security events that could be collected and analyzed by Wazuh.
 
-<p align="center">
-  <img src="../../../assets/images/projects/cybersecurity/06-kali-hydra-rdp-attack.png"
-       alt="Kali Linux Hydra RDP Authentication Testing"
-       width="1000">
+<div align="center">
+  <img 
+    src="../../../assets/images/projects/cybersecurity/06-kali-hydra-rdp-attack.png"
+    alt="Kali Linux Hydra RDP Authentication Testing"
+    width="1000">
+</div>
+<p align="left" style="margin-top: 0px;">
+  <em>Screenshot showing the controlled Hydra RDP authentication test running against the Windows Server laboratory endpoint.</em>
 </p>
-
-> **Screenshot showing the controlled Hydra RDP authentication test running against the Windows Server laboratory endpoint.**
 
 The unsuccessful authentication attempts generated Windows security events that were subsequently collected by the Wazuh agent and analyzed by the Wazuh Manager.
 
@@ -234,19 +239,17 @@ The unsuccessful authentication attempts generated Windows security events that 
 
 The Wazuh dashboard was used to investigate the events generated during the controlled RDP testing.
 
-<p align="center">
-  <img src="../../../assets/images/projects/cybersecurity/07-wazuh-windows-logon-privileged-alerts.png"
-       alt="Wazuh Windows Logon and Privileged Operation Alerts"
-       width="1000">
+<div align="center">
+  <img 
+    src="../../../assets/images/projects/cybersecurity/07-wazuh-windows-logon-privileged-alerts.png"
+    alt="Wazuh Windows Logon and Privileged Operation Alerts"
+    width="1000">
+</div>
+<p align="left" style="margin-top: 0px;">
+  <em>Screenshot showing Wazuh alerts for Windows logon failures and failed privileged operations.</em>
 </p>
 
-> **Screenshot showing Wazuh alerts for Windows logon failures and failed privileged operations.**
-
-The detected Windows events included **“Logon Failure – Unknown user or bad password”** and **“Multiple Windows Logon Failures.”** The project documentation also records a **failed attempt to perform a privileged operation** among the Windows alerts. :contentReference[oaicite:1]{index=1}
-
-Together, these results demonstrate the complete monitoring workflow:
-
-**Controlled Authentication Activity → Endpoint Security Events → Wazuh Agent → Wazuh Manager → Security Alerts → Investigation**
+The detected Windows events included **“Logon Failure – Unknown user or bad password”** and **“Multiple Windows Logon Failures.”** The project documentation also records a **failed attempt to perform a privileged operation** among the Windows alerts.
 
 ---
 
@@ -262,7 +265,7 @@ The SSH authentication testing generated multiple security events on the Ubuntu 
 - **Maximum authentication attempts exceeded**
 - **PAM: Multiple failed logins in a short period**
 
-These alerts demonstrate how repeated authentication failures can provide an early indicator of a potential brute-force or credential-guessing attempt. :contentReference[oaicite:0]{index=0}
+These alerts demonstrate how repeated authentication failures can provide an early indicator of a potential brute-force or credential-guessing attempt.
 
 ### 🪟 Windows Detection Results
 
@@ -274,7 +277,7 @@ The detected events included:
 - **Multiple Windows Logon Failures**
 - **Failed attempt to perform a privileged operation**
 
-These events demonstrate Wazuh's ability to provide centralized visibility into Windows authentication and security activity. :contentReference[oaicite:1]{index=1}
+These events demonstrate Wazuh's ability to provide centralized visibility into Windows authentication and security activity.
 
 ---
 
@@ -296,11 +299,7 @@ The project demonstrated the following security-monitoring capabilities:
 | **Centralized Visibility** | Events from multiple operating systems were available through one monitoring platform |
 | **Security Investigation** | Generated alerts could be reviewed and analyzed through the Wazuh dashboard |
 
-The sample alerts recorded during the project included severity levels ranging from **5 to 10**, demonstrating how Wazuh classified different security events according to its predefined rules. :contentReference[oaicite:2]{index=2}
-
-The testing therefore demonstrated a complete security-monitoring cycle:
-
-**Monitor → Collect → Detect → Alert → Investigate**
+The sample alerts recorded during the project included severity levels ranging from **5 to 10**, demonstrating how Wazuh classified different security events according to its predefined rules.
 
 ---
 
@@ -338,12 +337,12 @@ The completed project demonstrated that Wazuh can provide centralized security v
 
 The implementation successfully achieved the primary monitoring goals:
 
-- **Deployed HIDS agents** on Ubuntu and Windows Server endpoints.
-- **Registered and monitored active endpoints** through the Wazuh dashboard.
-- **Collected authentication and security events** from both operating systems.
-- **Detected repeated authentication failures** generated during controlled security testing.
-- **Generated and categorized security alerts** based on predefined Wazuh detection rules.
-- **Provided centralized visibility** for investigating security events across multiple endpoints.
+- Deployed HIDS agents on Ubuntu and Windows Server endpoints.
+- Registered and monitored active endpoints through the Wazuh dashboard.
+- Collected authentication and security events from both operating systems.
+- Detected repeated authentication failures generated during controlled security testing.
+- Generated and categorized security alerts based on predefined Wazuh detection rules.
+- Provided centralized visibility for investigating security events across multiple endpoints.
 
 The project demonstrates how organizations can use SIEM and HIDS technologies to improve security awareness, identify suspicious authentication activity, and support incident investigation.
 
@@ -355,26 +354,26 @@ From a business perspective, centralized monitoring can help security teams redu
 
 This project strengthened my understanding of how endpoint security monitoring and SIEM platforms work together to detect and investigate suspicious activity.
 
-One of the most important lessons I learned was that **security visibility is essential for effective defense**. Authentication failures occurring on individual systems can easily become difficult to identify when there is no centralized monitoring platform. Wazuh provided a single location where events from both Linux and Windows endpoints could be reviewed and analyzed.
+One of the most important lessons I learned was that security visibility is essential for effective defense. Authentication failures occurring on individual systems can easily become difficult to identify when there is no centralized monitoring platform. Wazuh provided a single location where events from both Linux and Windows endpoints could be reviewed and analyzed.
 
 I also learned how different operating systems generate different security events and how a SIEM can normalize and correlate these events to provide a broader security perspective.
 
 The controlled testing further demonstrated why organizations should implement strong password policies, authentication monitoring, account protection, least-privilege access, and login rate-limiting controls.
 
-Most importantly, this project reinforced the principle that cybersecurity should be approached from a **defensive and ethical perspective**. Understanding how attacks generate observable indicators helps security professionals build stronger controls for detecting and mitigating those threats.
+Most importantly, this project reinforced the principle that cybersecurity should be approached from a defensive and ethical perspective. Understanding how attacks generate observable indicators helps security professionals build stronger controls for detecting and mitigating those threats.
 
 ---
 
 ## 🏆 Key Achievements
 
-- Deployed and configured Wazuh HIDS agents on **Ubuntu Server and Windows Server**.
-- Successfully registered and verified both endpoints in the **Wazuh Manager**.
-- Established centralized security monitoring through the **Wazuh SIEM dashboard**.
+- Deployed and configured Wazuh HIDS agents on Ubuntu Server and Windows Server.
+- Successfully registered and verified both endpoints in the Wazuh Manager.
+- Established centralized security monitoring through the Wazuh SIEM dashboard.
 - Generated controlled authentication activity within an isolated laboratory environment.
 - Successfully detected SSH authentication failures on the Ubuntu endpoint.
 - Successfully detected Windows logon failures and privileged-operation events.
 - Analyzed security alerts and their associated severity levels.
-- Demonstrated the complete security-monitoring workflow from **event generation to detection and investigation**.
+- Demonstrated the complete security-monitoring workflow from event generation to detection and investigation.
 - Applied cybersecurity concepts in an ethical, controlled, and educational environment.
 
 ---
