@@ -20,7 +20,7 @@ Developed an interactive Business Intelligence solution that transforms fleet op
 
 Power BI • Tableau • Excel • Power Query • DAX • SQL
 
-**[Expore This Project →](business-intelligence/malco-dashboard/README.md)**
+**[Explore This Project →](business-intelligence/malco-dashboard/README.md)**
 
 ---
 
@@ -40,7 +40,7 @@ Designed and deployed a secure Ubuntu Server infrastructure on AWS, implementing
 
 Ubuntu Server • AWS EC2 • Apache2 • Bind9 DNS • LVM • SSH • UFW
 
-**[Expore This Project →](systems-administration/linux-infrastructure/README.md)**
+**[Explore This Project →](systems-administration/linux-infrastructure/README.md)**
 
 ---
 
@@ -60,7 +60,7 @@ Managed and developed a professional website for Ouelessebougou Alliance to prom
 
 Squarespace • Website Design • Project Management
 
-**[Expore This Project →](web-development/ouelessebougou-alliance/README.md)**
+**[Explore This Project →](web-development/ouelessebougou-alliance/README.md)**
 
 ---
 
@@ -80,7 +80,7 @@ Designed an interactive PowerPoint-based game that helps learners prepare for th
 
 Microsoft PowerPoint • AWS Fundamentals • Interactive Learning
 
-**[Expore This Project →](interactive-projects/aws-cloud-hero-quiz/README.md)**
+**[Explore This Project →](interactive-projects/aws-cloud-hero-quiz/README.md)**
 
 ---
 
@@ -100,7 +100,7 @@ Designed a secure, scalable, and cost-effective hybrid cloud architecture for on
 
 AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaster Recovery
 
-**[Expore This Project →](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
+**[Explore This Project →](cloud-computing/jumia-hybrid-cloud-solution/README.md)**
 
 ---
 
@@ -114,13 +114,13 @@ AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaste
 
 ### Enterprise Security Monitoring with Wazuh
 
-A comprehensive Security Information and Event Management (SIEM) solution featuring log analysis, threat detection, vulnerability monitoring, and incident response.
+Implemented a centralized Security Information and Event Management (SIEM) environment using Wazuh to monitor Linux and Windows endpoints, analyze security events, detect authentication failures, and support threat investigation.
 
 **Key Technologies**
 
-Wazuh • Linux • Elastic Stack • MITRE ATT&CK
+Wazuh • Linux • Windows Server • Kali Linux • SIEM • HIDS
 
-**[Expore This Project →](cybersecurity/wazuh-security-monitoring/README.md)**
+**[Explore This Project →](cybersecurity/wazuh-security-monitoring/README.md)**
 
 ---
 
