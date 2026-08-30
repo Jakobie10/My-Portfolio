@@ -1,6 +1,6 @@
 # 👤 About Me
 
-## Hello, I am Olabisi James Arowosoye
+## Hello, I'm Olabisi James Arowosoye
 
 I am an Information Technology professional passionate about designing technology solutions that solve real business problems, improve operational efficiency, and support organizational growth. I earned a Bachelor of Applied Science in Information Technology from Ensign College, where I developed a strong foundation in cloud computing, cybersecurity, Linux administration, business intelligence, systems administration, networking, database management, scripting, and technical support.
 
@@ -8,7 +8,7 @@ My career began in logistics and operations management, where I gained several y
 
 Throughout my academic journey and professional career, I have designed cloud infrastructure, deployed secure Linux server environments, developed interactive Business Intelligence dashboards, implemented cybersecurity solutions, provided technical support, and built modern web applications. The projects in this portfolio demonstrate my ability to apply technology to real-world problems through practical problem-solving, analytical thinking, and a commitment to industry best practices.
 
-Professionally, I currently serve as a Business Intelligence & Data Analyst in the truck logistics industry and as a Co-Founder of a facilities management company. These experiences have strengthened my ability to analyze complex challenges, collaborate with teams, communicate effectively with stakeholders, and develop solutions that create practical business value.
+Professionally, I currently serve as a Business Intelligence & Data Analyst within the truck logistics industry and as a Co-Founder of a facilities management company. These experiences have strengthened my ability to analyze complex challenges, collaborate with teams, communicate effectively with stakeholders, and develop technology solutions that create practical business value.
 
 As a lifelong learner, I believe integrity, service, continuous learning, and excellence should guide every aspect of my professional life. I strive to build secure, scalable, and reliable technology solutions while continually expanding my knowledge and using my skills to serve organizations, communities, and individuals.
 
@@ -33,11 +33,12 @@ I am interested in opportunities where I can contribute as a Cloud Engineer, Sys
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 Throughout my academic journey at Ensign College and my professional career, I have developed practical experience across cloud computing, systems administration, cybersecurity, business intelligence, networking, scripting, database management, and technical support. I continue to strengthen these skills through hands-on projects, professional experience, and continuous learning.
 
-#### ☁️ Cloud Computing
+### ☁️ Cloud Computing
 
 - Amazon Web Services (AWS)
 - Microsoft Azure
@@ -51,7 +52,7 @@ Throughout my academic journey at Ensign College and my professional career, I h
 - Disaster Recovery Planning
 - Hybrid Cloud Architecture
 
-#### 🐧 Systems Administration
+### 🐧 Systems Administration
 
 - Ubuntu Server 24.04 LTS
 - Windows Server 2022
@@ -65,7 +66,7 @@ Throughout my academic journey at Ensign College and my professional career, I h
 - Logical Volume Manager (LVM)
 - UFW Firewall
 
-#### 🛡️ Cybersecurity
+### 🛡️ Cybersecurity
 
 - Security Hardening
 - Vulnerability Assessment
@@ -77,7 +78,7 @@ Throughout my academic journey at Ensign College and my professional career, I h
 - Access Control
 - Security Best Practices
 
-#### 📊 Business Intelligence & Data Analytics
+### 📊 Business Intelligence & Data Analytics
 
 - Microsoft Power BI
 - Tableau
@@ -90,7 +91,7 @@ Throughout my academic journey at Ensign College and my professional career, I h
 - Business Intelligence
 - Data Visualization
 
-#### 🗄️ Databases
+### 🗄️ Databases
 
 - PostgreSQL
 - Microsoft SQL Server
@@ -99,7 +100,7 @@ Throughout my academic journey at Ensign College and my professional career, I h
 - Data Modeling
 - Query Optimization
 
-#### 🌐 Networking
+### 🌐 Networking
 
 - TCP/IP
 - Routing & Switching
@@ -109,7 +110,7 @@ Throughout my academic journey at Ensign College and my professional career, I h
 - Network Troubleshooting
 - Cisco Packet Tracer
 
-#### 💻 Programming & Scripting
+### 💻 Programming & Scripting
 
 - Python
 - Bash
@@ -119,7 +120,7 @@ Throughout my academic journey at Ensign College and my professional career, I h
 - CSS
 - JavaScript (Basic)
 
-#### 🛠️ Technical Support
+### 🛠️ Technical Support
 
 - Microsoft 365
 - Windows Administration
