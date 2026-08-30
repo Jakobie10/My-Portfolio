@@ -42,7 +42,7 @@ The project also included controlled security testing using Kali Linux to genera
 
 ### 🔐 Controlled Laboratory Environment
 
-**Important:** This project was performed entirely within a contained and controlled virtual laboratory environment specifically established for educational purposes under the supervision of the Ensign College IT department.*
+***Important:** This project was performed entirely within a contained and controlled virtual laboratory environment specifically established for educational purposes under the supervision of the Ensign College IT department.*
 
 *All virtual machines used in this project were created and configured by me specifically for my coursework and security labs. They were not personal computers or systems belonging to other individuals or organizations.*
 
