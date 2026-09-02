@@ -7,7 +7,7 @@ Welcome to my project portfolio. These projects demonstrate my experience in bus
 ## 📊 Business Intelligence
 
 <p align="center">
-  <a href="business-intelligence/malco-dashboard/README.md">
+  <a href="business-intelligence/malco-dashboard/">
     <img src="../assets/images/projects/malco-dashboard-thumbnail.png" alt="MALCO Fleet Performance Dashboard" width="850">
   </a>
 </p>
@@ -27,7 +27,7 @@ Power BI • Tableau • Excel • Power Query • DAX • SQL
 ## 🐧 Systems Administration
 
 <p align="center">
-  <a href="systems-administration/linux-infrastructure/README.md">
+  <a href="systems-administration/linux-infrastructure/">
     <img src="../assets/images/projects/enterprise-linux-thumbnail.png" alt="Linux Infrastructure Deployment" width="850">
   </a>
 </p>
@@ -47,7 +47,7 @@ Ubuntu Server • AWS EC2 • Apache2 • Bind9 DNS • LVM • SSH • UFW
 ## 🌍 Web Development
 
 <p align="center">
-  <a href="web-development/ouelessebougou-alliance/README.md">
+  <a href="web-development/ouelessebougou-alliance/">
     <img src="../assets/images/projects/african-market-thumbnail.png" alt="Ouélessébougou Alliance" width="850">
   </a>
 </p>
@@ -67,7 +67,7 @@ Squarespace • Website Design • Project Management
 ## 🎮 Interactive Learning
 
 <p align="center">
-  <a href="interactive-projects/aws-cloud-hero-quiz/README.md">
+  <a href="interactive-projects/aws-cloud-hero-quiz/">
     <img src="../assets/images/projects/aws-cloud-hero-thumbnail.png" alt="AWS Cloud Hero Quiz Game" width="850">
   </a>
 </p>
@@ -87,7 +87,7 @@ Microsoft PowerPoint • AWS Fundamentals • Interactive Learning
 ## ☁️ Cloud Computing
 
 <p align="center">
-  <a href="cloud-computing/jumia-hybrid-cloud-solution/README.md">
+  <a href="cloud-computing/jumia-hybrid-cloud-solution/">
     <img src="../assets/images/projects/jumia-cloud-thumbnail.png" alt="Jumia Cloud Infrastructure Project" width="850">
   </a>
 </p>
@@ -107,7 +107,7 @@ AWS • EC2 • VPC • IAM • CloudFront • Elastic Load Balancer • Disaste
 ## 🛡️ Cybersecurity
 
 <p align="center">
-  <a href="cybersecurity/wazuh-security-monitoring/README.md">
+  <a href="cybersecurity/wazuh-security-monitoring/">
     <img src="../assets/images/projects/wazuh-security-thumbnail.png" alt="Enterprise Security Monitoring with Wazuh" width="850">
   </a>
 </p>
