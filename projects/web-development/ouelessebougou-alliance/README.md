@@ -304,7 +304,6 @@ The store incorporated original product photographs supplied for the African Mar
 
 *Selected original product photographs used in the African Market Online Store.*
 
-
 ---
 
 ### 🎥 Behind the Store
@@ -315,10 +314,6 @@ A visual walkthrough of the Squarespace backend demonstrates the hands-on e-comm
   <a href="https://youtu.be/2XIlFPwdOD0" target="_blank">
     <img src="../../../assets/images/projects/african-market-video-thumbnail.png" width="850">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/2XIlFPwdOD0" target="_blank">
 </p>
 
 *Silent visual walkthrough of the Squarespace store management process.*
