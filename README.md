@@ -67,7 +67,7 @@ My technical experience spans cloud computing, systems administration, business 
         <sub><b><a href="./about/#technical-skills">Python</a></b></sub>
       </td>
     </tr>
-  </table>
+ <table align="center">
 
   <!-- Row 2 -->
 <table align="center">
@@ -115,7 +115,7 @@ My technical experience spans cloud computing, systems administration, business 
         <sub><b><a href="./about/#technical-skills">CSS</a></b></sub>
       </td>
     </tr>
-  </table>
+ <table align="center">
 </div>
 
 ---
