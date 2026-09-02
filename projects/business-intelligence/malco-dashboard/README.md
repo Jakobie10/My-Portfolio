@@ -11,8 +11,8 @@
 
 ---
 ---
-| **Project Information** | **Details** |
-|-------------------------|-------------|
+| Project Information | Details |
+|---------------------|---------|
 | **Project Type** | End-to-End Business Intelligence Solution |
 | **Role** | Business Intelligence Analyst |
 | **Industry** | Logistics & Transportation |
