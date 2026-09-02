@@ -22,7 +22,7 @@ My technical experience spans cloud computing, systems administration, business 
 
 <div align="center">
   <!-- Row 1 -->
- <table align="center">
+  <table align="center" style="margin: 0 auto; text-align: center;">
     <tr>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
@@ -70,7 +70,7 @@ My technical experience spans cloud computing, systems administration, business 
   </table>
 
   <!-- Row 2 -->
-<table align="center">
+  <table align="center" style="margin: 0 auto; text-align: center;">
     <tr>
       <td align="center" valign="top" width="90">
         <a href="./about/#technical-skills">
