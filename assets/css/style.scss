@@ -10,7 +10,7 @@
     color: #c9d1d9 !important;
   }
 
-  /* Headings & Text */
+  /* Headings, Text & Bolding */
   h1, h2, h3, h4, h5, h6, strong, b {
     color: #f0f6fc !important;
   }
@@ -24,13 +24,27 @@
     color: #8b949e !important;
   }
 
-  /* Dividers & Tables */
+  /* Dividers */
   hr {
     background-color: #30363d !important;
   }
 
-  table, th, td {
+  /* Fix for Project Information Tables & Icon Containers */
+  table, tr, td, th, div {
+    background-color: #161b22 !important;
+    color: #c9d1d9 !important;
     border-color: #30363d !important;
+  }
+
+  /* Table Headers specifically */
+  th {
+    background-color: #21262d !important;
+    color: #f0f6fc !important;
+  }
+
+  /* Ensure bold text inside tables stays white/bright */
+  td strong, td b, th strong, th b {
+    color: #f0f6fc !important;
   }
 
   /* Code blocks */
