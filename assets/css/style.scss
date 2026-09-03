@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Automatic Dark Mode based on device system settings */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #0d1117 !important;
+    color: #c9d1d9 !important;
+  }
+
+  /* Headings & Text */
+  h1, h2, h3, h4, h5, h6, strong, b {
+    color: #f0f6fc !important;
+  }
+
+  /* Links */
+  a {
+    color: #58a6ff !important;
+  }
+
+  a:visited {
+    color: #8b949e !important;
+  }
+
+  /* Dividers & Tables */
+  hr {
+    background-color: #30363d !important;
+  }
+
+  table, th, td {
+    border-color: #30363d !important;
+  }
+
+  /* Code blocks */
+  code, pre {
+    background-color: #161b22 !important;
+    color: #c9d1d9 !important;
+  }
+}
